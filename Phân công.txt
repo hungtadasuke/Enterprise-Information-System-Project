@@ -1,0 +1,4 @@
+Hoàng: Vẽ DFD mức 2 của xử lý Quản lý danh mục, lập bảng 15 câu hỏi cho doanh nghiệp.
+Huy: Vẽ DFD mức 2 của xử lý nhập hàng, vẽ lược đồ CSDL.
+Khoa: Vẽ DFD mức 2 cửa xử lý thống kê báo cáo, vẽ ERD.
+Deadline: 19/3.
