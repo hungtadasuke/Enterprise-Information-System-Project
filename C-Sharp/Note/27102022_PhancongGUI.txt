@@ -1,0 +1,33 @@
+Tên cửa hàng: FiveChip Mart.
+1. Các form menu. 
+2. Đăng nhập.
+3. Nhóm hàng (search keyword).
+4. Hàng hóa (nhóm hàng, tên, giá tiền from, giá tiền to, DVT).
+5. Nhân viên (chức vụ, tên, giới tính).
+6. Nhà cung cấp (search keyword).
+7. Khách hàng (tên, giới tính, SDT).
+8. Bán hàng.
+9. Phiếu chi (dateFrom, dateTo, thanhTienFrom, thanhtienTo).
+10. Hóa đơn (dateFrom, dateTo, thanhTienFrom, thanhtienTo).
+11. Phiếu nhập (dateFrom, dateTo, thanhTienFrom, thanhtienTo) + Nhập hàng form.
+12. Thống kê (hàng hóa (dateFrom, dateTo), doanh thu (day, month, year), nhân viên, khách hàng).
+
+--PHÂN CÔNG--
+1. Khoa: 12
+2. Hùng: 4, 8.
+3. Hoàng: 2, 3, 5.
+4. Uy: 10, 7, 6.
+5. Huy: 1, 11, 9.
+
+--LƯU Ý--
+1. Các form được code trong project GUI, tên form bắt đầu bằng frm_. Fx: frmProductManager, frmCustomerManager,...
+2. Tên các cấu trúc class (biến, method, tên của các thành phần trong một form), form viết bằng ENGLISH. Cái gì hiển thị được trên form thì set by TIẾNG VIỆT.
+3. Tên class, Method đặt theo quy tắc PascalCase. Fx: Student, GetUser(),...
+4. Tên biến thành viên, biến tham số, biến cục bộ tuân theo camelCase. Fx: productName,...
+5. Chú thích mục đích, input, ouput trên mỗi method để mọi người có thể trao đổi code với nhau.
+6. Nếu trong method, có dòng code nào khó hiểu cũng chú thích ngay.
+7. Trong quá trình triển khai, nếu gặp vấn đề nào khó giải quyết thì feedbacks với nhóm để tìm hướng giải quyết.
+8. Đặt tên các label, button, textbox,... phải kèm cả tiền tố ngoài trước. Fx: lblUsername, txtUername, btnSignIn,...
+9. Cái gì nhấp vào được thì set cursor hand cho nó.
+
+

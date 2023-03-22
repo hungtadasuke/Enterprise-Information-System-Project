@@ -1,0 +1,966 @@
+D:\C#\DoAn\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\C#\DoAn\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.csproj.SuggestedBindingRedirects.cache
+D:\C#\DoAn\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmSell.resources
+D:\C#\DoAn\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\C#\DoAn\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\C#\DoAn\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\C#\DoAn\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\GUI.exe.config
+D:\C#\DoAn\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\GUI.exe
+D:\C#\DoAn\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\GUI.pdb
+D:\C#\DoAn\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.exe
+D:\C#\DoAn\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.pdb
+C:\Users\Administrator\Desktop\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\GUI.exe.config
+C:\Users\Administrator\Desktop\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\GUI.exe
+C:\Users\Administrator\Desktop\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\GUI.pdb
+C:\Users\Administrator\Desktop\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmSell.resources
+C:\Users\Administrator\Desktop\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\Administrator\Desktop\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.exe
+C:\Users\Administrator\Desktop\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.pdb
+C:\Users\dangk\Desktop\git\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\GUI.exe.config
+C:\Users\dangk\Desktop\git\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\GUI.exe
+C:\Users\dangk\Desktop\git\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\GUI.pdb
+C:\Users\dangk\Desktop\git\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\dangk\Desktop\git\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\dangk\Desktop\git\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmSell.resources
+C:\Users\dangk\Desktop\git\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\dangk\Desktop\git\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\dangk\Desktop\git\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\dangk\Desktop\git\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.exe
+C:\Users\dangk\Desktop\git\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.pdb
+C:\Users\vovan\Downloads\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\GUI.exe.config
+C:\Users\vovan\Downloads\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\GUI.exe
+C:\Users\vovan\Downloads\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\GUI.pdb
+C:\Users\vovan\Downloads\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\vovan\Downloads\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\vovan\Downloads\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmSell.resources
+C:\Users\vovan\Downloads\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\vovan\Downloads\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\vovan\Downloads\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\vovan\Downloads\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.exe
+C:\Users\vovan\Downloads\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.pdb
+D:\C#\ProjectC#\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\GUI.exe.config
+D:\C#\ProjectC#\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\GUI.exe
+D:\C#\ProjectC#\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\GUI.pdb
+D:\C#\ProjectC#\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\C#\ProjectC#\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.csproj.SuggestedBindingRedirects.cache
+D:\C#\ProjectC#\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmSell.resources
+D:\C#\ProjectC#\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\C#\ProjectC#\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\C#\ProjectC#\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\C#\ProjectC#\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.exe
+D:\C#\ProjectC#\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.pdb
+D:\C#\ProjectC#\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\BUS.dll
+D:\C#\ProjectC#\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\DTO.dll
+D:\C#\ProjectC#\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\BUS.pdb
+D:\C#\ProjectC#\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\DTO.pdb
+D:\C#\ProjectC#\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\dangk\Desktop\git\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\BUS.dll
+C:\Users\dangk\Desktop\git\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\DTO.dll
+C:\Users\dangk\Desktop\git\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\BUS.pdb
+C:\Users\dangk\Desktop\git\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\DTO.pdb
+C:\Users\dangk\Desktop\git\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmStatistics.resources
+C:\Users\dangk\Desktop\git\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.csproj.CopyComplete
+D:\ProjectC#New\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\GUI.exe.config
+D:\ProjectC#New\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\GUI.exe
+D:\ProjectC#New\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\GUI.pdb
+D:\ProjectC#New\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\BUS.dll
+D:\ProjectC#New\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\DTO.dll
+D:\ProjectC#New\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\DAO.dll
+D:\ProjectC#New\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\BUS.pdb
+D:\ProjectC#New\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\DTO.pdb
+D:\ProjectC#New\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\DAO.pdb
+D:\ProjectC#New\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\ProjectC#New\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.csproj.SuggestedBindingRedirects.cache
+D:\ProjectC#New\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmStatistics.resources
+D:\ProjectC#New\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\ProjectC#New\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\ProjectC#New\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\ProjectC#New\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.csproj.CopyComplete
+D:\ProjectC#New\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.exe
+D:\ProjectC#New\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.pdb
+D:\ProjectC#New\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmProductManagement.resources
+D:\ProjectC#New\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmSell.resources
+C:\Users\dangk\Desktop\git\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\DAO.dll
+C:\Users\dangk\Desktop\git\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\DAO.pdb
+C:\Users\dangk\Desktop\git\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmProductManagement.resources
+C:\Users\dangk\Desktop\git\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmProductSta.resources
+C:\Users\dangk\Desktop\git\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmStaffSta.resources
+C:\Users\dangk\Desktop\git\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmCustomerSta.resources
+C:\Users\dangk\Desktop\git\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmRevenueSta.resources
+C:\Users\Khoa\Desktop\git\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\GUI.exe.config
+C:\Users\Khoa\Desktop\git\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\GUI.exe
+C:\Users\Khoa\Desktop\git\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\GUI.pdb
+C:\Users\Khoa\Desktop\git\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\BUS.dll
+C:\Users\Khoa\Desktop\git\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\DTO.dll
+C:\Users\Khoa\Desktop\git\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\DAO.dll
+C:\Users\Khoa\Desktop\git\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\BUS.pdb
+C:\Users\Khoa\Desktop\git\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\DTO.pdb
+C:\Users\Khoa\Desktop\git\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\DAO.pdb
+C:\Users\Khoa\Desktop\git\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\Khoa\Desktop\git\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\Khoa\Desktop\git\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmProductManagement.resources
+C:\Users\Khoa\Desktop\git\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmStaffSta.resources
+C:\Users\Khoa\Desktop\git\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmCustomerSta.resources
+C:\Users\Khoa\Desktop\git\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmRevenueSta.resources
+C:\Users\Khoa\Desktop\git\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmProductSta.resources
+C:\Users\Khoa\Desktop\git\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmSell.resources
+C:\Users\Khoa\Desktop\git\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmStatistics.resources
+C:\Users\Khoa\Desktop\git\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\Khoa\Desktop\git\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\Khoa\Desktop\git\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\Khoa\Desktop\git\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\Khoa\Desktop\git\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.exe
+C:\Users\Khoa\Desktop\git\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.pdb
+C:\Users\Administrator\Desktop\new\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\new\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmLogin.resources
+C:\Users\Administrator\Desktop\new\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmProductManagement.resources
+C:\Users\Administrator\Desktop\new\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmStaff.resources
+C:\Users\Administrator\Desktop\new\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.RJControls.RJComboBox.resources
+C:\Users\Administrator\Desktop\new\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.RJControls.RJTextBox.resources
+C:\Users\Administrator\Desktop\new\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmCustomerSta.resources
+C:\Users\Administrator\Desktop\new\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmProductSta.resources
+C:\Users\Administrator\Desktop\new\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmStaffSta.resources
+C:\Users\Administrator\Desktop\new\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmRevenueSta.resources
+C:\Users\Administrator\Desktop\new\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmSell.resources
+C:\Users\Administrator\Desktop\new\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmStatistics.resources
+C:\Users\Administrator\Desktop\new\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\Administrator\Desktop\new\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\new\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\new\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.exe
+C:\Users\Administrator\Desktop\new\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.pdb
+C:\Users\Administrator\Desktop\new\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\GUI.exe.config
+C:\Users\Administrator\Desktop\new\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\GUI.exe
+C:\Users\Administrator\Desktop\new\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\GUI.pdb
+C:\Users\Administrator\Desktop\new\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\BUS.dll
+C:\Users\Administrator\Desktop\new\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\DTO.dll
+C:\Users\Administrator\Desktop\new\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\DAO.dll
+C:\Users\Administrator\Desktop\new\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\BUS.pdb
+C:\Users\Administrator\Desktop\new\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\DTO.pdb
+C:\Users\Administrator\Desktop\new\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\DAO.pdb
+C:\Users\Administrator\Desktop\new\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\Administrator\Desktop\filengonnhat\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\GUI.exe.config
+C:\Users\Administrator\Desktop\filengonnhat\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\GUI.exe
+C:\Users\Administrator\Desktop\filengonnhat\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\GUI.pdb
+C:\Users\Administrator\Desktop\filengonnhat\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\BUS.dll
+C:\Users\Administrator\Desktop\filengonnhat\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\DTO.dll
+C:\Users\Administrator\Desktop\filengonnhat\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\DAO.dll
+C:\Users\Administrator\Desktop\filengonnhat\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\BUS.pdb
+C:\Users\Administrator\Desktop\filengonnhat\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\DTO.pdb
+C:\Users\Administrator\Desktop\filengonnhat\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\DAO.pdb
+C:\Users\Administrator\Desktop\filengonnhat\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\filengonnhat\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmLogin.resources
+C:\Users\Administrator\Desktop\filengonnhat\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmProductManagement.resources
+C:\Users\Administrator\Desktop\filengonnhat\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmStaff.resources
+C:\Users\Administrator\Desktop\filengonnhat\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.RJControls.RJComboBox.resources
+C:\Users\Administrator\Desktop\filengonnhat\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.RJControls.RJTextBox.resources
+C:\Users\Administrator\Desktop\filengonnhat\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmCustomerSta.resources
+C:\Users\Administrator\Desktop\filengonnhat\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmProductSta.resources
+C:\Users\Administrator\Desktop\filengonnhat\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmStaffSta.resources
+C:\Users\Administrator\Desktop\filengonnhat\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmRevenueSta.resources
+C:\Users\Administrator\Desktop\filengonnhat\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmSell.resources
+C:\Users\Administrator\Desktop\filengonnhat\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmStatistics.resources
+C:\Users\Administrator\Desktop\filengonnhat\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\Administrator\Desktop\filengonnhat\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\filengonnhat\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\filengonnhat\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\Administrator\Desktop\filengonnhat\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.exe
+C:\Users\Administrator\Desktop\filengonnhat\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.pdb
+C:\Users\Administrator\Desktop\filengonnhat\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmCategory.resources
+C:\Users\Administrator\Desktop\filengonnhat\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.RJControls.FormMessageBox.resources
+C:\Users\Administrator\Desktop\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\GUI.exe.config
+C:\Users\Administrator\Desktop\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\GUI.exe
+C:\Users\Administrator\Desktop\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\GUI.pdb
+C:\Users\Administrator\Desktop\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\BUS.dll
+C:\Users\Administrator\Desktop\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\DTO.dll
+C:\Users\Administrator\Desktop\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\DAO.dll
+C:\Users\Administrator\Desktop\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\BUS.pdb
+C:\Users\Administrator\Desktop\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\DTO.pdb
+C:\Users\Administrator\Desktop\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\DAO.pdb
+C:\Users\Administrator\Desktop\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.RJControls.FormMessageBox.resources
+C:\Users\Administrator\Desktop\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmCategory.resources
+C:\Users\Administrator\Desktop\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmLogin.resources
+C:\Users\Administrator\Desktop\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmProductManagement.resources
+C:\Users\Administrator\Desktop\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmStaff.resources
+C:\Users\Administrator\Desktop\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.RJControls.RJComboBox.resources
+C:\Users\Administrator\Desktop\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.RJControls.RJTextBox.resources
+C:\Users\Administrator\Desktop\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmCustomerSta.resources
+C:\Users\Administrator\Desktop\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmProductSta.resources
+C:\Users\Administrator\Desktop\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmStaffSta.resources
+C:\Users\Administrator\Desktop\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmRevenueSta.resources
+C:\Users\Administrator\Desktop\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmSell.resources
+C:\Users\Administrator\Desktop\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmStatistics.resources
+C:\Users\Administrator\Desktop\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\Administrator\Desktop\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\Administrator\Desktop\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.exe
+C:\Users\Administrator\Desktop\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.pdb
+C:\Users\Administrator\Desktop\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.RJControls.RJTextBox2.resources
+C:\Users\dangk\Desktop\HOÀNG\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\dangk\Desktop\HOÀNG\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\dangk\Desktop\HOÀNG\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.RJControls.FormMessageBox.resources
+C:\Users\dangk\Desktop\HOÀNG\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmCategory.resources
+C:\Users\dangk\Desktop\HOÀNG\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmLogin.resources
+C:\Users\dangk\Desktop\HOÀNG\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmProductManagement.resources
+C:\Users\dangk\Desktop\HOÀNG\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmStaff.resources
+C:\Users\dangk\Desktop\HOÀNG\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.RJControls.RJComboBox.resources
+C:\Users\dangk\Desktop\HOÀNG\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.RJControls.RJTextBox.resources
+C:\Users\dangk\Desktop\HOÀNG\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.RJControls.RJTextBox2.resources
+C:\Users\dangk\Desktop\HOÀNG\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmSell.resources
+C:\Users\dangk\Desktop\HOÀNG\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmStatistics.resources
+C:\Users\dangk\Desktop\HOÀNG\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\dangk\Desktop\HOÀNG\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\dangk\Desktop\HOÀNG\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\dangk\Desktop\HOÀNG\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.exe
+C:\Users\dangk\Desktop\HOÀNG\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.pdb
+C:\Users\dangk\Desktop\HOÀNG\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmCustomerSta.resources
+C:\Users\dangk\Desktop\HOÀNG\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmProductSta.resources
+C:\Users\dangk\Desktop\HOÀNG\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmRevenueSta.resources
+C:\Users\dangk\Desktop\HOÀNG\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmStaffSta.resources
+C:\Users\dangk\Desktop\HOÀNG\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\GUI.exe.config
+C:\Users\dangk\Desktop\HOÀNG\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\GUI.exe
+C:\Users\dangk\Desktop\HOÀNG\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\GUI.pdb
+C:\Users\dangk\Desktop\HOÀNG\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\BUS.dll
+C:\Users\dangk\Desktop\HOÀNG\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\DTO.dll
+C:\Users\dangk\Desktop\HOÀNG\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\dangk\Desktop\HOÀNG\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\DAO.dll
+C:\Users\dangk\Desktop\HOÀNG\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\EPPlus.dll
+C:\Users\dangk\Desktop\HOÀNG\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\dangk\Desktop\HOÀNG\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\dangk\Desktop\HOÀNG\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\BUS.pdb
+C:\Users\dangk\Desktop\HOÀNG\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\DTO.pdb
+C:\Users\dangk\Desktop\HOÀNG\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\dangk\Desktop\HOÀNG\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\DAO.pdb
+C:\Users\dangk\Desktop\HOÀNG\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\EPPlus.xml
+C:\Users\dangk\Desktop\HOÀNG\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\dangk\Desktop\HOÀNG KHOA NGON Nhất\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\dangk\Desktop\HOÀNG KHOA NGON Nhất\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\dangk\Desktop\HOÀNG KHOA NGON Nhất\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmBill.resources
+C:\Users\dangk\Desktop\HOÀNG KHOA NGON Nhất\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmCustomer.resources
+C:\Users\dangk\Desktop\HOÀNG KHOA NGON Nhất\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmStatistics.resources
+C:\Users\dangk\Desktop\HOÀNG KHOA NGON Nhất\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmSupplier.resources
+C:\Users\dangk\Desktop\HOÀNG KHOA NGON Nhất\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.HRJControls.HRJTextBox.resources
+C:\Users\dangk\Desktop\HOÀNG KHOA NGON Nhất\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.RJControls.FormMessageBox.resources
+C:\Users\dangk\Desktop\HOÀNG KHOA NGON Nhất\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmCategory.resources
+C:\Users\dangk\Desktop\HOÀNG KHOA NGON Nhất\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmLogin.resources
+C:\Users\dangk\Desktop\HOÀNG KHOA NGON Nhất\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmProductManagement.resources
+C:\Users\dangk\Desktop\HOÀNG KHOA NGON Nhất\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmStaff.resources
+C:\Users\dangk\Desktop\HOÀNG KHOA NGON Nhất\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.RJControls.RJComboBox.resources
+C:\Users\dangk\Desktop\HOÀNG KHOA NGON Nhất\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.RJControls.RJTextBox.resources
+C:\Users\dangk\Desktop\HOÀNG KHOA NGON Nhất\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.RJControls.RJTextBox2.resources
+C:\Users\dangk\Desktop\HOÀNG KHOA NGON Nhất\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmSell.resources
+C:\Users\dangk\Desktop\HOÀNG KHOA NGON Nhất\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\dangk\Desktop\HOÀNG KHOA NGON Nhất\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmCustomerSta.resources
+C:\Users\dangk\Desktop\HOÀNG KHOA NGON Nhất\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmProductSta.resources
+C:\Users\dangk\Desktop\HOÀNG KHOA NGON Nhất\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmRevenueSta.resources
+C:\Users\dangk\Desktop\HOÀNG KHOA NGON Nhất\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmStaffSta.resources
+C:\Users\dangk\Desktop\HOÀNG KHOA NGON Nhất\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\dangk\Desktop\HOÀNG KHOA NGON Nhất\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\dangk\Desktop\HOÀNG KHOA NGON Nhất\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.exe
+C:\Users\dangk\Desktop\HOÀNG KHOA NGON Nhất\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.pdb
+C:\Users\dangk\Desktop\HOÀNG KHOA NGON Nhất\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\GUI.exe.config
+C:\Users\dangk\Desktop\HOÀNG KHOA NGON Nhất\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\GUI.exe
+C:\Users\dangk\Desktop\HOÀNG KHOA NGON Nhất\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\GUI.pdb
+C:\Users\dangk\Desktop\HOÀNG KHOA NGON Nhất\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\BUS.dll
+C:\Users\dangk\Desktop\HOÀNG KHOA NGON Nhất\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\DTO.dll
+C:\Users\dangk\Desktop\HOÀNG KHOA NGON Nhất\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\dangk\Desktop\HOÀNG KHOA NGON Nhất\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\DAO.dll
+C:\Users\dangk\Desktop\HOÀNG KHOA NGON Nhất\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\EPPlus.dll
+C:\Users\dangk\Desktop\HOÀNG KHOA NGON Nhất\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\dangk\Desktop\HOÀNG KHOA NGON Nhất\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\dangk\Desktop\HOÀNG KHOA NGON Nhất\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\BUS.pdb
+C:\Users\dangk\Desktop\HOÀNG KHOA NGON Nhất\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\DTO.pdb
+C:\Users\dangk\Desktop\HOÀNG KHOA NGON Nhất\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\dangk\Desktop\HOÀNG KHOA NGON Nhất\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\DAO.pdb
+C:\Users\dangk\Desktop\HOÀNG KHOA NGON Nhất\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\EPPlus.xml
+C:\Users\dangk\Desktop\HOÀNG KHOA NGON Nhất\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.csproj.CopyComplete
+D:\SGU_course\C#_nhom12\5aesieunhan\hoang, khoa, hung\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\SGU_course\C#_nhom12\5aesieunhan\hoang, khoa, hung\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.csproj.SuggestedBindingRedirects.cache
+D:\SGU_course\C#_nhom12\5aesieunhan\hoang, khoa, hung\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmBill.resources
+D:\SGU_course\C#_nhom12\5aesieunhan\hoang, khoa, hung\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmCustomer.resources
+D:\SGU_course\C#_nhom12\5aesieunhan\hoang, khoa, hung\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmSell.resources
+D:\SGU_course\C#_nhom12\5aesieunhan\hoang, khoa, hung\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmStatistics.resources
+D:\SGU_course\C#_nhom12\5aesieunhan\hoang, khoa, hung\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmSupplier.resources
+D:\SGU_course\C#_nhom12\5aesieunhan\hoang, khoa, hung\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.HRJControls.HRJTextBox.resources
+D:\SGU_course\C#_nhom12\5aesieunhan\hoang, khoa, hung\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.RJControls.FormMessageBox.resources
+D:\SGU_course\C#_nhom12\5aesieunhan\hoang, khoa, hung\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmCategory.resources
+D:\SGU_course\C#_nhom12\5aesieunhan\hoang, khoa, hung\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmLogin.resources
+D:\SGU_course\C#_nhom12\5aesieunhan\hoang, khoa, hung\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmProductManagement.resources
+D:\SGU_course\C#_nhom12\5aesieunhan\hoang, khoa, hung\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmStaff.resources
+D:\SGU_course\C#_nhom12\5aesieunhan\hoang, khoa, hung\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.RJControls.RJComboBox.resources
+D:\SGU_course\C#_nhom12\5aesieunhan\hoang, khoa, hung\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.RJControls.RJTextBox.resources
+D:\SGU_course\C#_nhom12\5aesieunhan\hoang, khoa, hung\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.RJControls.RJTextBox2.resources
+D:\SGU_course\C#_nhom12\5aesieunhan\hoang, khoa, hung\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\SGU_course\C#_nhom12\5aesieunhan\hoang, khoa, hung\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmCustomerSta.resources
+D:\SGU_course\C#_nhom12\5aesieunhan\hoang, khoa, hung\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmProductSta.resources
+D:\SGU_course\C#_nhom12\5aesieunhan\hoang, khoa, hung\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmRevenueSta.resources
+D:\SGU_course\C#_nhom12\5aesieunhan\hoang, khoa, hung\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmStaffSta.resources
+D:\SGU_course\C#_nhom12\5aesieunhan\hoang, khoa, hung\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\SGU_course\C#_nhom12\5aesieunhan\hoang, khoa, hung\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\SGU_course\C#_nhom12\5aesieunhan\hoang, khoa, hung\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.exe
+D:\SGU_course\C#_nhom12\5aesieunhan\hoang, khoa, hung\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.pdb
+D:\SGU_course\C#_nhom12\5aesieunhan\hoang, khoa, hung\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\GUI.exe.config
+D:\SGU_course\C#_nhom12\5aesieunhan\hoang, khoa, hung\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\GUI.exe
+D:\SGU_course\C#_nhom12\5aesieunhan\hoang, khoa, hung\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\GUI.pdb
+D:\SGU_course\C#_nhom12\5aesieunhan\hoang, khoa, hung\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\BUS.dll
+D:\SGU_course\C#_nhom12\5aesieunhan\hoang, khoa, hung\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\DTO.dll
+D:\SGU_course\C#_nhom12\5aesieunhan\hoang, khoa, hung\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\SGU_course\C#_nhom12\5aesieunhan\hoang, khoa, hung\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\DAO.dll
+D:\SGU_course\C#_nhom12\5aesieunhan\hoang, khoa, hung\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\EPPlus.dll
+D:\SGU_course\C#_nhom12\5aesieunhan\hoang, khoa, hung\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\EPPlus.Interfaces.dll
+D:\SGU_course\C#_nhom12\5aesieunhan\hoang, khoa, hung\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\EPPlus.System.Drawing.dll
+D:\SGU_course\C#_nhom12\5aesieunhan\hoang, khoa, hung\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\BUS.pdb
+D:\SGU_course\C#_nhom12\5aesieunhan\hoang, khoa, hung\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\DTO.pdb
+D:\SGU_course\C#_nhom12\5aesieunhan\hoang, khoa, hung\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\SGU_course\C#_nhom12\5aesieunhan\hoang, khoa, hung\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\DAO.pdb
+D:\SGU_course\C#_nhom12\5aesieunhan\hoang, khoa, hung\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\EPPlus.xml
+D:\SGU_course\C#_nhom12\5aesieunhan\hoang, khoa, hung\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.csproj.CopyComplete
+D:\SGU_course\C#_nhom12\5aesieunhan\hoang, khoa, hung\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmMainMenu.resources
+D:\SGU_course\C#_nhom12\5aesieunhan\hoang, khoa, hung\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmFastPayment.resources
+D:\SGU_course\C#_nhom12\5aesieunhan\hoang, khoa, hung\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmInventoryReceivingVoucher.resources
+D:\SGU_course\C#_nhom12\5aesieunhan\hoang, khoa, hung\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmInventoryReceivingVoucherDetail.resources
+D:\SGU_course\C#_nhom12\5aesieunhan\hoang, khoa, hung\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmPaymentVoucher.resources
+D:\SGU_course\C#_nhom12\5aesieunhan\hoang, khoa, hung\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.panelHintProduct.resources
+D:\SGU_course\C#_nhom12\5aesieunhan\hoang, khoa, hung\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.panelIRVDProduct.resources
+D:\SGU_course\C#_nhom12\5aesieunhan\hoang, khoa, hung\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.RJTextBox.resources
+C:\Users\vovan\Downloads\provipno1\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\GUI.exe.config
+C:\Users\vovan\Downloads\provipno1\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\GUI.exe
+C:\Users\vovan\Downloads\provipno1\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\GUI.pdb
+C:\Users\vovan\Downloads\provipno1\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\BUS.dll
+C:\Users\vovan\Downloads\provipno1\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\DTO.dll
+C:\Users\vovan\Downloads\provipno1\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\vovan\Downloads\provipno1\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\DAO.dll
+C:\Users\vovan\Downloads\provipno1\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\EPPlus.dll
+C:\Users\vovan\Downloads\provipno1\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\vovan\Downloads\provipno1\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\vovan\Downloads\provipno1\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\BUS.pdb
+C:\Users\vovan\Downloads\provipno1\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\DTO.pdb
+C:\Users\vovan\Downloads\provipno1\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\vovan\Downloads\provipno1\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\DAO.pdb
+C:\Users\vovan\Downloads\provipno1\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\EPPlus.xml
+C:\Users\vovan\Downloads\provipno1\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\vovan\Downloads\provipno1\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\vovan\Downloads\provipno1\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.panelHintProduct.resources
+C:\Users\vovan\Downloads\provipno1\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.panelIRVDProduct.resources
+C:\Users\vovan\Downloads\provipno1\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.RJTextBox.resources
+C:\Users\vovan\Downloads\provipno1\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmBill.resources
+C:\Users\vovan\Downloads\provipno1\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmCustomer.resources
+C:\Users\vovan\Downloads\provipno1\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmFastPayment.resources
+C:\Users\vovan\Downloads\provipno1\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmInventoryReceivingVoucher.resources
+C:\Users\vovan\Downloads\provipno1\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmInventoryReceivingVoucherDetail.resources
+C:\Users\vovan\Downloads\provipno1\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmMainMenu.resources
+C:\Users\vovan\Downloads\provipno1\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmPaymentVoucher.resources
+C:\Users\vovan\Downloads\provipno1\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmSell.resources
+C:\Users\vovan\Downloads\provipno1\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmStatistics.resources
+C:\Users\vovan\Downloads\provipno1\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmSupplier.resources
+C:\Users\vovan\Downloads\provipno1\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.HRJControls.HRJTextBox.resources
+C:\Users\vovan\Downloads\provipno1\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.RJControls.FormMessageBox.resources
+C:\Users\vovan\Downloads\provipno1\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmCategory.resources
+C:\Users\vovan\Downloads\provipno1\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmLogin.resources
+C:\Users\vovan\Downloads\provipno1\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmProductManagement.resources
+C:\Users\vovan\Downloads\provipno1\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmStaff.resources
+C:\Users\vovan\Downloads\provipno1\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.RJControls.RJComboBox.resources
+C:\Users\vovan\Downloads\provipno1\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.RJControls.RJTextBox.resources
+C:\Users\vovan\Downloads\provipno1\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.RJControls.RJTextBox2.resources
+C:\Users\vovan\Downloads\provipno1\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\vovan\Downloads\provipno1\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmCustomerSta.resources
+C:\Users\vovan\Downloads\provipno1\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmProductSta.resources
+C:\Users\vovan\Downloads\provipno1\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmRevenueSta.resources
+C:\Users\vovan\Downloads\provipno1\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmStaffSta.resources
+C:\Users\vovan\Downloads\provipno1\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\vovan\Downloads\provipno1\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\vovan\Downloads\provipno1\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\vovan\Downloads\provipno1\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.exe
+C:\Users\vovan\Downloads\provipno1\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.pdb
+C:\Users\THIS PC\Downloads\provipno1\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\GUI.exe.config
+C:\Users\THIS PC\Downloads\provipno1\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\GUI.exe
+C:\Users\THIS PC\Downloads\provipno1\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\GUI.pdb
+C:\Users\THIS PC\Downloads\provipno1\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\BUS.dll
+C:\Users\THIS PC\Downloads\provipno1\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\DTO.dll
+C:\Users\THIS PC\Downloads\provipno1\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\THIS PC\Downloads\provipno1\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\DAO.dll
+C:\Users\THIS PC\Downloads\provipno1\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\EPPlus.dll
+C:\Users\THIS PC\Downloads\provipno1\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\THIS PC\Downloads\provipno1\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\THIS PC\Downloads\provipno1\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\BUS.pdb
+C:\Users\THIS PC\Downloads\provipno1\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\DTO.pdb
+C:\Users\THIS PC\Downloads\provipno1\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\THIS PC\Downloads\provipno1\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\DAO.pdb
+C:\Users\THIS PC\Downloads\provipno1\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\EPPlus.xml
+C:\Users\THIS PC\Downloads\provipno1\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\THIS PC\Downloads\provipno1\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\THIS PC\Downloads\provipno1\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.panelHintProduct.resources
+C:\Users\THIS PC\Downloads\provipno1\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.panelIRVDProduct.resources
+C:\Users\THIS PC\Downloads\provipno1\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.RJTextBox.resources
+C:\Users\THIS PC\Downloads\provipno1\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmBill.resources
+C:\Users\THIS PC\Downloads\provipno1\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmCustomer.resources
+C:\Users\THIS PC\Downloads\provipno1\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmFastPayment.resources
+C:\Users\THIS PC\Downloads\provipno1\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmInventoryReceivingVoucher.resources
+C:\Users\THIS PC\Downloads\provipno1\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmInventoryReceivingVoucherDetail.resources
+C:\Users\THIS PC\Downloads\provipno1\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmMainMenu.resources
+C:\Users\THIS PC\Downloads\provipno1\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmPaymentVoucher.resources
+C:\Users\THIS PC\Downloads\provipno1\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmSell.resources
+C:\Users\THIS PC\Downloads\provipno1\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmStatistics.resources
+C:\Users\THIS PC\Downloads\provipno1\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmSupplier.resources
+C:\Users\THIS PC\Downloads\provipno1\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.HRJControls.HRJTextBox.resources
+C:\Users\THIS PC\Downloads\provipno1\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.RJControls.FormMessageBox.resources
+C:\Users\THIS PC\Downloads\provipno1\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmCategory.resources
+C:\Users\THIS PC\Downloads\provipno1\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmLogin.resources
+C:\Users\THIS PC\Downloads\provipno1\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmProductManagement.resources
+C:\Users\THIS PC\Downloads\provipno1\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmStaff.resources
+C:\Users\THIS PC\Downloads\provipno1\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.RJControls.RJComboBox.resources
+C:\Users\THIS PC\Downloads\provipno1\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.RJControls.RJTextBox.resources
+C:\Users\THIS PC\Downloads\provipno1\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.RJControls.RJTextBox2.resources
+C:\Users\THIS PC\Downloads\provipno1\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\THIS PC\Downloads\provipno1\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmCustomerSta.resources
+C:\Users\THIS PC\Downloads\provipno1\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmProductSta.resources
+C:\Users\THIS PC\Downloads\provipno1\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmRevenueSta.resources
+C:\Users\THIS PC\Downloads\provipno1\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmStaffSta.resources
+C:\Users\THIS PC\Downloads\provipno1\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\THIS PC\Downloads\provipno1\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\THIS PC\Downloads\provipno1\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\THIS PC\Downloads\provipno1\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.exe
+C:\Users\THIS PC\Downloads\provipno1\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.pdb
+C:\Users\dangk\Desktop\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\GUI.exe.config
+C:\Users\dangk\Desktop\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\GUI.exe
+C:\Users\dangk\Desktop\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\GUI.pdb
+C:\Users\dangk\Desktop\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\BUS.dll
+C:\Users\dangk\Desktop\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\DTO.dll
+C:\Users\dangk\Desktop\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\dangk\Desktop\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\DAO.dll
+C:\Users\dangk\Desktop\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\EPPlus.dll
+C:\Users\dangk\Desktop\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\dangk\Desktop\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\dangk\Desktop\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\BUS.pdb
+C:\Users\dangk\Desktop\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\DTO.pdb
+C:\Users\dangk\Desktop\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\dangk\Desktop\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\DAO.pdb
+C:\Users\dangk\Desktop\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\EPPlus.xml
+C:\Users\dangk\Desktop\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\dangk\Desktop\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\dangk\Desktop\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.panelHintProduct.resources
+C:\Users\dangk\Desktop\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.panelIRVDProduct.resources
+C:\Users\dangk\Desktop\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.RJTextBox.resources
+C:\Users\dangk\Desktop\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmBill.resources
+C:\Users\dangk\Desktop\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmCustomer.resources
+C:\Users\dangk\Desktop\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmFastPayment.resources
+C:\Users\dangk\Desktop\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmInventoryReceivingVoucher.resources
+C:\Users\dangk\Desktop\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmInventoryReceivingVoucherDetail.resources
+C:\Users\dangk\Desktop\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmMainMenu.resources
+C:\Users\dangk\Desktop\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmPaymentVoucher.resources
+C:\Users\dangk\Desktop\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmSell.resources
+C:\Users\dangk\Desktop\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmStatistics.resources
+C:\Users\dangk\Desktop\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmSupplier.resources
+C:\Users\dangk\Desktop\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.HRJControls.HRJTextBox.resources
+C:\Users\dangk\Desktop\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.RJControls.FormMessageBox.resources
+C:\Users\dangk\Desktop\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmCategory.resources
+C:\Users\dangk\Desktop\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmLogin.resources
+C:\Users\dangk\Desktop\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmProductManagement.resources
+C:\Users\dangk\Desktop\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmStaff.resources
+C:\Users\dangk\Desktop\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.RJControls.RJComboBox.resources
+C:\Users\dangk\Desktop\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.RJControls.RJTextBox.resources
+C:\Users\dangk\Desktop\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.RJControls.RJTextBox2.resources
+C:\Users\dangk\Desktop\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\dangk\Desktop\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmCustomerSta.resources
+C:\Users\dangk\Desktop\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmProductSta.resources
+C:\Users\dangk\Desktop\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmRevenueSta.resources
+C:\Users\dangk\Desktop\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmStaffSta.resources
+C:\Users\dangk\Desktop\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\dangk\Desktop\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\dangk\Desktop\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\dangk\Desktop\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.exe
+C:\Users\dangk\Desktop\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.pdb
+D:\SGU_course\C#_nhom12\5aesieunhan\provipno1-khoa\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\GUI.exe.config
+D:\SGU_course\C#_nhom12\5aesieunhan\provipno1-khoa\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\GUI.exe
+D:\SGU_course\C#_nhom12\5aesieunhan\provipno1-khoa\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\GUI.pdb
+D:\SGU_course\C#_nhom12\5aesieunhan\provipno1-khoa\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\BUS.dll
+D:\SGU_course\C#_nhom12\5aesieunhan\provipno1-khoa\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\DTO.dll
+D:\SGU_course\C#_nhom12\5aesieunhan\provipno1-khoa\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\SGU_course\C#_nhom12\5aesieunhan\provipno1-khoa\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\DAO.dll
+D:\SGU_course\C#_nhom12\5aesieunhan\provipno1-khoa\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\EPPlus.dll
+D:\SGU_course\C#_nhom12\5aesieunhan\provipno1-khoa\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\EPPlus.Interfaces.dll
+D:\SGU_course\C#_nhom12\5aesieunhan\provipno1-khoa\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\EPPlus.System.Drawing.dll
+D:\SGU_course\C#_nhom12\5aesieunhan\provipno1-khoa\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\BUS.pdb
+D:\SGU_course\C#_nhom12\5aesieunhan\provipno1-khoa\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\DTO.pdb
+D:\SGU_course\C#_nhom12\5aesieunhan\provipno1-khoa\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\SGU_course\C#_nhom12\5aesieunhan\provipno1-khoa\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\DAO.pdb
+D:\SGU_course\C#_nhom12\5aesieunhan\provipno1-khoa\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\EPPlus.xml
+D:\SGU_course\C#_nhom12\5aesieunhan\provipno1-khoa\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\SGU_course\C#_nhom12\5aesieunhan\provipno1-khoa\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.csproj.SuggestedBindingRedirects.cache
+D:\SGU_course\C#_nhom12\5aesieunhan\provipno1-khoa\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.panelHintProduct.resources
+D:\SGU_course\C#_nhom12\5aesieunhan\provipno1-khoa\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.panelIRVDProduct.resources
+D:\SGU_course\C#_nhom12\5aesieunhan\provipno1-khoa\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.RJTextBox.resources
+D:\SGU_course\C#_nhom12\5aesieunhan\provipno1-khoa\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmBill.resources
+D:\SGU_course\C#_nhom12\5aesieunhan\provipno1-khoa\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmCustomer.resources
+D:\SGU_course\C#_nhom12\5aesieunhan\provipno1-khoa\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmFastPayment.resources
+D:\SGU_course\C#_nhom12\5aesieunhan\provipno1-khoa\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmInventoryReceivingVoucher.resources
+D:\SGU_course\C#_nhom12\5aesieunhan\provipno1-khoa\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmInventoryReceivingVoucherDetail.resources
+D:\SGU_course\C#_nhom12\5aesieunhan\provipno1-khoa\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmMainMenu.resources
+D:\SGU_course\C#_nhom12\5aesieunhan\provipno1-khoa\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmPaymentVoucher.resources
+D:\SGU_course\C#_nhom12\5aesieunhan\provipno1-khoa\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmSell.resources
+D:\SGU_course\C#_nhom12\5aesieunhan\provipno1-khoa\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmStatistics.resources
+D:\SGU_course\C#_nhom12\5aesieunhan\provipno1-khoa\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmSupplier.resources
+D:\SGU_course\C#_nhom12\5aesieunhan\provipno1-khoa\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.HRJControls.HRJTextBox.resources
+D:\SGU_course\C#_nhom12\5aesieunhan\provipno1-khoa\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.RJControls.FormMessageBox.resources
+D:\SGU_course\C#_nhom12\5aesieunhan\provipno1-khoa\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmCategory.resources
+D:\SGU_course\C#_nhom12\5aesieunhan\provipno1-khoa\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmLogin.resources
+D:\SGU_course\C#_nhom12\5aesieunhan\provipno1-khoa\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmProductManagement.resources
+D:\SGU_course\C#_nhom12\5aesieunhan\provipno1-khoa\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmStaff.resources
+D:\SGU_course\C#_nhom12\5aesieunhan\provipno1-khoa\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.RJControls.RJComboBox.resources
+D:\SGU_course\C#_nhom12\5aesieunhan\provipno1-khoa\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.RJControls.RJTextBox.resources
+D:\SGU_course\C#_nhom12\5aesieunhan\provipno1-khoa\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.RJControls.RJTextBox2.resources
+D:\SGU_course\C#_nhom12\5aesieunhan\provipno1-khoa\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\SGU_course\C#_nhom12\5aesieunhan\provipno1-khoa\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmCustomerSta.resources
+D:\SGU_course\C#_nhom12\5aesieunhan\provipno1-khoa\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmProductSta.resources
+D:\SGU_course\C#_nhom12\5aesieunhan\provipno1-khoa\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmRevenueSta.resources
+D:\SGU_course\C#_nhom12\5aesieunhan\provipno1-khoa\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmStaffSta.resources
+D:\SGU_course\C#_nhom12\5aesieunhan\provipno1-khoa\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\SGU_course\C#_nhom12\5aesieunhan\provipno1-khoa\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\SGU_course\C#_nhom12\5aesieunhan\provipno1-khoa\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.csproj.CopyComplete
+D:\SGU_course\C#_nhom12\5aesieunhan\provipno1-khoa\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.exe
+D:\SGU_course\C#_nhom12\5aesieunhan\provipno1-khoa\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.pdb
+C:\Users\THIS PC\Downloads\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\bin\Debug\GUI.exe.config
+C:\Users\THIS PC\Downloads\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\bin\Debug\GUI.exe
+C:\Users\THIS PC\Downloads\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\bin\Debug\GUI.pdb
+C:\Users\THIS PC\Downloads\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\bin\Debug\BUS.dll
+C:\Users\THIS PC\Downloads\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\bin\Debug\DTO.dll
+C:\Users\THIS PC\Downloads\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\THIS PC\Downloads\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\bin\Debug\DAO.dll
+C:\Users\THIS PC\Downloads\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\bin\Debug\EPPlus.dll
+C:\Users\THIS PC\Downloads\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\THIS PC\Downloads\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\THIS PC\Downloads\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\bin\Debug\BUS.pdb
+C:\Users\THIS PC\Downloads\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\bin\Debug\DTO.pdb
+C:\Users\THIS PC\Downloads\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\THIS PC\Downloads\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\bin\Debug\DAO.pdb
+C:\Users\THIS PC\Downloads\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\bin\Debug\EPPlus.xml
+C:\Users\THIS PC\Downloads\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\THIS PC\Downloads\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\THIS PC\Downloads\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.panelHintProduct.resources
+C:\Users\THIS PC\Downloads\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.panelIRVDProduct.resources
+C:\Users\THIS PC\Downloads\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.RJTextBox.resources
+C:\Users\THIS PC\Downloads\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmBill.resources
+C:\Users\THIS PC\Downloads\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmCustomer.resources
+C:\Users\THIS PC\Downloads\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmFastPayment.resources
+C:\Users\THIS PC\Downloads\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmInventoryReceivingVoucher.resources
+C:\Users\THIS PC\Downloads\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmInventoryReceivingVoucherDetail.resources
+C:\Users\THIS PC\Downloads\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmMainMenu.resources
+C:\Users\THIS PC\Downloads\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmPaymentVoucher.resources
+C:\Users\THIS PC\Downloads\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmSell.resources
+C:\Users\THIS PC\Downloads\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmStatistics.resources
+C:\Users\THIS PC\Downloads\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmSupplier.resources
+C:\Users\THIS PC\Downloads\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.HRJControls.HRJTextBox.resources
+C:\Users\THIS PC\Downloads\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.RJControls.FormMessageBox.resources
+C:\Users\THIS PC\Downloads\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmCategory.resources
+C:\Users\THIS PC\Downloads\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmLogin.resources
+C:\Users\THIS PC\Downloads\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmProductManagement.resources
+C:\Users\THIS PC\Downloads\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmStaff.resources
+C:\Users\THIS PC\Downloads\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.RJControls.RJComboBox.resources
+C:\Users\THIS PC\Downloads\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.RJControls.RJTextBox.resources
+C:\Users\THIS PC\Downloads\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.RJControls.RJTextBox2.resources
+C:\Users\THIS PC\Downloads\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\THIS PC\Downloads\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmCustomerSta.resources
+C:\Users\THIS PC\Downloads\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmProductSta.resources
+C:\Users\THIS PC\Downloads\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmRevenueSta.resources
+C:\Users\THIS PC\Downloads\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmStaffSta.resources
+C:\Users\THIS PC\Downloads\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\THIS PC\Downloads\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\THIS PC\Downloads\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\THIS PC\Downloads\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.exe
+C:\Users\THIS PC\Downloads\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.pdb
+D:\ProjectC#New\C-Sharp-provipno1\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\bin\Debug\GUI.exe.config
+D:\ProjectC#New\C-Sharp-provipno1\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\bin\Debug\GUI.exe
+D:\ProjectC#New\C-Sharp-provipno1\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\bin\Debug\GUI.pdb
+D:\ProjectC#New\C-Sharp-provipno1\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\bin\Debug\BUS.dll
+D:\ProjectC#New\C-Sharp-provipno1\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\bin\Debug\DTO.dll
+D:\ProjectC#New\C-Sharp-provipno1\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\ProjectC#New\C-Sharp-provipno1\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\bin\Debug\DAO.dll
+D:\ProjectC#New\C-Sharp-provipno1\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\bin\Debug\EPPlus.dll
+D:\ProjectC#New\C-Sharp-provipno1\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\bin\Debug\EPPlus.Interfaces.dll
+D:\ProjectC#New\C-Sharp-provipno1\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\bin\Debug\EPPlus.System.Drawing.dll
+D:\ProjectC#New\C-Sharp-provipno1\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\bin\Debug\BUS.pdb
+D:\ProjectC#New\C-Sharp-provipno1\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\bin\Debug\DTO.pdb
+D:\ProjectC#New\C-Sharp-provipno1\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\ProjectC#New\C-Sharp-provipno1\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\bin\Debug\DAO.pdb
+D:\ProjectC#New\C-Sharp-provipno1\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\bin\Debug\EPPlus.xml
+D:\ProjectC#New\C-Sharp-provipno1\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\ProjectC#New\C-Sharp-provipno1\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.csproj.SuggestedBindingRedirects.cache
+D:\ProjectC#New\C-Sharp-provipno1\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.panelHintProduct.resources
+D:\ProjectC#New\C-Sharp-provipno1\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.panelIRVDProduct.resources
+D:\ProjectC#New\C-Sharp-provipno1\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.RJTextBox.resources
+D:\ProjectC#New\C-Sharp-provipno1\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmBill.resources
+D:\ProjectC#New\C-Sharp-provipno1\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmCustomer.resources
+D:\ProjectC#New\C-Sharp-provipno1\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmFastPayment.resources
+D:\ProjectC#New\C-Sharp-provipno1\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmInventoryReceivingVoucher.resources
+D:\ProjectC#New\C-Sharp-provipno1\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmInventoryReceivingVoucherDetail.resources
+D:\ProjectC#New\C-Sharp-provipno1\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmMainMenu.resources
+D:\ProjectC#New\C-Sharp-provipno1\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmPaymentVoucher.resources
+D:\ProjectC#New\C-Sharp-provipno1\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmSell.resources
+D:\ProjectC#New\C-Sharp-provipno1\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmStatistics.resources
+D:\ProjectC#New\C-Sharp-provipno1\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmSupplier.resources
+D:\ProjectC#New\C-Sharp-provipno1\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.HRJControls.HRJTextBox.resources
+D:\ProjectC#New\C-Sharp-provipno1\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.RJControls.FormMessageBox.resources
+D:\ProjectC#New\C-Sharp-provipno1\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmCategory.resources
+D:\ProjectC#New\C-Sharp-provipno1\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmLogin.resources
+D:\ProjectC#New\C-Sharp-provipno1\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmProductManagement.resources
+D:\ProjectC#New\C-Sharp-provipno1\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmStaff.resources
+D:\ProjectC#New\C-Sharp-provipno1\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.RJControls.RJComboBox.resources
+D:\ProjectC#New\C-Sharp-provipno1\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.RJControls.RJTextBox.resources
+D:\ProjectC#New\C-Sharp-provipno1\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.RJControls.RJTextBox2.resources
+D:\ProjectC#New\C-Sharp-provipno1\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\ProjectC#New\C-Sharp-provipno1\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmCustomerSta.resources
+D:\ProjectC#New\C-Sharp-provipno1\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmProductSta.resources
+D:\ProjectC#New\C-Sharp-provipno1\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmRevenueSta.resources
+D:\ProjectC#New\C-Sharp-provipno1\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmStaffSta.resources
+D:\ProjectC#New\C-Sharp-provipno1\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\ProjectC#New\C-Sharp-provipno1\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\ProjectC#New\C-Sharp-provipno1\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.csproj.CopyComplete
+D:\ProjectC#New\C-Sharp-provipno1\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.exe
+D:\ProjectC#New\C-Sharp-provipno1\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.pdb
+C:\Users\THIS PC\Downloads\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\bin\Debug\GUI.exe.config
+C:\Users\THIS PC\Downloads\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\bin\Debug\GUI.exe
+C:\Users\THIS PC\Downloads\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\bin\Debug\GUI.pdb
+C:\Users\THIS PC\Downloads\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\bin\Debug\BUS.dll
+C:\Users\THIS PC\Downloads\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\bin\Debug\DTO.dll
+C:\Users\THIS PC\Downloads\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\THIS PC\Downloads\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\bin\Debug\DAO.dll
+C:\Users\THIS PC\Downloads\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\bin\Debug\EPPlus.dll
+C:\Users\THIS PC\Downloads\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\THIS PC\Downloads\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\THIS PC\Downloads\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\bin\Debug\BUS.pdb
+C:\Users\THIS PC\Downloads\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\bin\Debug\DTO.pdb
+C:\Users\THIS PC\Downloads\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\THIS PC\Downloads\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\bin\Debug\DAO.pdb
+C:\Users\THIS PC\Downloads\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\bin\Debug\EPPlus.xml
+C:\Users\THIS PC\Downloads\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\THIS PC\Downloads\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\THIS PC\Downloads\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.panelHintProduct.resources
+C:\Users\THIS PC\Downloads\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.panelIRVDProduct.resources
+C:\Users\THIS PC\Downloads\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.RJTextBox.resources
+C:\Users\THIS PC\Downloads\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmBill.resources
+C:\Users\THIS PC\Downloads\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmCustomer.resources
+C:\Users\THIS PC\Downloads\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmFastPayment.resources
+C:\Users\THIS PC\Downloads\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmInventoryReceivingVoucher.resources
+C:\Users\THIS PC\Downloads\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmInventoryReceivingVoucherDetail.resources
+C:\Users\THIS PC\Downloads\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmMainMenu.resources
+C:\Users\THIS PC\Downloads\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmPaymentVoucher.resources
+C:\Users\THIS PC\Downloads\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmSell.resources
+C:\Users\THIS PC\Downloads\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmStatistics.resources
+C:\Users\THIS PC\Downloads\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmSupplier.resources
+C:\Users\THIS PC\Downloads\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.HRJControls.HRJTextBox.resources
+C:\Users\THIS PC\Downloads\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.RJControls.FormMessageBox.resources
+C:\Users\THIS PC\Downloads\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmCategory.resources
+C:\Users\THIS PC\Downloads\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmLogin.resources
+C:\Users\THIS PC\Downloads\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmProductManagement.resources
+C:\Users\THIS PC\Downloads\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmStaff.resources
+C:\Users\THIS PC\Downloads\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.RJControls.RJComboBox.resources
+C:\Users\THIS PC\Downloads\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.RJControls.RJTextBox.resources
+C:\Users\THIS PC\Downloads\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.RJControls.RJTextBox2.resources
+C:\Users\THIS PC\Downloads\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\THIS PC\Downloads\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmCustomerSta.resources
+C:\Users\THIS PC\Downloads\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmProductSta.resources
+C:\Users\THIS PC\Downloads\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmRevenueSta.resources
+C:\Users\THIS PC\Downloads\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmStaffSta.resources
+C:\Users\THIS PC\Downloads\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\THIS PC\Downloads\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\THIS PC\Downloads\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\THIS PC\Downloads\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.exe
+C:\Users\THIS PC\Downloads\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.pdb
+D:\c#ToSubmit\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\bin\Debug\GUI.exe.config
+D:\c#ToSubmit\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\bin\Debug\GUI.exe
+D:\c#ToSubmit\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\bin\Debug\GUI.pdb
+D:\c#ToSubmit\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\bin\Debug\BUS.dll
+D:\c#ToSubmit\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\bin\Debug\DTO.dll
+D:\c#ToSubmit\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\c#ToSubmit\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\bin\Debug\DAO.dll
+D:\c#ToSubmit\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\bin\Debug\EPPlus.dll
+D:\c#ToSubmit\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\bin\Debug\EPPlus.Interfaces.dll
+D:\c#ToSubmit\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\bin\Debug\EPPlus.System.Drawing.dll
+D:\c#ToSubmit\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\bin\Debug\BUS.pdb
+D:\c#ToSubmit\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\bin\Debug\DTO.pdb
+D:\c#ToSubmit\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\c#ToSubmit\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\bin\Debug\DAO.pdb
+D:\c#ToSubmit\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\bin\Debug\EPPlus.xml
+D:\c#ToSubmit\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\c#ToSubmit\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.csproj.SuggestedBindingRedirects.cache
+D:\c#ToSubmit\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.panelHintProduct.resources
+D:\c#ToSubmit\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.panelIRVDProduct.resources
+D:\c#ToSubmit\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.RJTextBox.resources
+D:\c#ToSubmit\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmBill.resources
+D:\c#ToSubmit\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmCustomer.resources
+D:\c#ToSubmit\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmFastPayment.resources
+D:\c#ToSubmit\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmInventoryReceivingVoucher.resources
+D:\c#ToSubmit\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmInventoryReceivingVoucherDetail.resources
+D:\c#ToSubmit\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmMainMenu.resources
+D:\c#ToSubmit\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmPaymentVoucher.resources
+D:\c#ToSubmit\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmSell.resources
+D:\c#ToSubmit\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmStatistics.resources
+D:\c#ToSubmit\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmSupplier.resources
+D:\c#ToSubmit\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.HRJControls.HRJTextBox.resources
+D:\c#ToSubmit\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.RJControls.FormMessageBox.resources
+D:\c#ToSubmit\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmCategory.resources
+D:\c#ToSubmit\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmLogin.resources
+D:\c#ToSubmit\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmProductManagement.resources
+D:\c#ToSubmit\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmStaff.resources
+D:\c#ToSubmit\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.RJControls.RJComboBox.resources
+D:\c#ToSubmit\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.RJControls.RJTextBox.resources
+D:\c#ToSubmit\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.RJControls.RJTextBox2.resources
+D:\c#ToSubmit\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\c#ToSubmit\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmCustomerSta.resources
+D:\c#ToSubmit\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmProductSta.resources
+D:\c#ToSubmit\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmRevenueSta.resources
+D:\c#ToSubmit\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmStaffSta.resources
+D:\c#ToSubmit\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\c#ToSubmit\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\c#ToSubmit\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.csproj.CopyComplete
+D:\c#ToSubmit\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.exe
+D:\c#ToSubmit\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.pdb
+D:\SGU_course\C#_nhom12\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\bin\Debug\GUI.exe.config
+D:\SGU_course\C#_nhom12\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\bin\Debug\GUI.exe
+D:\SGU_course\C#_nhom12\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\bin\Debug\GUI.pdb
+D:\SGU_course\C#_nhom12\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\bin\Debug\BUS.dll
+D:\SGU_course\C#_nhom12\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\bin\Debug\DTO.dll
+D:\SGU_course\C#_nhom12\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\SGU_course\C#_nhom12\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\bin\Debug\DAO.dll
+D:\SGU_course\C#_nhom12\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\bin\Debug\EPPlus.dll
+D:\SGU_course\C#_nhom12\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\bin\Debug\EPPlus.Interfaces.dll
+D:\SGU_course\C#_nhom12\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\bin\Debug\EPPlus.System.Drawing.dll
+D:\SGU_course\C#_nhom12\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\bin\Debug\BUS.pdb
+D:\SGU_course\C#_nhom12\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\bin\Debug\DTO.pdb
+D:\SGU_course\C#_nhom12\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\SGU_course\C#_nhom12\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\bin\Debug\DAO.pdb
+D:\SGU_course\C#_nhom12\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\bin\Debug\EPPlus.xml
+D:\SGU_course\C#_nhom12\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\SGU_course\C#_nhom12\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.csproj.SuggestedBindingRedirects.cache
+D:\SGU_course\C#_nhom12\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.panelHintProduct.resources
+D:\SGU_course\C#_nhom12\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.panelIRVDProduct.resources
+D:\SGU_course\C#_nhom12\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.RJTextBox.resources
+D:\SGU_course\C#_nhom12\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmBill.resources
+D:\SGU_course\C#_nhom12\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmCustomer.resources
+D:\SGU_course\C#_nhom12\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmFastPayment.resources
+D:\SGU_course\C#_nhom12\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmInventoryReceivingVoucher.resources
+D:\SGU_course\C#_nhom12\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmInventoryReceivingVoucherDetail.resources
+D:\SGU_course\C#_nhom12\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmMainMenu.resources
+D:\SGU_course\C#_nhom12\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmPaymentVoucher.resources
+D:\SGU_course\C#_nhom12\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmSell.resources
+D:\SGU_course\C#_nhom12\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmStatistics.resources
+D:\SGU_course\C#_nhom12\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmSupplier.resources
+D:\SGU_course\C#_nhom12\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.HRJControls.HRJTextBox.resources
+D:\SGU_course\C#_nhom12\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.RJControls.FormMessageBox.resources
+D:\SGU_course\C#_nhom12\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmCategory.resources
+D:\SGU_course\C#_nhom12\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmLogin.resources
+D:\SGU_course\C#_nhom12\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmProductManagement.resources
+D:\SGU_course\C#_nhom12\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmStaff.resources
+D:\SGU_course\C#_nhom12\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.RJControls.RJComboBox.resources
+D:\SGU_course\C#_nhom12\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.RJControls.RJTextBox.resources
+D:\SGU_course\C#_nhom12\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.RJControls.RJTextBox2.resources
+D:\SGU_course\C#_nhom12\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\SGU_course\C#_nhom12\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmCustomerSta.resources
+D:\SGU_course\C#_nhom12\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmProductSta.resources
+D:\SGU_course\C#_nhom12\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmRevenueSta.resources
+D:\SGU_course\C#_nhom12\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmStaffSta.resources
+D:\SGU_course\C#_nhom12\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\SGU_course\C#_nhom12\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\SGU_course\C#_nhom12\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.csproj.CopyComplete
+D:\SGU_course\C#_nhom12\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.exe
+D:\SGU_course\C#_nhom12\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.pdb
+D:\c#ToSubmit\CSharpToSubmit\SuperMarketMini_Management_Software\GUI\bin\Debug\GUI.exe.config
+D:\c#ToSubmit\CSharpToSubmit\SuperMarketMini_Management_Software\GUI\bin\Debug\GUI.exe
+D:\c#ToSubmit\CSharpToSubmit\SuperMarketMini_Management_Software\GUI\bin\Debug\GUI.pdb
+D:\c#ToSubmit\CSharpToSubmit\SuperMarketMini_Management_Software\GUI\bin\Debug\BUS.dll
+D:\c#ToSubmit\CSharpToSubmit\SuperMarketMini_Management_Software\GUI\bin\Debug\DTO.dll
+D:\c#ToSubmit\CSharpToSubmit\SuperMarketMini_Management_Software\GUI\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\c#ToSubmit\CSharpToSubmit\SuperMarketMini_Management_Software\GUI\bin\Debug\DAO.dll
+D:\c#ToSubmit\CSharpToSubmit\SuperMarketMini_Management_Software\GUI\bin\Debug\EPPlus.dll
+D:\c#ToSubmit\CSharpToSubmit\SuperMarketMini_Management_Software\GUI\bin\Debug\EPPlus.Interfaces.dll
+D:\c#ToSubmit\CSharpToSubmit\SuperMarketMini_Management_Software\GUI\bin\Debug\EPPlus.System.Drawing.dll
+D:\c#ToSubmit\CSharpToSubmit\SuperMarketMini_Management_Software\GUI\bin\Debug\BUS.pdb
+D:\c#ToSubmit\CSharpToSubmit\SuperMarketMini_Management_Software\GUI\bin\Debug\DTO.pdb
+D:\c#ToSubmit\CSharpToSubmit\SuperMarketMini_Management_Software\GUI\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\c#ToSubmit\CSharpToSubmit\SuperMarketMini_Management_Software\GUI\bin\Debug\DAO.pdb
+D:\c#ToSubmit\CSharpToSubmit\SuperMarketMini_Management_Software\GUI\bin\Debug\EPPlus.xml
+D:\c#ToSubmit\CSharpToSubmit\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\c#ToSubmit\CSharpToSubmit\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.csproj.SuggestedBindingRedirects.cache
+D:\c#ToSubmit\CSharpToSubmit\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.panelHintProduct.resources
+D:\c#ToSubmit\CSharpToSubmit\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.panelIRVDProduct.resources
+D:\c#ToSubmit\CSharpToSubmit\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.RJTextBox.resources
+D:\c#ToSubmit\CSharpToSubmit\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmBill.resources
+D:\c#ToSubmit\CSharpToSubmit\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmCustomer.resources
+D:\c#ToSubmit\CSharpToSubmit\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmFastPayment.resources
+D:\c#ToSubmit\CSharpToSubmit\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmInventoryReceivingVoucher.resources
+D:\c#ToSubmit\CSharpToSubmit\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmInventoryReceivingVoucherDetail.resources
+D:\c#ToSubmit\CSharpToSubmit\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmMainMenu.resources
+D:\c#ToSubmit\CSharpToSubmit\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmPaymentVoucher.resources
+D:\c#ToSubmit\CSharpToSubmit\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmSell.resources
+D:\c#ToSubmit\CSharpToSubmit\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmStatistics.resources
+D:\c#ToSubmit\CSharpToSubmit\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmSupplier.resources
+D:\c#ToSubmit\CSharpToSubmit\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.HRJControls.HRJTextBox.resources
+D:\c#ToSubmit\CSharpToSubmit\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.RJControls.FormMessageBox.resources
+D:\c#ToSubmit\CSharpToSubmit\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmCategory.resources
+D:\c#ToSubmit\CSharpToSubmit\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmLogin.resources
+D:\c#ToSubmit\CSharpToSubmit\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmProductManagement.resources
+D:\c#ToSubmit\CSharpToSubmit\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmStaff.resources
+D:\c#ToSubmit\CSharpToSubmit\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.RJControls.RJComboBox.resources
+D:\c#ToSubmit\CSharpToSubmit\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.RJControls.RJTextBox.resources
+D:\c#ToSubmit\CSharpToSubmit\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.RJControls.RJTextBox2.resources
+D:\c#ToSubmit\CSharpToSubmit\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\c#ToSubmit\CSharpToSubmit\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmCustomerSta.resources
+D:\c#ToSubmit\CSharpToSubmit\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmProductSta.resources
+D:\c#ToSubmit\CSharpToSubmit\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmRevenueSta.resources
+D:\c#ToSubmit\CSharpToSubmit\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmStaffSta.resources
+D:\c#ToSubmit\CSharpToSubmit\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\c#ToSubmit\CSharpToSubmit\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\c#ToSubmit\CSharpToSubmit\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.csproj.CopyComplete
+D:\c#ToSubmit\CSharpToSubmit\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.exe
+D:\c#ToSubmit\CSharpToSubmit\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.pdb
+C:\Users\dangk\Desktop\CSharpToSubmit\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\dangk\Desktop\CSharpToSubmit\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\dangk\Desktop\CSharpToSubmit\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.panelHintProduct.resources
+C:\Users\dangk\Desktop\CSharpToSubmit\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.panelIRVDProduct.resources
+C:\Users\dangk\Desktop\CSharpToSubmit\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.RJTextBox.resources
+C:\Users\dangk\Desktop\CSharpToSubmit\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmBill.resources
+C:\Users\dangk\Desktop\CSharpToSubmit\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmCustomer.resources
+C:\Users\dangk\Desktop\CSharpToSubmit\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmFastPayment.resources
+C:\Users\dangk\Desktop\CSharpToSubmit\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmInventoryReceivingVoucher.resources
+C:\Users\dangk\Desktop\CSharpToSubmit\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmInventoryReceivingVoucherDetail.resources
+C:\Users\dangk\Desktop\CSharpToSubmit\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmMainMenu.resources
+C:\Users\dangk\Desktop\CSharpToSubmit\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmPaymentVoucher.resources
+C:\Users\dangk\Desktop\CSharpToSubmit\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmSell.resources
+C:\Users\dangk\Desktop\CSharpToSubmit\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmStatistics.resources
+C:\Users\dangk\Desktop\CSharpToSubmit\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmSupplier.resources
+C:\Users\dangk\Desktop\CSharpToSubmit\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.HRJControls.HRJTextBox.resources
+C:\Users\dangk\Desktop\CSharpToSubmit\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.RJControls.FormMessageBox.resources
+C:\Users\dangk\Desktop\CSharpToSubmit\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmCategory.resources
+C:\Users\dangk\Desktop\CSharpToSubmit\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmLogin.resources
+C:\Users\dangk\Desktop\CSharpToSubmit\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmProductManagement.resources
+C:\Users\dangk\Desktop\CSharpToSubmit\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmStaff.resources
+C:\Users\dangk\Desktop\CSharpToSubmit\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.RJControls.RJComboBox.resources
+C:\Users\dangk\Desktop\CSharpToSubmit\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.RJControls.RJTextBox.resources
+C:\Users\dangk\Desktop\CSharpToSubmit\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.RJControls.RJTextBox2.resources
+C:\Users\dangk\Desktop\CSharpToSubmit\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\dangk\Desktop\CSharpToSubmit\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmCustomerSta.resources
+C:\Users\dangk\Desktop\CSharpToSubmit\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmProductSta.resources
+C:\Users\dangk\Desktop\CSharpToSubmit\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmRevenueSta.resources
+C:\Users\dangk\Desktop\CSharpToSubmit\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmStaffSta.resources
+C:\Users\dangk\Desktop\CSharpToSubmit\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\dangk\Desktop\CSharpToSubmit\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\dangk\Desktop\CSharpToSubmit\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.exe
+C:\Users\dangk\Desktop\CSharpToSubmit\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.pdb
+C:\Users\dangk\Desktop\CSharpToSubmit\SuperMarketMini_Management_Software\GUI\bin\Debug\GUI.exe.config
+C:\Users\dangk\Desktop\CSharpToSubmit\SuperMarketMini_Management_Software\GUI\bin\Debug\GUI.exe
+C:\Users\dangk\Desktop\CSharpToSubmit\SuperMarketMini_Management_Software\GUI\bin\Debug\GUI.pdb
+C:\Users\dangk\Desktop\CSharpToSubmit\SuperMarketMini_Management_Software\GUI\bin\Debug\BUS.dll
+C:\Users\dangk\Desktop\CSharpToSubmit\SuperMarketMini_Management_Software\GUI\bin\Debug\DTO.dll
+C:\Users\dangk\Desktop\CSharpToSubmit\SuperMarketMini_Management_Software\GUI\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\dangk\Desktop\CSharpToSubmit\SuperMarketMini_Management_Software\GUI\bin\Debug\DAO.dll
+C:\Users\dangk\Desktop\CSharpToSubmit\SuperMarketMini_Management_Software\GUI\bin\Debug\EPPlus.dll
+C:\Users\dangk\Desktop\CSharpToSubmit\SuperMarketMini_Management_Software\GUI\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\dangk\Desktop\CSharpToSubmit\SuperMarketMini_Management_Software\GUI\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\dangk\Desktop\CSharpToSubmit\SuperMarketMini_Management_Software\GUI\bin\Debug\BUS.pdb
+C:\Users\dangk\Desktop\CSharpToSubmit\SuperMarketMini_Management_Software\GUI\bin\Debug\DTO.pdb
+C:\Users\dangk\Desktop\CSharpToSubmit\SuperMarketMini_Management_Software\GUI\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\dangk\Desktop\CSharpToSubmit\SuperMarketMini_Management_Software\GUI\bin\Debug\DAO.pdb
+C:\Users\dangk\Desktop\CSharpToSubmit\SuperMarketMini_Management_Software\GUI\bin\Debug\EPPlus.xml
+C:\Users\dangk\Desktop\CSharpToSubmit\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.csproj.CopyComplete
+D:\SGU_course\C#_nhom12\CSharpToSubmit-2.0\CSharpToSubmit\SuperMarketMini_Management_Software\GUI\bin\Debug\GUI.exe.config
+D:\SGU_course\C#_nhom12\CSharpToSubmit-2.0\CSharpToSubmit\SuperMarketMini_Management_Software\GUI\bin\Debug\GUI.exe
+D:\SGU_course\C#_nhom12\CSharpToSubmit-2.0\CSharpToSubmit\SuperMarketMini_Management_Software\GUI\bin\Debug\GUI.pdb
+D:\SGU_course\C#_nhom12\CSharpToSubmit-2.0\CSharpToSubmit\SuperMarketMini_Management_Software\GUI\bin\Debug\BUS.dll
+D:\SGU_course\C#_nhom12\CSharpToSubmit-2.0\CSharpToSubmit\SuperMarketMini_Management_Software\GUI\bin\Debug\DTO.dll
+D:\SGU_course\C#_nhom12\CSharpToSubmit-2.0\CSharpToSubmit\SuperMarketMini_Management_Software\GUI\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\SGU_course\C#_nhom12\CSharpToSubmit-2.0\CSharpToSubmit\SuperMarketMini_Management_Software\GUI\bin\Debug\DAO.dll
+D:\SGU_course\C#_nhom12\CSharpToSubmit-2.0\CSharpToSubmit\SuperMarketMini_Management_Software\GUI\bin\Debug\EPPlus.dll
+D:\SGU_course\C#_nhom12\CSharpToSubmit-2.0\CSharpToSubmit\SuperMarketMini_Management_Software\GUI\bin\Debug\EPPlus.Interfaces.dll
+D:\SGU_course\C#_nhom12\CSharpToSubmit-2.0\CSharpToSubmit\SuperMarketMini_Management_Software\GUI\bin\Debug\EPPlus.System.Drawing.dll
+D:\SGU_course\C#_nhom12\CSharpToSubmit-2.0\CSharpToSubmit\SuperMarketMini_Management_Software\GUI\bin\Debug\BUS.pdb
+D:\SGU_course\C#_nhom12\CSharpToSubmit-2.0\CSharpToSubmit\SuperMarketMini_Management_Software\GUI\bin\Debug\DTO.pdb
+D:\SGU_course\C#_nhom12\CSharpToSubmit-2.0\CSharpToSubmit\SuperMarketMini_Management_Software\GUI\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\SGU_course\C#_nhom12\CSharpToSubmit-2.0\CSharpToSubmit\SuperMarketMini_Management_Software\GUI\bin\Debug\DAO.pdb
+D:\SGU_course\C#_nhom12\CSharpToSubmit-2.0\CSharpToSubmit\SuperMarketMini_Management_Software\GUI\bin\Debug\EPPlus.xml
+D:\SGU_course\C#_nhom12\CSharpToSubmit-2.0\CSharpToSubmit\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\SGU_course\C#_nhom12\CSharpToSubmit-2.0\CSharpToSubmit\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.csproj.SuggestedBindingRedirects.cache
+D:\SGU_course\C#_nhom12\CSharpToSubmit-2.0\CSharpToSubmit\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.panelHintProduct.resources
+D:\SGU_course\C#_nhom12\CSharpToSubmit-2.0\CSharpToSubmit\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.panelIRVDProduct.resources
+D:\SGU_course\C#_nhom12\CSharpToSubmit-2.0\CSharpToSubmit\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.RJTextBox.resources
+D:\SGU_course\C#_nhom12\CSharpToSubmit-2.0\CSharpToSubmit\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmBill.resources
+D:\SGU_course\C#_nhom12\CSharpToSubmit-2.0\CSharpToSubmit\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmCustomer.resources
+D:\SGU_course\C#_nhom12\CSharpToSubmit-2.0\CSharpToSubmit\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmFastPayment.resources
+D:\SGU_course\C#_nhom12\CSharpToSubmit-2.0\CSharpToSubmit\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmInventoryReceivingVoucher.resources
+D:\SGU_course\C#_nhom12\CSharpToSubmit-2.0\CSharpToSubmit\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmInventoryReceivingVoucherDetail.resources
+D:\SGU_course\C#_nhom12\CSharpToSubmit-2.0\CSharpToSubmit\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmMainMenu.resources
+D:\SGU_course\C#_nhom12\CSharpToSubmit-2.0\CSharpToSubmit\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmPaymentVoucher.resources
+D:\SGU_course\C#_nhom12\CSharpToSubmit-2.0\CSharpToSubmit\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmSell.resources
+D:\SGU_course\C#_nhom12\CSharpToSubmit-2.0\CSharpToSubmit\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmStatistics.resources
+D:\SGU_course\C#_nhom12\CSharpToSubmit-2.0\CSharpToSubmit\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmSupplier.resources
+D:\SGU_course\C#_nhom12\CSharpToSubmit-2.0\CSharpToSubmit\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.HRJControls.HRJTextBox.resources
+D:\SGU_course\C#_nhom12\CSharpToSubmit-2.0\CSharpToSubmit\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.RJControls.FormMessageBox.resources
+D:\SGU_course\C#_nhom12\CSharpToSubmit-2.0\CSharpToSubmit\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmCategory.resources
+D:\SGU_course\C#_nhom12\CSharpToSubmit-2.0\CSharpToSubmit\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmLogin.resources
+D:\SGU_course\C#_nhom12\CSharpToSubmit-2.0\CSharpToSubmit\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmProductManagement.resources
+D:\SGU_course\C#_nhom12\CSharpToSubmit-2.0\CSharpToSubmit\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmStaff.resources
+D:\SGU_course\C#_nhom12\CSharpToSubmit-2.0\CSharpToSubmit\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.RJControls.RJComboBox.resources
+D:\SGU_course\C#_nhom12\CSharpToSubmit-2.0\CSharpToSubmit\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.RJControls.RJTextBox.resources
+D:\SGU_course\C#_nhom12\CSharpToSubmit-2.0\CSharpToSubmit\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.RJControls.RJTextBox2.resources
+D:\SGU_course\C#_nhom12\CSharpToSubmit-2.0\CSharpToSubmit\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\SGU_course\C#_nhom12\CSharpToSubmit-2.0\CSharpToSubmit\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmCustomerSta.resources
+D:\SGU_course\C#_nhom12\CSharpToSubmit-2.0\CSharpToSubmit\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmProductSta.resources
+D:\SGU_course\C#_nhom12\CSharpToSubmit-2.0\CSharpToSubmit\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmRevenueSta.resources
+D:\SGU_course\C#_nhom12\CSharpToSubmit-2.0\CSharpToSubmit\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmStaffSta.resources
+D:\SGU_course\C#_nhom12\CSharpToSubmit-2.0\CSharpToSubmit\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\SGU_course\C#_nhom12\CSharpToSubmit-2.0\CSharpToSubmit\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\SGU_course\C#_nhom12\CSharpToSubmit-2.0\CSharpToSubmit\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.csproj.CopyComplete
+D:\SGU_course\C#_nhom12\CSharpToSubmit-2.0\CSharpToSubmit\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.exe
+D:\SGU_course\C#_nhom12\CSharpToSubmit-2.0\CSharpToSubmit\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.pdb
+D:\HTTTDN\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\GUI.exe.config
+D:\HTTTDN\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\GUI.exe
+D:\HTTTDN\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\GUI.pdb
+D:\HTTTDN\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\BUS.dll
+D:\HTTTDN\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\DTO.dll
+D:\HTTTDN\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\HTTTDN\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\DAO.dll
+D:\HTTTDN\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\EPPlus.dll
+D:\HTTTDN\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\EPPlus.Interfaces.dll
+D:\HTTTDN\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\EPPlus.System.Drawing.dll
+D:\HTTTDN\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\BUS.pdb
+D:\HTTTDN\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\DTO.pdb
+D:\HTTTDN\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\HTTTDN\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\DAO.pdb
+D:\HTTTDN\C-Sharp\SuperMarketMini_Management_Software\GUI\bin\Debug\EPPlus.xml
+D:\HTTTDN\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\HTTTDN\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.csproj.SuggestedBindingRedirects.cache
+D:\HTTTDN\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.panelHintProduct.resources
+D:\HTTTDN\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.panelIRVDProduct.resources
+D:\HTTTDN\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.RJTextBox.resources
+D:\HTTTDN\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmBill.resources
+D:\HTTTDN\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmCustomer.resources
+D:\HTTTDN\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmFastPayment.resources
+D:\HTTTDN\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmInventoryReceivingVoucher.resources
+D:\HTTTDN\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmInventoryReceivingVoucherDetail.resources
+D:\HTTTDN\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmMainMenu.resources
+D:\HTTTDN\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmPaymentVoucher.resources
+D:\HTTTDN\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmSell.resources
+D:\HTTTDN\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmStatistics.resources
+D:\HTTTDN\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmSupplier.resources
+D:\HTTTDN\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.HRJControls.HRJTextBox.resources
+D:\HTTTDN\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.RJControls.FormMessageBox.resources
+D:\HTTTDN\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmCategory.resources
+D:\HTTTDN\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmLogin.resources
+D:\HTTTDN\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmProductManagement.resources
+D:\HTTTDN\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmStaff.resources
+D:\HTTTDN\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.RJControls.RJComboBox.resources
+D:\HTTTDN\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.RJControls.RJTextBox.resources
+D:\HTTTDN\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.RJControls.RJTextBox2.resources
+D:\HTTTDN\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\HTTTDN\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmCustomerSta.resources
+D:\HTTTDN\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmProductSta.resources
+D:\HTTTDN\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmRevenueSta.resources
+D:\HTTTDN\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.frmStaffSta.resources
+D:\HTTTDN\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\HTTTDN\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\HTTTDN\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.csproj.CopyComplete
+D:\HTTTDN\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.exe
+D:\HTTTDN\C-Sharp\SuperMarketMini_Management_Software\GUI\obj\Debug\GUI.pdb

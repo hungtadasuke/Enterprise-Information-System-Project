@@ -1,0 +1,469 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{D5F3AF21-A42B-4BA9-8470-9C0F8CF775D1}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>GUI</RootNamespace>
+    <AssemblyName>GUI</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.IO.RecyclableMemoryStream, Version=1.4.1.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.IO.RecyclableMemoryStream.1.4.1\lib\net46\Microsoft.IO.RecyclableMemoryStream.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Office.Interop.Excel.15.0.4795.1001\lib\net20\Microsoft.Office.Interop.Excel.dll</HintPath>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="PresentationCore" />
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Threading.Tasks" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CustomControls\panelHintProduct.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="CustomControls\panelHintProduct.designer.cs">
+      <DependentUpon>panelHintProduct.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CustomControls\panelIRVDProduct.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="CustomControls\panelIRVDProduct.designer.cs">
+      <DependentUpon>panelIRVDProduct.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CustomControls\RJTextBox.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="CustomControls\RJTextBox.designer.cs">
+      <DependentUpon>RJTextBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmBill.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBill.designer.cs">
+      <DependentUpon>frmBill.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCustomer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCustomer.designer.cs">
+      <DependentUpon>frmCustomer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmFastPayment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmFastPayment.designer.cs">
+      <DependentUpon>frmFastPayment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmInventoryReceivingVoucher.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmInventoryReceivingVoucher.designer.cs">
+      <DependentUpon>frmInventoryReceivingVoucher.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmInventoryReceivingVoucherDetail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmInventoryReceivingVoucherDetail.designer.cs">
+      <DependentUpon>frmInventoryReceivingVoucherDetail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMainMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMainMenu.designer.cs">
+      <DependentUpon>frmMainMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPaymentVoucher.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPaymentVoucher.designer.cs">
+      <DependentUpon>frmPaymentVoucher.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmSell.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSell.designer.cs">
+      <DependentUpon>frmSell.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmStatistics.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmStatistics.designer.cs">
+      <DependentUpon>frmStatistics.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmSupplier.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSupplier.designer.cs">
+      <DependentUpon>frmSupplier.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HRJControls\HRJButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="HRJControls\HRJComboBox.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="HRJControls\HRJPictureBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="HRJControls\HRJRadioButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="HRJControls\HRJTextBox.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="HRJControls\HRJTextBox.Designer.cs" />
+    <Compile Include="HRJControls\panelDetailInfo.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="HRJControls\panelProductInfoToSell.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="HRJControls\SupportUI.cs" />
+    <Compile Include="RJControls\FormMessageBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RJControls\FormMessageBox.Designer.cs" />
+    <Compile Include="frmCategory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCategory.Designer.cs">
+      <DependentUpon>frmCategory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLogin.Designer.cs">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmProductManagement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmProductManagement.designer.cs">
+      <DependentUpon>frmProductManagement.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmStaff.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmStaff.Designer.cs">
+      <DependentUpon>frmStaff.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RJControls\RJButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="RJControls\RJCircularPictureBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="RJControls\RJComboBox.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="RJControls\RJDatePicker.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="RJControls\RJRadioButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="RJControls\RJTextBox.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="RJControls\RJTextBox.Designer.cs">
+      <DependentUpon>RJTextBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RJControls\RJMessageBox.cs" />
+    <Compile Include="RJControls\RJTextBox2.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="RJControls\RJTextBox2.Designer.cs">
+      <DependentUpon>RJTextBox2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Khoa\KhoaPanel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Statistics\frmCustomerSta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Statistics\frmCustomerSta.designer.cs">
+      <DependentUpon>frmCustomerSta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Statistics\frmProductSta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Statistics\frmProductSta.designer.cs">
+      <DependentUpon>frmProductSta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Statistics\frmRevenueSta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Statistics\frmRevenueSta.designer.cs">
+      <DependentUpon>frmRevenueSta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Statistics\frmStaffSta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Statistics\frmStaffSta.designer.cs">
+      <DependentUpon>frmStaffSta.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="CustomControls\panelHintProduct.resx">
+      <DependentUpon>panelHintProduct.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CustomControls\panelIRVDProduct.resx">
+      <DependentUpon>panelIRVDProduct.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CustomControls\RJTextBox.resx">
+      <DependentUpon>RJTextBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmBill.resx">
+      <DependentUpon>frmBill.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCustomer.resx">
+      <DependentUpon>frmCustomer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmFastPayment.resx">
+      <DependentUpon>frmFastPayment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmInventoryReceivingVoucher.resx">
+      <DependentUpon>frmInventoryReceivingVoucher.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmInventoryReceivingVoucherDetail.resx">
+      <DependentUpon>frmInventoryReceivingVoucherDetail.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMainMenu.resx">
+      <DependentUpon>frmMainMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPaymentVoucher.resx">
+      <DependentUpon>frmPaymentVoucher.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSell.resx">
+      <DependentUpon>frmSell.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmStatistics.resx">
+      <DependentUpon>frmStatistics.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSupplier.resx">
+      <DependentUpon>frmSupplier.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HRJControls\HRJTextBox.resx" />
+    <EmbeddedResource Include="RJControls\FormMessageBox.resx" />
+    <EmbeddedResource Include="frmCategory.resx">
+      <DependentUpon>frmCategory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLogin.resx">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmProductManagement.resx">
+      <DependentUpon>frmProductManagement.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmStaff.resx">
+      <DependentUpon>frmStaff.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RJControls\RJComboBox.resx">
+      <DependentUpon>RJComboBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RJControls\RJTextBox.resx">
+      <DependentUpon>RJTextBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RJControls\RJTextBox2.resx">
+      <DependentUpon>RJTextBox2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Statistics\frmCustomerSta.resx">
+      <DependentUpon>frmCustomerSta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Statistics\frmProductSta.resx">
+      <DependentUpon>frmProductSta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Statistics\frmRevenueSta.resx">
+      <DependentUpon>frmRevenueSta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Statistics\frmStaffSta.resx">
+      <DependentUpon>frmStaffSta.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BUS\BUS.csproj">
+      <Project>{e6d8765d-6783-4f85-ab3b-0e7942500f62}</Project>
+      <Name>BUS</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DTO\DTO.csproj">
+      <Project>{c19c3a5c-e22e-4371-8a13-d360c8600062}</Project>
+      <Name>DTO</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rightNavigative.png" />
+    <None Include="Resources\refreshing.png" />
+    <None Include="Resources\refresh.png" />
+    <None Include="Resources\receipt.png" />
+    <None Include="Resources\products.png" />
+    <None Include="Resources\plus.png" />
+    <None Include="Resources\pencil.png" />
+    <None Include="Resources\payment.png" />
+    <None Include="Resources\payIRV.png" />
+    <None Include="Resources\muasamthoinao.jpg" />
+    <None Include="Resources\minus-sign.png" />
+    <None Include="Resources\minus.png" />
+    <None Include="Resources\x.png" />
+    <None Include="Resources\update.png" />
+    <None Include="Resources\up.png" />
+    <None Include="Resources\trash-can.png" />
+    <None Include="Resources\trash.png" />
+    <None Include="Resources\target.png" />
+    <None Include="Resources\supplier.png" />
+    <None Include="Resources\staff.png" />
+    <None Include="Resources\search-interface-symbol.png" />
+    <None Include="Resources\recycle-bin1.png" />
+    <None Include="Resources\recycle-bin.png" />
+    <None Include="Resources\printer %282%29.png" />
+    <None Include="Resources\plus1.png" />
+    <None Include="Resources\plus %281%29.png" />
+    <None Include="Resources\minus1.png" />
+    <None Include="Resources\table.png" />
+    <None Include="Resources\question.png" />
+    <None Include="Resources\calendarDark.png" />
+    <None Include="Resources\calendarWhite.png" />
+    <None Include="Resources\error.png" />
+    <None Include="Resources\exclamation.png" />
+    <None Include="Resources\chat.png" />
+    <None Include="Resources\bar-chart.png" />
+    <None Include="Resources\export %283%29.png" />
+    <None Include="Resources\icons8-combo-chart-100.png" />
+    <None Include="Resources\icons8-employees-100.png" />
+    <None Include="Resources\bin %281%29.png" />
+    <None Include="Resources\bin.png" />
+    <None Include="Resources\close %281%29.png" />
+    <None Include="Resources\delete %281%29.png" />
+    <None Include="Resources\dollar-sign.png" />
+    <None Include="Resources\8.jpg" />
+    <None Include="Resources\15.jpg" />
+    <None Include="Resources\81.jpg" />
+    <None Include="Resources\82.jpg" />
+    <None Include="Resources\151.jpg" />
+    <None Include="Resources\811.jpg" />
+    <None Include="Resources\add %281%29.png" />
+    <None Include="Resources\add %282%29.png" />
+    <None Include="Resources\add.png" />
+    <None Include="Resources\add_Huy.png" />
+    <None Include="Resources\analytics.png" />
+    <None Include="Resources\arrowhead-thin-outline-to-the-left %281%29.png" />
+    <None Include="Resources\arrowhead-thin-outline-to-the-left.png" />
+    <None Include="Resources\arrowhead-thin-outline-to-the-left1.png" />
+    <None Include="Resources\arrow-point-to-right %281%29.png" />
+    <None Include="Resources\arrow-point-to-right.png" />
+    <None Include="Resources\backwards.png" />
+    <None Include="Resources\backwards_hover.png" />
+    <None Include="Resources\cashier-machine.png" />
+    <None Include="Resources\categories.png" />
+    <None Include="Resources\check.png" />
+    <None Include="Resources\close.png" />
+    <None Include="Resources\coin %281%29.png" />
+    <None Include="Resources\coin %281%291.png" />
+    <None Include="Resources\coin.png" />
+    <None Include="Resources\credit-card.png" />
+    <None Include="Resources\credit-card_hoverpng.png" />
+    <None Include="Resources\delete-file.png" />
+    <None Include="Resources\down.png" />
+    <None Include="Resources\draw.png" />
+    <None Include="Resources\ef3-placeholder-image.jpg" />
+    <None Include="Resources\excel.png" />
+    <None Include="Resources\export.png" />
+    <None Include="Resources\filter.png" />
+    <None Include="Resources\fivechipMart.png" />
+    <None Include="Resources\fivechipMart1.png" />
+    <None Include="Resources\headerText.png" />
+    <None Include="Resources\home.png" />
+    <None Include="Resources\home_hover.png" />
+    <Content Include="Resources\icons8-exit-48.png" />
+    <None Include="Resources\icons8-home-page-32 %281%29.png" />
+    <None Include="Resources\icons8-eye-32.png" />
+    <None Include="Resources\icons8-invisible-50.png" />
+    <None Include="Resources\icons8-eye-50.png" />
+    <None Include="Resources\icons8-eye-50%282%29.png" />
+    <None Include="Resources\icons8-ingredients-100.png" />
+    <None Include="Resources\icons8-home-page-32.png" />
+    <None Include="Resources\icons8-home-page-48.png" />
+    <None Include="Resources\icons8-home-page-322.png" />
+    <Content Include="Resources\icons8-key-24.png" />
+    <Content Include="Resources\icons8-macos-close-32-white.png" />
+    <Content Include="Resources\icons8-macos-full-screen-32-white.png" />
+    <Content Include="Resources\icons8-macos-minimize-32-white.png" />
+    <None Include="Resources\icons8-show-password-48 %281%29.png" />
+    <None Include="Resources\icons8-show-password-48.png" />
+    <None Include="Resources\icons8-reply-arrow-32.png" />
+    <None Include="Resources\icons8-reply-arrow-322.png" />
+    <None Include="Resources\icons8-staff-100.png" />
+    <Content Include="Resources\icons8-user-24.png" />
+    <None Include="Resources\information.png" />
+    <None Include="Resources\Image1.bmp" />
+    <None Include="Resources\import.png" />
+    <None Include="Resources\logo.png" />
+    <None Include="Resources\logo_and_text.png" />
+    <None Include="Resources\log-out -white.png" />
+    <None Include="Resources\logout.png" />
+    <Content Include="Resources\logo_and_text_2.png" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

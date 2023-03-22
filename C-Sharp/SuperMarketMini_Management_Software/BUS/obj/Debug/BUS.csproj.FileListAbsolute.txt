@@ -1,0 +1,349 @@
+D:\C#\ProjectC#\C-Sharp\SuperMarketMini_Management_Software\BUS\bin\Debug\BUS.dll
+D:\C#\ProjectC#\C-Sharp\SuperMarketMini_Management_Software\BUS\bin\Debug\BUS.pdb
+D:\C#\ProjectC#\C-Sharp\SuperMarketMini_Management_Software\BUS\bin\Debug\DAO.dll
+D:\C#\ProjectC#\C-Sharp\SuperMarketMini_Management_Software\BUS\bin\Debug\DTO.dll
+D:\C#\ProjectC#\C-Sharp\SuperMarketMini_Management_Software\BUS\bin\Debug\DAO.pdb
+D:\C#\ProjectC#\C-Sharp\SuperMarketMini_Management_Software\BUS\bin\Debug\DTO.pdb
+D:\C#\ProjectC#\C-Sharp\SuperMarketMini_Management_Software\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\C#\ProjectC#\C-Sharp\SuperMarketMini_Management_Software\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\C#\ProjectC#\C-Sharp\SuperMarketMini_Management_Software\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\C#\ProjectC#\C-Sharp\SuperMarketMini_Management_Software\BUS\obj\Debug\BUS.dll
+D:\C#\ProjectC#\C-Sharp\SuperMarketMini_Management_Software\BUS\obj\Debug\BUS.pdb
+C:\Users\dangk\Desktop\git\C-Sharp\SuperMarketMini_Management_Software\BUS\bin\Debug\BUS.dll
+C:\Users\dangk\Desktop\git\C-Sharp\SuperMarketMini_Management_Software\BUS\bin\Debug\BUS.pdb
+C:\Users\dangk\Desktop\git\C-Sharp\SuperMarketMini_Management_Software\BUS\bin\Debug\DAO.dll
+C:\Users\dangk\Desktop\git\C-Sharp\SuperMarketMini_Management_Software\BUS\bin\Debug\DTO.dll
+C:\Users\dangk\Desktop\git\C-Sharp\SuperMarketMini_Management_Software\BUS\bin\Debug\DAO.pdb
+C:\Users\dangk\Desktop\git\C-Sharp\SuperMarketMini_Management_Software\BUS\bin\Debug\DTO.pdb
+C:\Users\dangk\Desktop\git\C-Sharp\SuperMarketMini_Management_Software\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\dangk\Desktop\git\C-Sharp\SuperMarketMini_Management_Software\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\dangk\Desktop\git\C-Sharp\SuperMarketMini_Management_Software\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\dangk\Desktop\git\C-Sharp\SuperMarketMini_Management_Software\BUS\obj\Debug\BUS.dll
+C:\Users\dangk\Desktop\git\C-Sharp\SuperMarketMini_Management_Software\BUS\obj\Debug\BUS.pdb
+D:\ProjectC#New\C-Sharp\SuperMarketMini_Management_Software\BUS\bin\Debug\BUS.dll
+D:\ProjectC#New\C-Sharp\SuperMarketMini_Management_Software\BUS\bin\Debug\BUS.pdb
+D:\ProjectC#New\C-Sharp\SuperMarketMini_Management_Software\BUS\bin\Debug\DAO.dll
+D:\ProjectC#New\C-Sharp\SuperMarketMini_Management_Software\BUS\bin\Debug\DTO.dll
+D:\ProjectC#New\C-Sharp\SuperMarketMini_Management_Software\BUS\bin\Debug\DAO.pdb
+D:\ProjectC#New\C-Sharp\SuperMarketMini_Management_Software\BUS\bin\Debug\DTO.pdb
+D:\ProjectC#New\C-Sharp\SuperMarketMini_Management_Software\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\ProjectC#New\C-Sharp\SuperMarketMini_Management_Software\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\ProjectC#New\C-Sharp\SuperMarketMini_Management_Software\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\ProjectC#New\C-Sharp\SuperMarketMini_Management_Software\BUS\obj\Debug\BUS.dll
+D:\ProjectC#New\C-Sharp\SuperMarketMini_Management_Software\BUS\obj\Debug\BUS.pdb
+C:\Users\Khoa\Desktop\git\C-Sharp\SuperMarketMini_Management_Software\BUS\bin\Debug\BUS.dll
+C:\Users\Khoa\Desktop\git\C-Sharp\SuperMarketMini_Management_Software\BUS\bin\Debug\BUS.pdb
+C:\Users\Khoa\Desktop\git\C-Sharp\SuperMarketMini_Management_Software\BUS\bin\Debug\DAO.dll
+C:\Users\Khoa\Desktop\git\C-Sharp\SuperMarketMini_Management_Software\BUS\bin\Debug\DTO.dll
+C:\Users\Khoa\Desktop\git\C-Sharp\SuperMarketMini_Management_Software\BUS\bin\Debug\DAO.pdb
+C:\Users\Khoa\Desktop\git\C-Sharp\SuperMarketMini_Management_Software\BUS\bin\Debug\DTO.pdb
+C:\Users\Khoa\Desktop\git\C-Sharp\SuperMarketMini_Management_Software\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\Khoa\Desktop\git\C-Sharp\SuperMarketMini_Management_Software\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\Khoa\Desktop\git\C-Sharp\SuperMarketMini_Management_Software\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\Khoa\Desktop\git\C-Sharp\SuperMarketMini_Management_Software\BUS\obj\Debug\BUS.dll
+C:\Users\Khoa\Desktop\git\C-Sharp\SuperMarketMini_Management_Software\BUS\obj\Debug\BUS.pdb
+C:\Users\Administrator\Desktop\new\C-Sharp\SuperMarketMini_Management_Software\BUS\bin\Debug\BUS.dll
+C:\Users\Administrator\Desktop\new\C-Sharp\SuperMarketMini_Management_Software\BUS\bin\Debug\BUS.pdb
+C:\Users\Administrator\Desktop\new\C-Sharp\SuperMarketMini_Management_Software\BUS\bin\Debug\DAO.dll
+C:\Users\Administrator\Desktop\new\C-Sharp\SuperMarketMini_Management_Software\BUS\bin\Debug\DTO.dll
+C:\Users\Administrator\Desktop\new\C-Sharp\SuperMarketMini_Management_Software\BUS\bin\Debug\DAO.pdb
+C:\Users\Administrator\Desktop\new\C-Sharp\SuperMarketMini_Management_Software\BUS\bin\Debug\DTO.pdb
+C:\Users\Administrator\Desktop\new\C-Sharp\SuperMarketMini_Management_Software\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\new\C-Sharp\SuperMarketMini_Management_Software\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\new\C-Sharp\SuperMarketMini_Management_Software\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\Administrator\Desktop\new\C-Sharp\SuperMarketMini_Management_Software\BUS\obj\Debug\BUS.dll
+C:\Users\Administrator\Desktop\new\C-Sharp\SuperMarketMini_Management_Software\BUS\obj\Debug\BUS.pdb
+C:\Users\Administrator\Desktop\filengonnhat\C-Sharp\SuperMarketMini_Management_Software\BUS\bin\Debug\BUS.dll
+C:\Users\Administrator\Desktop\filengonnhat\C-Sharp\SuperMarketMini_Management_Software\BUS\bin\Debug\BUS.pdb
+C:\Users\Administrator\Desktop\filengonnhat\C-Sharp\SuperMarketMini_Management_Software\BUS\bin\Debug\DAO.dll
+C:\Users\Administrator\Desktop\filengonnhat\C-Sharp\SuperMarketMini_Management_Software\BUS\bin\Debug\DTO.dll
+C:\Users\Administrator\Desktop\filengonnhat\C-Sharp\SuperMarketMini_Management_Software\BUS\bin\Debug\DAO.pdb
+C:\Users\Administrator\Desktop\filengonnhat\C-Sharp\SuperMarketMini_Management_Software\BUS\bin\Debug\DTO.pdb
+C:\Users\Administrator\Desktop\filengonnhat\C-Sharp\SuperMarketMini_Management_Software\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\filengonnhat\C-Sharp\SuperMarketMini_Management_Software\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\filengonnhat\C-Sharp\SuperMarketMini_Management_Software\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\Administrator\Desktop\filengonnhat\C-Sharp\SuperMarketMini_Management_Software\BUS\obj\Debug\BUS.dll
+C:\Users\Administrator\Desktop\filengonnhat\C-Sharp\SuperMarketMini_Management_Software\BUS\obj\Debug\BUS.pdb
+C:\Users\Administrator\Desktop\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\BUS\bin\Debug\BUS.dll
+C:\Users\Administrator\Desktop\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\BUS\bin\Debug\BUS.pdb
+C:\Users\Administrator\Desktop\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\BUS\bin\Debug\DAO.dll
+C:\Users\Administrator\Desktop\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\BUS\bin\Debug\DTO.dll
+C:\Users\Administrator\Desktop\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\BUS\bin\Debug\DAO.pdb
+C:\Users\Administrator\Desktop\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\BUS\bin\Debug\DTO.pdb
+C:\Users\Administrator\Desktop\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\Administrator\Desktop\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\BUS\obj\Debug\BUS.dll
+C:\Users\Administrator\Desktop\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\BUS\obj\Debug\BUS.pdb
+C:\Users\dangk\Desktop\HOÀNG\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\BUS\bin\Debug\BUS.dll
+C:\Users\dangk\Desktop\HOÀNG\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\BUS\bin\Debug\BUS.pdb
+C:\Users\dangk\Desktop\HOÀNG\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\BUS\bin\Debug\DAO.dll
+C:\Users\dangk\Desktop\HOÀNG\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\BUS\bin\Debug\DTO.dll
+C:\Users\dangk\Desktop\HOÀNG\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\BUS\bin\Debug\DAO.pdb
+C:\Users\dangk\Desktop\HOÀNG\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\BUS\bin\Debug\DTO.pdb
+C:\Users\dangk\Desktop\HOÀNG\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\dangk\Desktop\HOÀNG\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\dangk\Desktop\HOÀNG\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\dangk\Desktop\HOÀNG\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\BUS\obj\Debug\BUS.dll
+C:\Users\dangk\Desktop\HOÀNG\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\BUS\obj\Debug\BUS.pdb
+C:\Users\dangk\Desktop\HOÀNG\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\BUS\bin\Debug\EPPlus.dll
+C:\Users\dangk\Desktop\HOÀNG\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\BUS\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\dangk\Desktop\HOÀNG\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\BUS\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\dangk\Desktop\HOÀNG\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\BUS\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\dangk\Desktop\HOÀNG\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\BUS\bin\Debug\EPPlus.xml
+C:\Users\dangk\Desktop\HOÀNG\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\BUS\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\dangk\Desktop\HOÀNG KHOA NGON Nhất\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\dangk\Desktop\HOÀNG KHOA NGON Nhất\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\dangk\Desktop\HOÀNG KHOA NGON Nhất\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\BUS\obj\Debug\BUS.dll
+C:\Users\dangk\Desktop\HOÀNG KHOA NGON Nhất\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\BUS\obj\Debug\BUS.pdb
+C:\Users\dangk\Desktop\HOÀNG KHOA NGON Nhất\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\BUS\bin\Debug\BUS.dll
+C:\Users\dangk\Desktop\HOÀNG KHOA NGON Nhất\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\BUS\bin\Debug\BUS.pdb
+C:\Users\dangk\Desktop\HOÀNG KHOA NGON Nhất\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\BUS\bin\Debug\DAO.dll
+C:\Users\dangk\Desktop\HOÀNG KHOA NGON Nhất\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\BUS\bin\Debug\DTO.dll
+C:\Users\dangk\Desktop\HOÀNG KHOA NGON Nhất\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\BUS\bin\Debug\EPPlus.dll
+C:\Users\dangk\Desktop\HOÀNG KHOA NGON Nhất\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\BUS\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\dangk\Desktop\HOÀNG KHOA NGON Nhất\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\BUS\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\dangk\Desktop\HOÀNG KHOA NGON Nhất\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\BUS\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\dangk\Desktop\HOÀNG KHOA NGON Nhất\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\BUS\bin\Debug\DAO.pdb
+C:\Users\dangk\Desktop\HOÀNG KHOA NGON Nhất\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\BUS\bin\Debug\DTO.pdb
+C:\Users\dangk\Desktop\HOÀNG KHOA NGON Nhất\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\BUS\bin\Debug\EPPlus.xml
+C:\Users\dangk\Desktop\HOÀNG KHOA NGON Nhất\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\BUS\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\dangk\Desktop\HOÀNG KHOA NGON Nhất\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\SGU_course\C#_nhom12\5aesieunhan\hoang, khoa, hung\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\SGU_course\C#_nhom12\5aesieunhan\hoang, khoa, hung\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\SGU_course\C#_nhom12\5aesieunhan\hoang, khoa, hung\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\BUS\obj\Debug\BUS.dll
+D:\SGU_course\C#_nhom12\5aesieunhan\hoang, khoa, hung\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\BUS\obj\Debug\BUS.pdb
+D:\SGU_course\C#_nhom12\5aesieunhan\hoang, khoa, hung\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\BUS\bin\Debug\BUS.dll
+D:\SGU_course\C#_nhom12\5aesieunhan\hoang, khoa, hung\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\BUS\bin\Debug\BUS.pdb
+D:\SGU_course\C#_nhom12\5aesieunhan\hoang, khoa, hung\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\BUS\bin\Debug\DAO.dll
+D:\SGU_course\C#_nhom12\5aesieunhan\hoang, khoa, hung\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\BUS\bin\Debug\DTO.dll
+D:\SGU_course\C#_nhom12\5aesieunhan\hoang, khoa, hung\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\BUS\bin\Debug\EPPlus.dll
+D:\SGU_course\C#_nhom12\5aesieunhan\hoang, khoa, hung\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\BUS\bin\Debug\EPPlus.Interfaces.dll
+D:\SGU_course\C#_nhom12\5aesieunhan\hoang, khoa, hung\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\BUS\bin\Debug\EPPlus.System.Drawing.dll
+D:\SGU_course\C#_nhom12\5aesieunhan\hoang, khoa, hung\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\BUS\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\SGU_course\C#_nhom12\5aesieunhan\hoang, khoa, hung\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\BUS\bin\Debug\DAO.pdb
+D:\SGU_course\C#_nhom12\5aesieunhan\hoang, khoa, hung\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\BUS\bin\Debug\DTO.pdb
+D:\SGU_course\C#_nhom12\5aesieunhan\hoang, khoa, hung\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\BUS\bin\Debug\EPPlus.xml
+D:\SGU_course\C#_nhom12\5aesieunhan\hoang, khoa, hung\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\BUS\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\SGU_course\C#_nhom12\5aesieunhan\hoang, khoa, hung\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\vovan\Downloads\provipno1\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\BUS\bin\Debug\BUS.dll
+C:\Users\vovan\Downloads\provipno1\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\BUS\bin\Debug\BUS.pdb
+C:\Users\vovan\Downloads\provipno1\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\BUS\bin\Debug\DAO.dll
+C:\Users\vovan\Downloads\provipno1\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\BUS\bin\Debug\DTO.dll
+C:\Users\vovan\Downloads\provipno1\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\BUS\bin\Debug\EPPlus.dll
+C:\Users\vovan\Downloads\provipno1\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\BUS\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\vovan\Downloads\provipno1\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\BUS\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\vovan\Downloads\provipno1\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\BUS\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\vovan\Downloads\provipno1\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\BUS\bin\Debug\DAO.pdb
+C:\Users\vovan\Downloads\provipno1\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\BUS\bin\Debug\DTO.pdb
+C:\Users\vovan\Downloads\provipno1\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\BUS\bin\Debug\EPPlus.xml
+C:\Users\vovan\Downloads\provipno1\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\BUS\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\vovan\Downloads\provipno1\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\vovan\Downloads\provipno1\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\vovan\Downloads\provipno1\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\vovan\Downloads\provipno1\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\BUS\obj\Debug\BUS.dll
+C:\Users\vovan\Downloads\provipno1\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\BUS\obj\Debug\BUS.pdb
+C:\Users\THIS PC\Downloads\provipno1\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\BUS\bin\Debug\BUS.dll
+C:\Users\THIS PC\Downloads\provipno1\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\BUS\bin\Debug\BUS.pdb
+C:\Users\THIS PC\Downloads\provipno1\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\BUS\bin\Debug\DAO.dll
+C:\Users\THIS PC\Downloads\provipno1\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\BUS\bin\Debug\DTO.dll
+C:\Users\THIS PC\Downloads\provipno1\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\BUS\bin\Debug\EPPlus.dll
+C:\Users\THIS PC\Downloads\provipno1\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\BUS\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\THIS PC\Downloads\provipno1\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\BUS\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\THIS PC\Downloads\provipno1\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\BUS\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\THIS PC\Downloads\provipno1\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\BUS\bin\Debug\DAO.pdb
+C:\Users\THIS PC\Downloads\provipno1\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\BUS\bin\Debug\DTO.pdb
+C:\Users\THIS PC\Downloads\provipno1\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\BUS\bin\Debug\EPPlus.xml
+C:\Users\THIS PC\Downloads\provipno1\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\BUS\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\THIS PC\Downloads\provipno1\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\THIS PC\Downloads\provipno1\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\THIS PC\Downloads\provipno1\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\THIS PC\Downloads\provipno1\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\BUS\obj\Debug\BUS.dll
+C:\Users\THIS PC\Downloads\provipno1\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\BUS\obj\Debug\BUS.pdb
+C:\Users\dangk\Desktop\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\BUS\bin\Debug\BUS.dll
+C:\Users\dangk\Desktop\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\BUS\bin\Debug\BUS.pdb
+C:\Users\dangk\Desktop\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\BUS\bin\Debug\DAO.dll
+C:\Users\dangk\Desktop\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\BUS\bin\Debug\DTO.dll
+C:\Users\dangk\Desktop\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\BUS\bin\Debug\EPPlus.dll
+C:\Users\dangk\Desktop\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\BUS\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\dangk\Desktop\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\BUS\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\dangk\Desktop\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\BUS\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\dangk\Desktop\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\BUS\bin\Debug\DAO.pdb
+C:\Users\dangk\Desktop\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\BUS\bin\Debug\DTO.pdb
+C:\Users\dangk\Desktop\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\BUS\bin\Debug\EPPlus.xml
+C:\Users\dangk\Desktop\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\BUS\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\dangk\Desktop\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\dangk\Desktop\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\dangk\Desktop\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\dangk\Desktop\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\BUS\obj\Debug\BUS.dll
+C:\Users\dangk\Desktop\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\BUS\obj\Debug\BUS.pdb
+D:\SGU_course\C#_nhom12\5aesieunhan\provipno1-khoa\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\BUS\bin\Debug\BUS.dll
+D:\SGU_course\C#_nhom12\5aesieunhan\provipno1-khoa\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\BUS\bin\Debug\BUS.pdb
+D:\SGU_course\C#_nhom12\5aesieunhan\provipno1-khoa\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\BUS\bin\Debug\DAO.dll
+D:\SGU_course\C#_nhom12\5aesieunhan\provipno1-khoa\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\BUS\bin\Debug\DTO.dll
+D:\SGU_course\C#_nhom12\5aesieunhan\provipno1-khoa\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\BUS\bin\Debug\EPPlus.dll
+D:\SGU_course\C#_nhom12\5aesieunhan\provipno1-khoa\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\BUS\bin\Debug\EPPlus.Interfaces.dll
+D:\SGU_course\C#_nhom12\5aesieunhan\provipno1-khoa\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\BUS\bin\Debug\EPPlus.System.Drawing.dll
+D:\SGU_course\C#_nhom12\5aesieunhan\provipno1-khoa\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\BUS\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\SGU_course\C#_nhom12\5aesieunhan\provipno1-khoa\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\BUS\bin\Debug\DAO.pdb
+D:\SGU_course\C#_nhom12\5aesieunhan\provipno1-khoa\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\BUS\bin\Debug\DTO.pdb
+D:\SGU_course\C#_nhom12\5aesieunhan\provipno1-khoa\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\BUS\bin\Debug\EPPlus.xml
+D:\SGU_course\C#_nhom12\5aesieunhan\provipno1-khoa\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\BUS\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\SGU_course\C#_nhom12\5aesieunhan\provipno1-khoa\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\SGU_course\C#_nhom12\5aesieunhan\provipno1-khoa\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\SGU_course\C#_nhom12\5aesieunhan\provipno1-khoa\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\SGU_course\C#_nhom12\5aesieunhan\provipno1-khoa\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\BUS\obj\Debug\BUS.dll
+D:\SGU_course\C#_nhom12\5aesieunhan\provipno1-khoa\provipno1\hoang, khoa, hung\filengonnhat2\C-Sharp\SuperMarketMini_Management_Software\BUS\obj\Debug\BUS.pdb
+C:\Users\THIS PC\Downloads\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\BUS\bin\Debug\BUS.dll
+C:\Users\THIS PC\Downloads\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\BUS\bin\Debug\BUS.pdb
+C:\Users\THIS PC\Downloads\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\BUS\bin\Debug\DAO.dll
+C:\Users\THIS PC\Downloads\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\BUS\bin\Debug\DTO.dll
+C:\Users\THIS PC\Downloads\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\BUS\bin\Debug\EPPlus.dll
+C:\Users\THIS PC\Downloads\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\BUS\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\THIS PC\Downloads\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\BUS\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\THIS PC\Downloads\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\BUS\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\THIS PC\Downloads\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\BUS\bin\Debug\DAO.pdb
+C:\Users\THIS PC\Downloads\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\BUS\bin\Debug\DTO.pdb
+C:\Users\THIS PC\Downloads\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\BUS\bin\Debug\EPPlus.xml
+C:\Users\THIS PC\Downloads\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\BUS\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\THIS PC\Downloads\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\THIS PC\Downloads\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\THIS PC\Downloads\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\THIS PC\Downloads\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\BUS\obj\Debug\BUS.dll
+C:\Users\THIS PC\Downloads\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\BUS\obj\Debug\BUS.pdb
+D:\ProjectC#New\C-Sharp-provipno1\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\BUS\bin\Debug\BUS.dll
+D:\ProjectC#New\C-Sharp-provipno1\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\BUS\bin\Debug\BUS.pdb
+D:\ProjectC#New\C-Sharp-provipno1\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\BUS\bin\Debug\DAO.dll
+D:\ProjectC#New\C-Sharp-provipno1\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\BUS\bin\Debug\DTO.dll
+D:\ProjectC#New\C-Sharp-provipno1\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\BUS\bin\Debug\EPPlus.dll
+D:\ProjectC#New\C-Sharp-provipno1\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\BUS\bin\Debug\EPPlus.Interfaces.dll
+D:\ProjectC#New\C-Sharp-provipno1\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\BUS\bin\Debug\EPPlus.System.Drawing.dll
+D:\ProjectC#New\C-Sharp-provipno1\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\BUS\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\ProjectC#New\C-Sharp-provipno1\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\BUS\bin\Debug\DAO.pdb
+D:\ProjectC#New\C-Sharp-provipno1\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\BUS\bin\Debug\DTO.pdb
+D:\ProjectC#New\C-Sharp-provipno1\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\BUS\bin\Debug\EPPlus.xml
+D:\ProjectC#New\C-Sharp-provipno1\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\BUS\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\ProjectC#New\C-Sharp-provipno1\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\ProjectC#New\C-Sharp-provipno1\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\ProjectC#New\C-Sharp-provipno1\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\ProjectC#New\C-Sharp-provipno1\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\BUS\obj\Debug\BUS.dll
+D:\ProjectC#New\C-Sharp-provipno1\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\BUS\obj\Debug\BUS.pdb
+C:\Users\THIS PC\Downloads\C-Sharp-provipno1\SuperMarketMini_Management_Software\BUS\bin\Debug\BUS.dll
+C:\Users\THIS PC\Downloads\C-Sharp-provipno1\SuperMarketMini_Management_Software\BUS\bin\Debug\BUS.pdb
+C:\Users\THIS PC\Downloads\C-Sharp-provipno1\SuperMarketMini_Management_Software\BUS\bin\Debug\DAO.dll
+C:\Users\THIS PC\Downloads\C-Sharp-provipno1\SuperMarketMini_Management_Software\BUS\bin\Debug\DTO.dll
+C:\Users\THIS PC\Downloads\C-Sharp-provipno1\SuperMarketMini_Management_Software\BUS\bin\Debug\EPPlus.dll
+C:\Users\THIS PC\Downloads\C-Sharp-provipno1\SuperMarketMini_Management_Software\BUS\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\THIS PC\Downloads\C-Sharp-provipno1\SuperMarketMini_Management_Software\BUS\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\THIS PC\Downloads\C-Sharp-provipno1\SuperMarketMini_Management_Software\BUS\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\THIS PC\Downloads\C-Sharp-provipno1\SuperMarketMini_Management_Software\BUS\bin\Debug\DAO.pdb
+C:\Users\THIS PC\Downloads\C-Sharp-provipno1\SuperMarketMini_Management_Software\BUS\bin\Debug\DTO.pdb
+C:\Users\THIS PC\Downloads\C-Sharp-provipno1\SuperMarketMini_Management_Software\BUS\bin\Debug\EPPlus.xml
+C:\Users\THIS PC\Downloads\C-Sharp-provipno1\SuperMarketMini_Management_Software\BUS\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\THIS PC\Downloads\C-Sharp-provipno1\SuperMarketMini_Management_Software\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\THIS PC\Downloads\C-Sharp-provipno1\SuperMarketMini_Management_Software\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\THIS PC\Downloads\C-Sharp-provipno1\SuperMarketMini_Management_Software\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\THIS PC\Downloads\C-Sharp-provipno1\SuperMarketMini_Management_Software\BUS\obj\Debug\BUS.dll
+C:\Users\THIS PC\Downloads\C-Sharp-provipno1\SuperMarketMini_Management_Software\BUS\obj\Debug\BUS.pdb
+D:\c#ToSubmit\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\BUS\bin\Debug\BUS.dll
+D:\c#ToSubmit\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\BUS\bin\Debug\BUS.pdb
+D:\c#ToSubmit\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\BUS\bin\Debug\DAO.dll
+D:\c#ToSubmit\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\BUS\bin\Debug\DTO.dll
+D:\c#ToSubmit\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\BUS\bin\Debug\EPPlus.dll
+D:\c#ToSubmit\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\BUS\bin\Debug\EPPlus.Interfaces.dll
+D:\c#ToSubmit\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\BUS\bin\Debug\EPPlus.System.Drawing.dll
+D:\c#ToSubmit\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\BUS\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\c#ToSubmit\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\BUS\bin\Debug\DAO.pdb
+D:\c#ToSubmit\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\BUS\bin\Debug\DTO.pdb
+D:\c#ToSubmit\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\BUS\bin\Debug\EPPlus.xml
+D:\c#ToSubmit\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\BUS\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\c#ToSubmit\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\c#ToSubmit\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\c#ToSubmit\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\c#ToSubmit\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\BUS\obj\Debug\BUS.dll
+D:\c#ToSubmit\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\BUS\obj\Debug\BUS.pdb
+D:\SGU_course\C#_nhom12\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\BUS\bin\Debug\BUS.dll
+D:\SGU_course\C#_nhom12\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\BUS\bin\Debug\BUS.pdb
+D:\SGU_course\C#_nhom12\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\BUS\bin\Debug\DAO.dll
+D:\SGU_course\C#_nhom12\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\BUS\bin\Debug\DTO.dll
+D:\SGU_course\C#_nhom12\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\BUS\bin\Debug\EPPlus.dll
+D:\SGU_course\C#_nhom12\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\BUS\bin\Debug\EPPlus.Interfaces.dll
+D:\SGU_course\C#_nhom12\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\BUS\bin\Debug\EPPlus.System.Drawing.dll
+D:\SGU_course\C#_nhom12\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\BUS\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\SGU_course\C#_nhom12\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\BUS\bin\Debug\DAO.pdb
+D:\SGU_course\C#_nhom12\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\BUS\bin\Debug\DTO.pdb
+D:\SGU_course\C#_nhom12\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\BUS\bin\Debug\EPPlus.xml
+D:\SGU_course\C#_nhom12\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\BUS\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\SGU_course\C#_nhom12\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\SGU_course\C#_nhom12\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\SGU_course\C#_nhom12\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\SGU_course\C#_nhom12\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\BUS\obj\Debug\BUS.dll
+D:\SGU_course\C#_nhom12\C-Sharp-provipno1\C-Sharp-provipno1\SuperMarketMini_Management_Software\BUS\obj\Debug\BUS.pdb
+D:\c#ToSubmit\CSharpToSubmit\SuperMarketMini_Management_Software\BUS\bin\Debug\BUS.dll
+D:\c#ToSubmit\CSharpToSubmit\SuperMarketMini_Management_Software\BUS\bin\Debug\BUS.pdb
+D:\c#ToSubmit\CSharpToSubmit\SuperMarketMini_Management_Software\BUS\bin\Debug\DAO.dll
+D:\c#ToSubmit\CSharpToSubmit\SuperMarketMini_Management_Software\BUS\bin\Debug\DTO.dll
+D:\c#ToSubmit\CSharpToSubmit\SuperMarketMini_Management_Software\BUS\bin\Debug\EPPlus.dll
+D:\c#ToSubmit\CSharpToSubmit\SuperMarketMini_Management_Software\BUS\bin\Debug\EPPlus.Interfaces.dll
+D:\c#ToSubmit\CSharpToSubmit\SuperMarketMini_Management_Software\BUS\bin\Debug\EPPlus.System.Drawing.dll
+D:\c#ToSubmit\CSharpToSubmit\SuperMarketMini_Management_Software\BUS\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\c#ToSubmit\CSharpToSubmit\SuperMarketMini_Management_Software\BUS\bin\Debug\DAO.pdb
+D:\c#ToSubmit\CSharpToSubmit\SuperMarketMini_Management_Software\BUS\bin\Debug\DTO.pdb
+D:\c#ToSubmit\CSharpToSubmit\SuperMarketMini_Management_Software\BUS\bin\Debug\EPPlus.xml
+D:\c#ToSubmit\CSharpToSubmit\SuperMarketMini_Management_Software\BUS\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\c#ToSubmit\CSharpToSubmit\SuperMarketMini_Management_Software\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\c#ToSubmit\CSharpToSubmit\SuperMarketMini_Management_Software\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\c#ToSubmit\CSharpToSubmit\SuperMarketMini_Management_Software\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\c#ToSubmit\CSharpToSubmit\SuperMarketMini_Management_Software\BUS\obj\Debug\BUS.dll
+D:\c#ToSubmit\CSharpToSubmit\SuperMarketMini_Management_Software\BUS\obj\Debug\BUS.pdb
+C:\Users\dangk\Desktop\CSharpToSubmit\SuperMarketMini_Management_Software\BUS\bin\Debug\BUS.dll
+C:\Users\dangk\Desktop\CSharpToSubmit\SuperMarketMini_Management_Software\BUS\bin\Debug\BUS.pdb
+C:\Users\dangk\Desktop\CSharpToSubmit\SuperMarketMini_Management_Software\BUS\bin\Debug\DAO.dll
+C:\Users\dangk\Desktop\CSharpToSubmit\SuperMarketMini_Management_Software\BUS\bin\Debug\DTO.dll
+C:\Users\dangk\Desktop\CSharpToSubmit\SuperMarketMini_Management_Software\BUS\bin\Debug\EPPlus.dll
+C:\Users\dangk\Desktop\CSharpToSubmit\SuperMarketMini_Management_Software\BUS\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\dangk\Desktop\CSharpToSubmit\SuperMarketMini_Management_Software\BUS\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\dangk\Desktop\CSharpToSubmit\SuperMarketMini_Management_Software\BUS\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\dangk\Desktop\CSharpToSubmit\SuperMarketMini_Management_Software\BUS\bin\Debug\DAO.pdb
+C:\Users\dangk\Desktop\CSharpToSubmit\SuperMarketMini_Management_Software\BUS\bin\Debug\DTO.pdb
+C:\Users\dangk\Desktop\CSharpToSubmit\SuperMarketMini_Management_Software\BUS\bin\Debug\EPPlus.xml
+C:\Users\dangk\Desktop\CSharpToSubmit\SuperMarketMini_Management_Software\BUS\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\dangk\Desktop\CSharpToSubmit\SuperMarketMini_Management_Software\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\dangk\Desktop\CSharpToSubmit\SuperMarketMini_Management_Software\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\dangk\Desktop\CSharpToSubmit\SuperMarketMini_Management_Software\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\dangk\Desktop\CSharpToSubmit\SuperMarketMini_Management_Software\BUS\obj\Debug\BUS.dll
+C:\Users\dangk\Desktop\CSharpToSubmit\SuperMarketMini_Management_Software\BUS\obj\Debug\BUS.pdb
+D:\SGU_course\C#_nhom12\CSharpToSubmit-2.0\CSharpToSubmit\SuperMarketMini_Management_Software\BUS\bin\Debug\BUS.dll
+D:\SGU_course\C#_nhom12\CSharpToSubmit-2.0\CSharpToSubmit\SuperMarketMini_Management_Software\BUS\bin\Debug\BUS.pdb
+D:\SGU_course\C#_nhom12\CSharpToSubmit-2.0\CSharpToSubmit\SuperMarketMini_Management_Software\BUS\bin\Debug\DAO.dll
+D:\SGU_course\C#_nhom12\CSharpToSubmit-2.0\CSharpToSubmit\SuperMarketMini_Management_Software\BUS\bin\Debug\DTO.dll
+D:\SGU_course\C#_nhom12\CSharpToSubmit-2.0\CSharpToSubmit\SuperMarketMini_Management_Software\BUS\bin\Debug\EPPlus.dll
+D:\SGU_course\C#_nhom12\CSharpToSubmit-2.0\CSharpToSubmit\SuperMarketMini_Management_Software\BUS\bin\Debug\EPPlus.Interfaces.dll
+D:\SGU_course\C#_nhom12\CSharpToSubmit-2.0\CSharpToSubmit\SuperMarketMini_Management_Software\BUS\bin\Debug\EPPlus.System.Drawing.dll
+D:\SGU_course\C#_nhom12\CSharpToSubmit-2.0\CSharpToSubmit\SuperMarketMini_Management_Software\BUS\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\SGU_course\C#_nhom12\CSharpToSubmit-2.0\CSharpToSubmit\SuperMarketMini_Management_Software\BUS\bin\Debug\DAO.pdb
+D:\SGU_course\C#_nhom12\CSharpToSubmit-2.0\CSharpToSubmit\SuperMarketMini_Management_Software\BUS\bin\Debug\DTO.pdb
+D:\SGU_course\C#_nhom12\CSharpToSubmit-2.0\CSharpToSubmit\SuperMarketMini_Management_Software\BUS\bin\Debug\EPPlus.xml
+D:\SGU_course\C#_nhom12\CSharpToSubmit-2.0\CSharpToSubmit\SuperMarketMini_Management_Software\BUS\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\SGU_course\C#_nhom12\CSharpToSubmit-2.0\CSharpToSubmit\SuperMarketMini_Management_Software\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\SGU_course\C#_nhom12\CSharpToSubmit-2.0\CSharpToSubmit\SuperMarketMini_Management_Software\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\SGU_course\C#_nhom12\CSharpToSubmit-2.0\CSharpToSubmit\SuperMarketMini_Management_Software\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\SGU_course\C#_nhom12\CSharpToSubmit-2.0\CSharpToSubmit\SuperMarketMini_Management_Software\BUS\obj\Debug\BUS.dll
+D:\SGU_course\C#_nhom12\CSharpToSubmit-2.0\CSharpToSubmit\SuperMarketMini_Management_Software\BUS\obj\Debug\BUS.pdb
+D:\HTTTDN\C-Sharp\SuperMarketMini_Management_Software\BUS\bin\Debug\BUS.dll
+D:\HTTTDN\C-Sharp\SuperMarketMini_Management_Software\BUS\bin\Debug\BUS.pdb
+D:\HTTTDN\C-Sharp\SuperMarketMini_Management_Software\BUS\bin\Debug\DAO.dll
+D:\HTTTDN\C-Sharp\SuperMarketMini_Management_Software\BUS\bin\Debug\DTO.dll
+D:\HTTTDN\C-Sharp\SuperMarketMini_Management_Software\BUS\bin\Debug\EPPlus.dll
+D:\HTTTDN\C-Sharp\SuperMarketMini_Management_Software\BUS\bin\Debug\EPPlus.Interfaces.dll
+D:\HTTTDN\C-Sharp\SuperMarketMini_Management_Software\BUS\bin\Debug\EPPlus.System.Drawing.dll
+D:\HTTTDN\C-Sharp\SuperMarketMini_Management_Software\BUS\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\HTTTDN\C-Sharp\SuperMarketMini_Management_Software\BUS\bin\Debug\DAO.pdb
+D:\HTTTDN\C-Sharp\SuperMarketMini_Management_Software\BUS\bin\Debug\DTO.pdb
+D:\HTTTDN\C-Sharp\SuperMarketMini_Management_Software\BUS\bin\Debug\EPPlus.xml
+D:\HTTTDN\C-Sharp\SuperMarketMini_Management_Software\BUS\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\HTTTDN\C-Sharp\SuperMarketMini_Management_Software\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\HTTTDN\C-Sharp\SuperMarketMini_Management_Software\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\HTTTDN\C-Sharp\SuperMarketMini_Management_Software\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\HTTTDN\C-Sharp\SuperMarketMini_Management_Software\BUS\obj\Debug\BUS.dll
+D:\HTTTDN\C-Sharp\SuperMarketMini_Management_Software\BUS\obj\Debug\BUS.pdb

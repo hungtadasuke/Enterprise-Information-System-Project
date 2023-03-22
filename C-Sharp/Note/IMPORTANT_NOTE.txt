@@ -1,0 +1,6 @@
+1. Khi đã hoàn thành xong phần của mình, nếu muốn push lên thì phải thỏa những điều kiện sau:
+	+ Tạo một branch dự phòng trên chính nhánh mình đang thực hiện (bắt buộc).
+	+ Chuyển sang master, thực hiện git merge ten_nhanh_muon_merge. Nếu merge xuất hiện các từ "conflict, aborting, fail" thì phải coi lại.
+	+ Nếu merge thành công thì pull code từ github về.
+	+ Trong quá trình pull nếu xuất hiện các từ "conflict, aborting, fail" thì phải chờ họp để fix conflict, không được cố tình push lên.
+	+ Chương trình đạt chuẩn để push lên, nếu khi chạy không xuất hiện màn hình đính kèm bên dưới.
