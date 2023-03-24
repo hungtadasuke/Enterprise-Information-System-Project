@@ -81,3 +81,9 @@ D:\HTTTDN\C-Sharp\SuperMarketMini_Management_Software\DTO\obj\Debug\DTO.csproj.A
 D:\HTTTDN\C-Sharp\SuperMarketMini_Management_Software\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
 D:\HTTTDN\C-Sharp\SuperMarketMini_Management_Software\DTO\obj\Debug\DTO.dll
 D:\HTTTDN\C-Sharp\SuperMarketMini_Management_Software\DTO\obj\Debug\DTO.pdb
+D:\SGU_course\hethongthontindoanhnghiep\provipno1\Enterprise-Information-System-Project\C-Sharp\SuperMarketMini_Management_Software\DTO\bin\Debug\DTO.dll
+D:\SGU_course\hethongthontindoanhnghiep\provipno1\Enterprise-Information-System-Project\C-Sharp\SuperMarketMini_Management_Software\DTO\bin\Debug\DTO.pdb
+D:\SGU_course\hethongthontindoanhnghiep\provipno1\Enterprise-Information-System-Project\C-Sharp\SuperMarketMini_Management_Software\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\SGU_course\hethongthontindoanhnghiep\provipno1\Enterprise-Information-System-Project\C-Sharp\SuperMarketMini_Management_Software\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\SGU_course\hethongthontindoanhnghiep\provipno1\Enterprise-Information-System-Project\C-Sharp\SuperMarketMini_Management_Software\DTO\obj\Debug\DTO.dll
+D:\SGU_course\hethongthontindoanhnghiep\provipno1\Enterprise-Information-System-Project\C-Sharp\SuperMarketMini_Management_Software\DTO\obj\Debug\DTO.pdb

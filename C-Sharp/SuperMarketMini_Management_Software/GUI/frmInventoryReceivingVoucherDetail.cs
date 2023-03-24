@@ -431,6 +431,7 @@ namespace GUI
                                 InventoryReceivingVoucherDetailDTO irvd = new InventoryReceivingVoucherDetailDTO();
                                 irvd.Product_ID = irvdP.lblProductId.Text;
                                 irvd.Quantity = int.Parse(irvdP.txtQuantity.Text);
+                                irvd.UnitPrice = double.Parse(irvdP.txtUnitPrice.Text.Split(' ')[0]);
                                 lisIRVD.Add(irvd);
                             }
 

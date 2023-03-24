@@ -205,3 +205,12 @@ D:\HTTTDN\C-Sharp\SuperMarketMini_Management_Software\DAO\obj\Debug\DAO.csproj.C
 D:\HTTTDN\C-Sharp\SuperMarketMini_Management_Software\DAO\obj\Debug\DAO.csproj.CopyComplete
 D:\HTTTDN\C-Sharp\SuperMarketMini_Management_Software\DAO\obj\Debug\DAO.dll
 D:\HTTTDN\C-Sharp\SuperMarketMini_Management_Software\DAO\obj\Debug\DAO.pdb
+D:\SGU_course\hethongthontindoanhnghiep\provipno1\Enterprise-Information-System-Project\C-Sharp\SuperMarketMini_Management_Software\DAO\bin\Debug\DAO.dll
+D:\SGU_course\hethongthontindoanhnghiep\provipno1\Enterprise-Information-System-Project\C-Sharp\SuperMarketMini_Management_Software\DAO\bin\Debug\DAO.pdb
+D:\SGU_course\hethongthontindoanhnghiep\provipno1\Enterprise-Information-System-Project\C-Sharp\SuperMarketMini_Management_Software\DAO\bin\Debug\DTO.dll
+D:\SGU_course\hethongthontindoanhnghiep\provipno1\Enterprise-Information-System-Project\C-Sharp\SuperMarketMini_Management_Software\DAO\bin\Debug\DTO.pdb
+D:\SGU_course\hethongthontindoanhnghiep\provipno1\Enterprise-Information-System-Project\C-Sharp\SuperMarketMini_Management_Software\DAO\obj\Debug\DAO.csproj.AssemblyReference.cache
+D:\SGU_course\hethongthontindoanhnghiep\provipno1\Enterprise-Information-System-Project\C-Sharp\SuperMarketMini_Management_Software\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+D:\SGU_course\hethongthontindoanhnghiep\provipno1\Enterprise-Information-System-Project\C-Sharp\SuperMarketMini_Management_Software\DAO\obj\Debug\DAO.csproj.CopyComplete
+D:\SGU_course\hethongthontindoanhnghiep\provipno1\Enterprise-Information-System-Project\C-Sharp\SuperMarketMini_Management_Software\DAO\obj\Debug\DAO.dll
+D:\SGU_course\hethongthontindoanhnghiep\provipno1\Enterprise-Information-System-Project\C-Sharp\SuperMarketMini_Management_Software\DAO\obj\Debug\DAO.pdb

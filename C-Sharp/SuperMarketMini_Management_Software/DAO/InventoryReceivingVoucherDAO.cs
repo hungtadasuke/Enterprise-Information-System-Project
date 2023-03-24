@@ -190,7 +190,7 @@ namespace DAO
                 for (int i = 0; i < listIRVD.Count; i++)
                 {
                     InventoryReceivingVoucherDetailDTO IRVDetail = listIRVD[i];
-                    cmd.CommandText += $"('{reId}', '{IRVDetail.Product_ID}', {IRVDetail.Quantity})";
+                    cmd.CommandText += $"('{reId}', '{IRVDetail.Product_ID}', {IRVDetail.Quantity}, {IRVDetail.UnitPrice})";
                     if (i < listIRVD.Count - 1)
                     {
                         cmd.CommandText += ", ";
