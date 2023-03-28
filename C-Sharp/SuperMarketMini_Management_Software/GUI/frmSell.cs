@@ -74,24 +74,6 @@ namespace GUI
         private void timer_Tick(object sender, EventArgs e)
         {
             this.setTimeForStatusBar();
-
-            // Barcode Scanner
-
-            BarcodeReader reader = new BarcodeReader();
-            Result result = reader.Decode((Bitmap)Camera.Image);
-            try
-            {
-                string decoded = result.ToString().Trim();
-                if(decoded != "")
-                {
-                    tbBarcode.Text = decoded;
-                }
-            }
-            catch (Exception)
-            {
-
-                throw;
-            }
         }
 
         //Set time for statusBar
@@ -946,6 +928,15 @@ namespace GUI
             this.CustomerBUS.resetCustomerList();
             this.fillCustomerListToAutoCompleteSrcSearch();
         }
+        private byte[] convertImageToBinaryString(Image img)
+        {
+            MemoryStream ms = new MemoryStream();
+            img.Save(ms, System.Drawing.Imaging.ImageFormat.Png);
+            return ms.ToArray();
+            //Or we can input a path, and in function, Image will be created by that path and everything take place normal
+            //Or
+            /*return File.ReadAllBytes(path);*/
+        }
 
         private void btnTest_Click(object sender, EventArgs e)
         {
@@ -956,20 +947,48 @@ namespace GUI
 
         private void VideoCaptureDevice_NewFrame(object sender, AForge.Video.NewFrameEventArgs eventArgs)
         {
-            Camera.Image = (Bitmap)eventArgs.Frame.Clone();
+            Bitmap img = (Bitmap)eventArgs.Frame.Clone();
+            BarcodeReader reader = new BarcodeReader();
+
+            reader.Options.PossibleFormats = new List<BarcodeFormat>();
+            reader.Options.PossibleFormats.Add(BarcodeFormat.EAN_13);
+            reader.Options.TryHarder = true;
+
+            var result = reader.Decode(img);
+
+            if (result != null)
+            {
+                tbBarcode.Invoke(new MethodInvoker(delegate ()
+                {
+                    tbBarcode.Texts = result.ToString().Trim();
+                }));
+            }
+            Camera.Image = img;
         }
 
         private void hrjButton1_Click(object sender, EventArgs e)
         {
+            // ẩn phân trang
+            pnDevidePagesContainer.Visible = !pnDevidePagesContainer.Visible;
+            // ẩn thanh search sản phẩm
+            pnProductSearch.Visible = !pnProductSearch.Visible;
+            // ẩn bộ lọc sản phẩm
+            btnProductFilter.Visible = !btnProductFilter.Visible;
+            // ẩn container chọn sản phẩm
+            fpnProductInforContainer.Visible = !pnChoseProductContainer.Visible;
+
+            // hiện camera
+            PanelBarcode.Visible = !PanelBarcode.Visible;
 
         }
 
         private void frmSell_FormClosing(object sender, FormClosingEventArgs e)
         {
-            if(videoCaptureDevice.IsRunning == true)
-            {
-                videoCaptureDevice.Stop();
-            }
+            if(videoCaptureDevice != null)
+                if(videoCaptureDevice.IsRunning == true)
+                {
+                    videoCaptureDevice.Stop();
+                }
         }
     }
 

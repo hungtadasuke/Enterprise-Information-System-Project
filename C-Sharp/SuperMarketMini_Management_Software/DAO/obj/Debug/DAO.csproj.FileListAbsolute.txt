@@ -223,3 +223,12 @@ C:\Users\dangk\Desktop\git\C-Sharp\Enterprise-Information-System-Project\C-Sharp
 C:\Users\dangk\Desktop\git\C-Sharp\Enterprise-Information-System-Project\C-Sharp\SuperMarketMini_Management_Software\DAO\obj\Debug\DAO.csproj.CopyComplete
 C:\Users\dangk\Desktop\git\C-Sharp\Enterprise-Information-System-Project\C-Sharp\SuperMarketMini_Management_Software\DAO\obj\Debug\DAO.dll
 C:\Users\dangk\Desktop\git\C-Sharp\Enterprise-Information-System-Project\C-Sharp\SuperMarketMini_Management_Software\DAO\obj\Debug\DAO.pdb
+C:\Users\Khoa\Desktop\git\Enterprise-Information-System-Project\C-Sharp\SuperMarketMini_Management_Software\DAO\obj\Debug\DAO.csproj.AssemblyReference.cache
+C:\Users\Khoa\Desktop\git\Enterprise-Information-System-Project\C-Sharp\SuperMarketMini_Management_Software\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+C:\Users\Khoa\Desktop\git\Enterprise-Information-System-Project\C-Sharp\SuperMarketMini_Management_Software\DAO\obj\Debug\DAO.dll
+C:\Users\Khoa\Desktop\git\Enterprise-Information-System-Project\C-Sharp\SuperMarketMini_Management_Software\DAO\obj\Debug\DAO.pdb
+C:\Users\Khoa\Desktop\git\Enterprise-Information-System-Project\C-Sharp\SuperMarketMini_Management_Software\DAO\bin\Debug\DAO.dll
+C:\Users\Khoa\Desktop\git\Enterprise-Information-System-Project\C-Sharp\SuperMarketMini_Management_Software\DAO\bin\Debug\DAO.pdb
+C:\Users\Khoa\Desktop\git\Enterprise-Information-System-Project\C-Sharp\SuperMarketMini_Management_Software\DAO\bin\Debug\DTO.dll
+C:\Users\Khoa\Desktop\git\Enterprise-Information-System-Project\C-Sharp\SuperMarketMini_Management_Software\DAO\bin\Debug\DTO.pdb
+C:\Users\Khoa\Desktop\git\Enterprise-Information-System-Project\C-Sharp\SuperMarketMini_Management_Software\DAO\obj\Debug\DAO.csproj.CopyComplete

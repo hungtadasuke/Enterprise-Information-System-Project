@@ -12,7 +12,7 @@ namespace DAO
         public static SqlConnection getConnection()
         {
             //return new SqlConnection(@"Data Source=ADMIN\SQLEXPRESS;Initial Catalog=SuperMarket_Management_DB;User ID=sa;Password=123");
-            return new SqlConnection(@"Data Source=DangKhoa;Initial Catalog=SuperMarket_Management_DB;User ID=sa;Password=123");
+            return new SqlConnection(@"Data Source=MSI\SQLEXPRESS;Initial Catalog=SuperMarket_Management_DB;User ID=sa;Password=123");
             //return new SqlConnection(@"Data Source=LAPTOP-BD4B517R;Initial Catalog=SuperMarket_Management_DB;User ID=sa;Password=123");
             //return new SqlConnection(@"Data Source = MYSUPERASUS\MYSUPERASUS; Initial Catalog = SuperMarket_Management_DB; Persist Security Info = True; User ID = sa; Password = 123");
             //return new SqlConnection(@"Data Source=LAPTOP-IECMHDS7;Initial Catalog=QLST;Persist Security Info=True;User ID=sa;Password=123");
