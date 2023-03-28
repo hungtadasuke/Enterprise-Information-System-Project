@@ -214,3 +214,12 @@ D:\SGU_course\hethongthontindoanhnghiep\provipno1\Enterprise-Information-System-
 D:\SGU_course\hethongthontindoanhnghiep\provipno1\Enterprise-Information-System-Project\C-Sharp\SuperMarketMini_Management_Software\DAO\obj\Debug\DAO.csproj.CopyComplete
 D:\SGU_course\hethongthontindoanhnghiep\provipno1\Enterprise-Information-System-Project\C-Sharp\SuperMarketMini_Management_Software\DAO\obj\Debug\DAO.dll
 D:\SGU_course\hethongthontindoanhnghiep\provipno1\Enterprise-Information-System-Project\C-Sharp\SuperMarketMini_Management_Software\DAO\obj\Debug\DAO.pdb
+C:\Users\dangk\Desktop\git\C-Sharp\Enterprise-Information-System-Project\C-Sharp\SuperMarketMini_Management_Software\DAO\bin\Debug\DAO.dll
+C:\Users\dangk\Desktop\git\C-Sharp\Enterprise-Information-System-Project\C-Sharp\SuperMarketMini_Management_Software\DAO\bin\Debug\DAO.pdb
+C:\Users\dangk\Desktop\git\C-Sharp\Enterprise-Information-System-Project\C-Sharp\SuperMarketMini_Management_Software\DAO\bin\Debug\DTO.dll
+C:\Users\dangk\Desktop\git\C-Sharp\Enterprise-Information-System-Project\C-Sharp\SuperMarketMini_Management_Software\DAO\bin\Debug\DTO.pdb
+C:\Users\dangk\Desktop\git\C-Sharp\Enterprise-Information-System-Project\C-Sharp\SuperMarketMini_Management_Software\DAO\obj\Debug\DAO.csproj.AssemblyReference.cache
+C:\Users\dangk\Desktop\git\C-Sharp\Enterprise-Information-System-Project\C-Sharp\SuperMarketMini_Management_Software\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+C:\Users\dangk\Desktop\git\C-Sharp\Enterprise-Information-System-Project\C-Sharp\SuperMarketMini_Management_Software\DAO\obj\Debug\DAO.csproj.CopyComplete
+C:\Users\dangk\Desktop\git\C-Sharp\Enterprise-Information-System-Project\C-Sharp\SuperMarketMini_Management_Software\DAO\obj\Debug\DAO.dll
+C:\Users\dangk\Desktop\git\C-Sharp\Enterprise-Information-System-Project\C-Sharp\SuperMarketMini_Management_Software\DAO\obj\Debug\DAO.pdb

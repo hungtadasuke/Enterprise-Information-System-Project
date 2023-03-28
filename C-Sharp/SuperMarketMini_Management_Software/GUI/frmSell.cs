@@ -8,8 +8,10 @@ using System.Security.Cryptography;
 using System.Security.Policy;
 using System.Windows.Forms;
 using System.Xml.Linq;
+using AForge.Video.DirectShow;
 using BUS;
 using DTO;
+using ZXing;
 
 namespace GUI
 {
@@ -32,7 +34,7 @@ namespace GUI
         //Mảng lưu trữ các checkBox Category Filter
         private List<CheckBox> chkCategogyList;
 
-        //Properties
+        //Constructor
         public ProductBUS ProductBUS { get => productBUS; set => productBUS = value; }
         public CustomerBUS CustomerBUS { get => customerBUS; set => customerBUS = value; }
         public static int ProductsPerPage => productsPerPage;
@@ -41,7 +43,12 @@ namespace GUI
         public List<CheckBox> ChkCategogyList { get => chkCategogyList; set => chkCategogyList = value; }
         public BillBUS BillBUS { get => billBUS; set => billBUS = value; }
 
-        //Constructor
+        //Khởi tạo biến cho camera
+
+        FilterInfoCollection filterInfoCollection = new FilterInfoCollection(FilterCategory.VideoInputDevice);
+        VideoCaptureDevice videoCaptureDevice;
+
+
         public frmSell()
         {
             //Khởi tạo các biến và đối tượng
@@ -67,6 +74,24 @@ namespace GUI
         private void timer_Tick(object sender, EventArgs e)
         {
             this.setTimeForStatusBar();
+
+            // Barcode Scanner
+
+            BarcodeReader reader = new BarcodeReader();
+            Result result = reader.Decode((Bitmap)Camera.Image);
+            try
+            {
+                string decoded = result.ToString().Trim();
+                if(decoded != "")
+                {
+                    tbBarcode.Text = decoded;
+                }
+            }
+            catch (Exception)
+            {
+
+                throw;
+            }
         }
 
         //Set time for statusBar
@@ -920,6 +945,31 @@ namespace GUI
 
             this.CustomerBUS.resetCustomerList();
             this.fillCustomerListToAutoCompleteSrcSearch();
+        }
+
+        private void btnTest_Click(object sender, EventArgs e)
+        {
+            videoCaptureDevice = new VideoCaptureDevice(filterInfoCollection[0].MonikerString);
+            videoCaptureDevice.NewFrame += VideoCaptureDevice_NewFrame;
+            videoCaptureDevice.Start();
+        }
+
+        private void VideoCaptureDevice_NewFrame(object sender, AForge.Video.NewFrameEventArgs eventArgs)
+        {
+            Camera.Image = (Bitmap)eventArgs.Frame.Clone();
+        }
+
+        private void hrjButton1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void frmSell_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            if(videoCaptureDevice.IsRunning == true)
+            {
+                videoCaptureDevice.Stop();
+            }
         }
     }
 

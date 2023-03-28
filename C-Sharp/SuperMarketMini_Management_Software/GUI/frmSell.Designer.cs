@@ -34,30 +34,22 @@ namespace GUI
             this.components = new System.ComponentModel.Container();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(frmSell));
             this.pnHeader = new System.Windows.Forms.Panel();
-            this.picPrintBill = new System.Windows.Forms.PictureBox();
             this.lblStaffInfo = new System.Windows.Forms.Label();
-            this.picHome = new System.Windows.Forms.PictureBox();
             this.pnCustomerSearch = new System.Windows.Forms.Panel();
-            this.picAddCustomer = new System.Windows.Forms.PictureBox();
-            this.picDelCustomerSearch = new System.Windows.Forms.PictureBox();
             this.txtCustomerSearch = new System.Windows.Forms.TextBox();
             this.pnChoseProductContainer = new System.Windows.Forms.Panel();
             this.pnProductSearch = new System.Windows.Forms.Panel();
             this.txtProductSearch = new System.Windows.Forms.TextBox();
             this.fpnProductFilter = new System.Windows.Forms.FlowLayoutPanel();
-            this.btnProductFilter = new System.Windows.Forms.Button();
             this.btnPayment = new System.Windows.Forms.Button();
             this.pnDevidePagesContainer = new System.Windows.Forms.Panel();
-            this.btnRightPage = new System.Windows.Forms.Button();
             this.lblPageInfo = new System.Windows.Forms.Label();
-            this.btnLeftPage = new System.Windows.Forms.Button();
             this.fpnProductInforContainer = new System.Windows.Forms.FlowLayoutPanel();
             this.statusDateTimeBar = new System.Windows.Forms.StatusStrip();
             this.lblDateTimeNowInBar = new System.Windows.Forms.ToolStripStatusLabel();
             this.timerDateTimeBar = new System.Windows.Forms.Timer(this.components);
             this.fpnShowDetailOrder = new System.Windows.Forms.FlowLayoutPanel();
             this.pnDisplayItemOrder = new System.Windows.Forms.Panel();
-            this.btnApplyPoint = new GUI.HRJButton();
             this.lblDoubleDot6 = new System.Windows.Forms.Label();
             this.lblDoubleDot5 = new System.Windows.Forms.Label();
             this.lblDoubleDot3 = new System.Windows.Forms.Label();
@@ -76,22 +68,38 @@ namespace GUI
             this.lblDiscountedTotal = new System.Windows.Forms.Label();
             this.lblTotal = new System.Windows.Forms.Label();
             this.lblDiscount = new System.Windows.Forms.Label();
+            this.btnProductFilter = new System.Windows.Forms.Button();
+            this.btnRightPage = new System.Windows.Forms.Button();
+            this.btnLeftPage = new System.Windows.Forms.Button();
+            this.picPrintBill = new System.Windows.Forms.PictureBox();
+            this.picHome = new System.Windows.Forms.PictureBox();
+            this.picAddCustomer = new System.Windows.Forms.PictureBox();
+            this.picDelCustomerSearch = new System.Windows.Forms.PictureBox();
+            this.hrjButton1 = new GUI.HRJButton();
+            this.btnApplyPoint = new GUI.HRJButton();
+            this.PanelBarcode = new System.Windows.Forms.FlowLayoutPanel();
+            this.Camera = new System.Windows.Forms.PictureBox();
+            this.btnTest = new System.Windows.Forms.Button();
+            this.tbBarcode = new GUI.RJControls.RJTextBox();
             this.pnHeader.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.picPrintBill)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.picHome)).BeginInit();
             this.pnCustomerSearch.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.picAddCustomer)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.picDelCustomerSearch)).BeginInit();
             this.pnChoseProductContainer.SuspendLayout();
             this.pnProductSearch.SuspendLayout();
             this.pnDevidePagesContainer.SuspendLayout();
             this.statusDateTimeBar.SuspendLayout();
             this.pnDisplayItemOrder.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.picPrintBill)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.picHome)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.picAddCustomer)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.picDelCustomerSearch)).BeginInit();
+            this.PanelBarcode.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.Camera)).BeginInit();
             this.SuspendLayout();
             // 
             // pnHeader
             // 
             this.pnHeader.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(136)))), ((int)(((byte)(232)))));
+            this.pnHeader.Controls.Add(this.tbBarcode);
             this.pnHeader.Controls.Add(this.picPrintBill);
             this.pnHeader.Controls.Add(this.lblStaffInfo);
             this.pnHeader.Controls.Add(this.picHome);
@@ -101,20 +109,6 @@ namespace GUI
             this.pnHeader.Name = "pnHeader";
             this.pnHeader.Size = new System.Drawing.Size(1334, 49);
             this.pnHeader.TabIndex = 0;
-            // 
-            // picPrintBill
-            // 
-            this.picPrintBill.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.picPrintBill.Image = global::GUI.Properties.Resources.printer__2_;
-            this.picPrintBill.Location = new System.Drawing.Point(1219, 7);
-            this.picPrintBill.Name = "picPrintBill";
-            this.picPrintBill.Size = new System.Drawing.Size(37, 37);
-            this.picPrintBill.SizeMode = System.Windows.Forms.PictureBoxSizeMode.CenterImage;
-            this.picPrintBill.TabIndex = 3;
-            this.picPrintBill.TabStop = false;
-            this.picPrintBill.Click += new System.EventHandler(this.picPrintBill_Click);
-            this.picPrintBill.MouseEnter += new System.EventHandler(this.picPrintBill_MouseEnter);
-            this.picPrintBill.MouseLeave += new System.EventHandler(this.picPrintBill_MouseLeave);
             // 
             // lblStaffInfo
             // 
@@ -128,19 +122,6 @@ namespace GUI
             this.lblStaffInfo.Text = "ST01_Võ Quang Đăng Khoa";
             this.lblStaffInfo.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
             // 
-            // picHome
-            // 
-            this.picHome.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.picHome.Image = ((System.Drawing.Image)(resources.GetObject("picHome.Image")));
-            this.picHome.Location = new System.Drawing.Point(1274, 7);
-            this.picHome.Name = "picHome";
-            this.picHome.Size = new System.Drawing.Size(32, 37);
-            this.picHome.TabIndex = 1;
-            this.picHome.TabStop = false;
-            this.picHome.Click += new System.EventHandler(this.picHome_Click);
-            this.picHome.MouseEnter += new System.EventHandler(this.picHome_MouseEnter);
-            this.picHome.MouseLeave += new System.EventHandler(this.picHome_MouseLeave);
-            // 
             // pnCustomerSearch
             // 
             this.pnCustomerSearch.BackColor = System.Drawing.Color.White;
@@ -151,30 +132,6 @@ namespace GUI
             this.pnCustomerSearch.Name = "pnCustomerSearch";
             this.pnCustomerSearch.Size = new System.Drawing.Size(313, 29);
             this.pnCustomerSearch.TabIndex = 0;
-            // 
-            // picAddCustomer
-            // 
-            this.picAddCustomer.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.picAddCustomer.Image = global::GUI.Properties.Resources.plus__1_;
-            this.picAddCustomer.Location = new System.Drawing.Point(278, 0);
-            this.picAddCustomer.Name = "picAddCustomer";
-            this.picAddCustomer.Size = new System.Drawing.Size(31, 29);
-            this.picAddCustomer.SizeMode = System.Windows.Forms.PictureBoxSizeMode.CenterImage;
-            this.picAddCustomer.TabIndex = 1;
-            this.picAddCustomer.TabStop = false;
-            this.picAddCustomer.Click += new System.EventHandler(this.picAddCustomer_Click);
-            // 
-            // picDelCustomerSearch
-            // 
-            this.picDelCustomerSearch.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.picDelCustomerSearch.Image = global::GUI.Properties.Resources.close__1_;
-            this.picDelCustomerSearch.Location = new System.Drawing.Point(278, 0);
-            this.picDelCustomerSearch.Name = "picDelCustomerSearch";
-            this.picDelCustomerSearch.Size = new System.Drawing.Size(31, 29);
-            this.picDelCustomerSearch.SizeMode = System.Windows.Forms.PictureBoxSizeMode.CenterImage;
-            this.picDelCustomerSearch.TabIndex = 0;
-            this.picDelCustomerSearch.TabStop = false;
-            this.picDelCustomerSearch.Click += new System.EventHandler(this.picDelCustomerSearch_Click);
             // 
             // txtCustomerSearch
             // 
@@ -196,6 +153,9 @@ namespace GUI
             // pnChoseProductContainer
             // 
             this.pnChoseProductContainer.BackColor = System.Drawing.Color.White;
+            this.pnChoseProductContainer.Controls.Add(this.btnTest);
+            this.pnChoseProductContainer.Controls.Add(this.PanelBarcode);
+            this.pnChoseProductContainer.Controls.Add(this.hrjButton1);
             this.pnChoseProductContainer.Controls.Add(this.pnProductSearch);
             this.pnChoseProductContainer.Controls.Add(this.fpnProductFilter);
             this.pnChoseProductContainer.Controls.Add(this.btnProductFilter);
@@ -243,20 +203,6 @@ namespace GUI
             this.fpnProductFilter.TabIndex = 6;
             this.fpnProductFilter.Visible = false;
             // 
-            // btnProductFilter
-            // 
-            this.btnProductFilter.BackColor = System.Drawing.Color.Transparent;
-            this.btnProductFilter.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.btnProductFilter.FlatAppearance.BorderSize = 0;
-            this.btnProductFilter.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnProductFilter.Image = global::GUI.Properties.Resources.filter;
-            this.btnProductFilter.Location = new System.Drawing.Point(601, 18);
-            this.btnProductFilter.Name = "btnProductFilter";
-            this.btnProductFilter.Size = new System.Drawing.Size(37, 32);
-            this.btnProductFilter.TabIndex = 4;
-            this.btnProductFilter.UseVisualStyleBackColor = false;
-            this.btnProductFilter.Click += new System.EventHandler(this.btnProductFilter_Click);
-            // 
             // btnPayment
             // 
             this.btnPayment.BackColor = System.Drawing.Color.LightGray;
@@ -289,18 +235,6 @@ namespace GUI
             this.pnDevidePagesContainer.Size = new System.Drawing.Size(150, 52);
             this.pnDevidePagesContainer.TabIndex = 1;
             // 
-            // btnRightPage
-            // 
-            this.btnRightPage.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.btnRightPage.Image = global::GUI.Properties.Resources.arrow_point_to_right__1_;
-            this.btnRightPage.Location = new System.Drawing.Point(104, 13);
-            this.btnRightPage.Margin = new System.Windows.Forms.Padding(2);
-            this.btnRightPage.Name = "btnRightPage";
-            this.btnRightPage.Size = new System.Drawing.Size(26, 30);
-            this.btnRightPage.TabIndex = 1;
-            this.btnRightPage.UseVisualStyleBackColor = true;
-            this.btnRightPage.Click += new System.EventHandler(this.btnRightPage_Click);
-            // 
             // lblPageInfo
             // 
             this.lblPageInfo.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
@@ -311,18 +245,6 @@ namespace GUI
             this.lblPageInfo.TabIndex = 2;
             this.lblPageInfo.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             this.lblPageInfo.TextChanged += new System.EventHandler(this.lblPageInfo_TextChanged);
-            // 
-            // btnLeftPage
-            // 
-            this.btnLeftPage.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.btnLeftPage.Image = global::GUI.Properties.Resources.arrowhead_thin_outline_to_the_left__1_;
-            this.btnLeftPage.Location = new System.Drawing.Point(22, 13);
-            this.btnLeftPage.Margin = new System.Windows.Forms.Padding(2);
-            this.btnLeftPage.Name = "btnLeftPage";
-            this.btnLeftPage.Size = new System.Drawing.Size(26, 30);
-            this.btnLeftPage.TabIndex = 0;
-            this.btnLeftPage.UseVisualStyleBackColor = true;
-            this.btnLeftPage.Click += new System.EventHandler(this.btnLeftPage_Click);
             // 
             // fpnProductInforContainer
             // 
@@ -395,30 +317,6 @@ namespace GUI
             this.pnDisplayItemOrder.Name = "pnDisplayItemOrder";
             this.pnDisplayItemOrder.Size = new System.Drawing.Size(673, 105);
             this.pnDisplayItemOrder.TabIndex = 1;
-            // 
-            // btnApplyPoint
-            // 
-            this.btnApplyPoint.BackColor = System.Drawing.Color.DodgerBlue;
-            this.btnApplyPoint.BackgroundColor = System.Drawing.Color.DodgerBlue;
-            this.btnApplyPoint.BorderColor = System.Drawing.Color.Silver;
-            this.btnApplyPoint.BorderRadius = 4;
-            this.btnApplyPoint.BorderSize = 1;
-            this.btnApplyPoint.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.btnApplyPoint.FlatAppearance.BorderSize = 0;
-            this.btnApplyPoint.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnApplyPoint.Font = new System.Drawing.Font("Segoe UI", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnApplyPoint.ForeColor = System.Drawing.Color.White;
-            this.btnApplyPoint.Location = new System.Drawing.Point(205, 70);
-            this.btnApplyPoint.Name = "btnApplyPoint";
-            this.btnApplyPoint.Size = new System.Drawing.Size(79, 23);
-            this.btnApplyPoint.TabIndex = 16;
-            this.btnApplyPoint.Text = "Quy Đổi";
-            this.btnApplyPoint.TextColor = System.Drawing.Color.White;
-            this.btnApplyPoint.UseVisualStyleBackColor = false;
-            this.btnApplyPoint.Visible = false;
-            this.btnApplyPoint.Click += new System.EventHandler(this.btnApplyPoint_Click);
-            this.btnApplyPoint.MouseEnter += new System.EventHandler(this.btnApplyPoint_MouseEnter);
-            this.btnApplyPoint.MouseLeave += new System.EventHandler(this.btnApplyPoint_MouseLeave);
             // 
             // lblDoubleDot6
             // 
@@ -598,6 +496,198 @@ namespace GUI
             this.lblDiscount.TabIndex = 0;
             this.lblDiscount.Text = "Giảm Giá";
             // 
+            // btnProductFilter
+            // 
+            this.btnProductFilter.BackColor = System.Drawing.Color.Transparent;
+            this.btnProductFilter.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.btnProductFilter.FlatAppearance.BorderSize = 0;
+            this.btnProductFilter.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnProductFilter.Image = global::GUI.Properties.Resources.filter;
+            this.btnProductFilter.Location = new System.Drawing.Point(601, 18);
+            this.btnProductFilter.Name = "btnProductFilter";
+            this.btnProductFilter.Size = new System.Drawing.Size(37, 32);
+            this.btnProductFilter.TabIndex = 4;
+            this.btnProductFilter.UseVisualStyleBackColor = false;
+            this.btnProductFilter.Click += new System.EventHandler(this.btnProductFilter_Click);
+            // 
+            // btnRightPage
+            // 
+            this.btnRightPage.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.btnRightPage.Image = global::GUI.Properties.Resources.arrow_point_to_right__1_;
+            this.btnRightPage.Location = new System.Drawing.Point(104, 13);
+            this.btnRightPage.Margin = new System.Windows.Forms.Padding(2);
+            this.btnRightPage.Name = "btnRightPage";
+            this.btnRightPage.Size = new System.Drawing.Size(26, 30);
+            this.btnRightPage.TabIndex = 1;
+            this.btnRightPage.UseVisualStyleBackColor = true;
+            this.btnRightPage.Click += new System.EventHandler(this.btnRightPage_Click);
+            // 
+            // btnLeftPage
+            // 
+            this.btnLeftPage.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.btnLeftPage.Image = global::GUI.Properties.Resources.arrowhead_thin_outline_to_the_left__1_;
+            this.btnLeftPage.Location = new System.Drawing.Point(22, 13);
+            this.btnLeftPage.Margin = new System.Windows.Forms.Padding(2);
+            this.btnLeftPage.Name = "btnLeftPage";
+            this.btnLeftPage.Size = new System.Drawing.Size(26, 30);
+            this.btnLeftPage.TabIndex = 0;
+            this.btnLeftPage.UseVisualStyleBackColor = true;
+            this.btnLeftPage.Click += new System.EventHandler(this.btnLeftPage_Click);
+            // 
+            // picPrintBill
+            // 
+            this.picPrintBill.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.picPrintBill.Image = global::GUI.Properties.Resources.printer__2_;
+            this.picPrintBill.Location = new System.Drawing.Point(1219, 7);
+            this.picPrintBill.Name = "picPrintBill";
+            this.picPrintBill.Size = new System.Drawing.Size(37, 37);
+            this.picPrintBill.SizeMode = System.Windows.Forms.PictureBoxSizeMode.CenterImage;
+            this.picPrintBill.TabIndex = 3;
+            this.picPrintBill.TabStop = false;
+            this.picPrintBill.Click += new System.EventHandler(this.picPrintBill_Click);
+            this.picPrintBill.MouseEnter += new System.EventHandler(this.picPrintBill_MouseEnter);
+            this.picPrintBill.MouseLeave += new System.EventHandler(this.picPrintBill_MouseLeave);
+            // 
+            // picHome
+            // 
+            this.picHome.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.picHome.Image = ((System.Drawing.Image)(resources.GetObject("picHome.Image")));
+            this.picHome.Location = new System.Drawing.Point(1274, 7);
+            this.picHome.Name = "picHome";
+            this.picHome.Size = new System.Drawing.Size(32, 37);
+            this.picHome.TabIndex = 1;
+            this.picHome.TabStop = false;
+            this.picHome.Click += new System.EventHandler(this.picHome_Click);
+            this.picHome.MouseEnter += new System.EventHandler(this.picHome_MouseEnter);
+            this.picHome.MouseLeave += new System.EventHandler(this.picHome_MouseLeave);
+            // 
+            // picAddCustomer
+            // 
+            this.picAddCustomer.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.picAddCustomer.Image = global::GUI.Properties.Resources.plus__1_;
+            this.picAddCustomer.Location = new System.Drawing.Point(278, 0);
+            this.picAddCustomer.Name = "picAddCustomer";
+            this.picAddCustomer.Size = new System.Drawing.Size(31, 29);
+            this.picAddCustomer.SizeMode = System.Windows.Forms.PictureBoxSizeMode.CenterImage;
+            this.picAddCustomer.TabIndex = 1;
+            this.picAddCustomer.TabStop = false;
+            this.picAddCustomer.Click += new System.EventHandler(this.picAddCustomer_Click);
+            // 
+            // picDelCustomerSearch
+            // 
+            this.picDelCustomerSearch.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.picDelCustomerSearch.Image = global::GUI.Properties.Resources.close__1_;
+            this.picDelCustomerSearch.Location = new System.Drawing.Point(278, 0);
+            this.picDelCustomerSearch.Name = "picDelCustomerSearch";
+            this.picDelCustomerSearch.Size = new System.Drawing.Size(31, 29);
+            this.picDelCustomerSearch.SizeMode = System.Windows.Forms.PictureBoxSizeMode.CenterImage;
+            this.picDelCustomerSearch.TabIndex = 0;
+            this.picDelCustomerSearch.TabStop = false;
+            this.picDelCustomerSearch.Click += new System.EventHandler(this.picDelCustomerSearch_Click);
+            // 
+            // hrjButton1
+            // 
+            this.hrjButton1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(239)))), ((int)(((byte)(242)))), ((int)(((byte)(245)))));
+            this.hrjButton1.BackgroundColor = System.Drawing.Color.FromArgb(((int)(((byte)(239)))), ((int)(((byte)(242)))), ((int)(((byte)(245)))));
+            this.hrjButton1.BorderColor = System.Drawing.Color.White;
+            this.hrjButton1.BorderRadius = 8;
+            this.hrjButton1.BorderSize = 0;
+            this.hrjButton1.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.hrjButton1.FlatAppearance.BorderSize = 0;
+            this.hrjButton1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.hrjButton1.Font = new System.Drawing.Font("Segoe UI", 8.5F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.hrjButton1.ForeColor = System.Drawing.Color.Black;
+            this.hrjButton1.Image = global::GUI.Properties.Resources.icons8_barcode_24;
+            this.hrjButton1.Location = new System.Drawing.Point(352, 18);
+            this.hrjButton1.Name = "hrjButton1";
+            this.hrjButton1.RightToLeft = System.Windows.Forms.RightToLeft.No;
+            this.hrjButton1.Size = new System.Drawing.Size(130, 32);
+            this.hrjButton1.TabIndex = 7;
+            this.hrjButton1.Text = "  Quét Mã Vạch";
+            this.hrjButton1.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
+            this.hrjButton1.TextColor = System.Drawing.Color.Black;
+            this.hrjButton1.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
+            this.hrjButton1.UseVisualStyleBackColor = false;
+            this.hrjButton1.Click += new System.EventHandler(this.hrjButton1_Click);
+            // 
+            // btnApplyPoint
+            // 
+            this.btnApplyPoint.BackColor = System.Drawing.Color.DodgerBlue;
+            this.btnApplyPoint.BackgroundColor = System.Drawing.Color.DodgerBlue;
+            this.btnApplyPoint.BorderColor = System.Drawing.Color.Silver;
+            this.btnApplyPoint.BorderRadius = 4;
+            this.btnApplyPoint.BorderSize = 1;
+            this.btnApplyPoint.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.btnApplyPoint.FlatAppearance.BorderSize = 0;
+            this.btnApplyPoint.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnApplyPoint.Font = new System.Drawing.Font("Segoe UI", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnApplyPoint.ForeColor = System.Drawing.Color.White;
+            this.btnApplyPoint.Location = new System.Drawing.Point(205, 70);
+            this.btnApplyPoint.Name = "btnApplyPoint";
+            this.btnApplyPoint.Size = new System.Drawing.Size(79, 23);
+            this.btnApplyPoint.TabIndex = 16;
+            this.btnApplyPoint.Text = "Quy Đổi";
+            this.btnApplyPoint.TextColor = System.Drawing.Color.White;
+            this.btnApplyPoint.UseVisualStyleBackColor = false;
+            this.btnApplyPoint.Visible = false;
+            this.btnApplyPoint.Click += new System.EventHandler(this.btnApplyPoint_Click);
+            this.btnApplyPoint.MouseEnter += new System.EventHandler(this.btnApplyPoint_MouseEnter);
+            this.btnApplyPoint.MouseLeave += new System.EventHandler(this.btnApplyPoint_MouseLeave);
+            // 
+            // PanelBarcode
+            // 
+            this.PanelBarcode.AutoScroll = true;
+            this.PanelBarcode.BackColor = System.Drawing.Color.White;
+            this.PanelBarcode.Controls.Add(this.Camera);
+            this.PanelBarcode.Location = new System.Drawing.Point(24, 65);
+            this.PanelBarcode.Margin = new System.Windows.Forms.Padding(2);
+            this.PanelBarcode.Name = "PanelBarcode";
+            this.PanelBarcode.Size = new System.Drawing.Size(614, 483);
+            this.PanelBarcode.TabIndex = 8;
+            this.PanelBarcode.Visible = false;
+            // 
+            // Camera
+            // 
+            this.Camera.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.Camera.Location = new System.Drawing.Point(0, 0);
+            this.Camera.Margin = new System.Windows.Forms.Padding(0, 0, 0, 0);
+            this.Camera.Name = "Camera";
+            this.Camera.Size = new System.Drawing.Size(597, 0);
+            this.Camera.TabIndex = 0;
+            this.Camera.TabStop = false;
+            // 
+            // btnTest
+            // 
+            this.btnTest.Location = new System.Drawing.Point(489, 18);
+            this.btnTest.Name = "btnTest";
+            this.btnTest.Size = new System.Drawing.Size(75, 32);
+            this.btnTest.TabIndex = 9;
+            this.btnTest.Text = "Test";
+            this.btnTest.UseVisualStyleBackColor = true;
+            this.btnTest.Click += new System.EventHandler(this.btnTest_Click);
+            // 
+            // tbBarcode
+            // 
+            this.tbBarcode.BackColor = System.Drawing.SystemColors.Window;
+            this.tbBarcode.BorderColor = System.Drawing.Color.MediumSlateBlue;
+            this.tbBarcode.BorderFocusColor = System.Drawing.Color.HotPink;
+            this.tbBarcode.BorderRadius = 0;
+            this.tbBarcode.BorderSize = 2;
+            this.tbBarcode.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tbBarcode.ForeColor = System.Drawing.Color.DimGray;
+            this.tbBarcode.Location = new System.Drawing.Point(697, 8);
+            this.tbBarcode.Margin = new System.Windows.Forms.Padding(4);
+            this.tbBarcode.Multiline = false;
+            this.tbBarcode.Name = "tbBarcode";
+            this.tbBarcode.Padding = new System.Windows.Forms.Padding(7);
+            this.tbBarcode.PasswordChar = false;
+            this.tbBarcode.PlaceholderColor = System.Drawing.Color.DarkGray;
+            this.tbBarcode.PlaceholderText = "";
+            this.tbBarcode.Size = new System.Drawing.Size(250, 31);
+            this.tbBarcode.TabIndex = 4;
+            this.tbBarcode.Texts = "";
+            this.tbBarcode.UnderlinedStyle = false;
+            // 
             // frmSell
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -616,15 +706,12 @@ namespace GUI
             this.Name = "frmSell";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "FiveChip Mart";
+            this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.frmSell_FormClosing);
             this.Load += new System.EventHandler(this.frmSell_Load);
             this.pnHeader.ResumeLayout(false);
             this.pnHeader.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.picPrintBill)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.picHome)).EndInit();
             this.pnCustomerSearch.ResumeLayout(false);
             this.pnCustomerSearch.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.picAddCustomer)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.picDelCustomerSearch)).EndInit();
             this.pnChoseProductContainer.ResumeLayout(false);
             this.pnProductSearch.ResumeLayout(false);
             this.pnProductSearch.PerformLayout();
@@ -633,6 +720,12 @@ namespace GUI
             this.statusDateTimeBar.PerformLayout();
             this.pnDisplayItemOrder.ResumeLayout(false);
             this.pnDisplayItemOrder.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.picPrintBill)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.picHome)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.picAddCustomer)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.picDelCustomerSearch)).EndInit();
+            this.PanelBarcode.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)(this.Camera)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -683,5 +776,10 @@ namespace GUI
         private System.Windows.Forms.PictureBox picDelCustomerSearch;
         private System.Windows.Forms.PictureBox picAddCustomer;
         private System.Windows.Forms.PictureBox picPrintBill;
+        private HRJButton hrjButton1;
+        private System.Windows.Forms.FlowLayoutPanel PanelBarcode;
+        private System.Windows.Forms.PictureBox Camera;
+        private System.Windows.Forms.Button btnTest;
+        private RJControls.RJTextBox tbBarcode;
     }
 }
