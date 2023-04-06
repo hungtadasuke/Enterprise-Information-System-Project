@@ -34,7 +34,6 @@ namespace GUI
             this.components = new System.ComponentModel.Container();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(frmSell));
             this.pnHeader = new System.Windows.Forms.Panel();
-            this.tbBarcode = new GUI.RJControls.RJTextBox();
             this.picPrintBill = new System.Windows.Forms.PictureBox();
             this.lblStaffInfo = new System.Windows.Forms.Label();
             this.picHome = new System.Windows.Forms.PictureBox();
@@ -43,10 +42,13 @@ namespace GUI
             this.picDelCustomerSearch = new System.Windows.Forms.PictureBox();
             this.txtCustomerSearch = new System.Windows.Forms.TextBox();
             this.pnChoseProductContainer = new System.Windows.Forms.Panel();
-            this.btnTest = new System.Windows.Forms.Button();
-            this.PanelBarcode = new System.Windows.Forms.FlowLayoutPanel();
+            this.PanelBarcode = new System.Windows.Forms.Panel();
+            this.lblProductIdBarcode = new System.Windows.Forms.Label();
+            this.tbBarcodeQuantity = new System.Windows.Forms.TextBox();
+            this.btnConfirmBarcode = new System.Windows.Forms.Button();
+            this.lblProductNameBarcode = new System.Windows.Forms.Label();
             this.Camera = new System.Windows.Forms.PictureBox();
-            this.hrjButton1 = new GUI.HRJButton();
+            this.btnDisplayCamera = new GUI.HRJButton();
             this.pnProductSearch = new System.Windows.Forms.Panel();
             this.txtProductSearch = new System.Windows.Forms.TextBox();
             this.fpnProductFilter = new System.Windows.Forms.FlowLayoutPanel();
@@ -108,28 +110,6 @@ namespace GUI
             this.pnHeader.Name = "pnHeader";
             this.pnHeader.Size = new System.Drawing.Size(1334, 49);
             this.pnHeader.TabIndex = 0;
-            // 
-            // tbBarcode
-            // 
-            this.tbBarcode.BackColor = System.Drawing.SystemColors.Window;
-            this.tbBarcode.BorderColor = System.Drawing.Color.MediumSlateBlue;
-            this.tbBarcode.BorderFocusColor = System.Drawing.Color.HotPink;
-            this.tbBarcode.BorderRadius = 0;
-            this.tbBarcode.BorderSize = 2;
-            this.tbBarcode.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.tbBarcode.ForeColor = System.Drawing.Color.DimGray;
-            this.tbBarcode.Location = new System.Drawing.Point(4, 434);
-            this.tbBarcode.Margin = new System.Windows.Forms.Padding(4);
-            this.tbBarcode.Multiline = false;
-            this.tbBarcode.Name = "tbBarcode";
-            this.tbBarcode.Padding = new System.Windows.Forms.Padding(7);
-            this.tbBarcode.PasswordChar = false;
-            this.tbBarcode.PlaceholderColor = System.Drawing.Color.DarkGray;
-            this.tbBarcode.PlaceholderText = "";
-            this.tbBarcode.Size = new System.Drawing.Size(250, 31);
-            this.tbBarcode.TabIndex = 4;
-            this.tbBarcode.Texts = "";
-            this.tbBarcode.UnderlinedStyle = false;
             // 
             // picPrintBill
             // 
@@ -225,9 +205,8 @@ namespace GUI
             // pnChoseProductContainer
             // 
             this.pnChoseProductContainer.BackColor = System.Drawing.Color.White;
-            this.pnChoseProductContainer.Controls.Add(this.btnTest);
             this.pnChoseProductContainer.Controls.Add(this.PanelBarcode);
-            this.pnChoseProductContainer.Controls.Add(this.hrjButton1);
+            this.pnChoseProductContainer.Controls.Add(this.btnDisplayCamera);
             this.pnChoseProductContainer.Controls.Add(this.pnProductSearch);
             this.pnChoseProductContainer.Controls.Add(this.fpnProductFilter);
             this.pnChoseProductContainer.Controls.Add(this.btnProductFilter);
@@ -240,64 +219,93 @@ namespace GUI
             this.pnChoseProductContainer.Size = new System.Drawing.Size(661, 634);
             this.pnChoseProductContainer.TabIndex = 2;
             // 
-            // btnTest
-            // 
-            this.btnTest.Location = new System.Drawing.Point(489, 18);
-            this.btnTest.Name = "btnTest";
-            this.btnTest.Size = new System.Drawing.Size(75, 32);
-            this.btnTest.TabIndex = 9;
-            this.btnTest.Text = "Test";
-            this.btnTest.UseVisualStyleBackColor = true;
-            this.btnTest.Click += new System.EventHandler(this.btnTest_Click);
-            // 
             // PanelBarcode
             // 
-            this.PanelBarcode.AutoScroll = true;
-            this.PanelBarcode.BackColor = System.Drawing.Color.White;
+            this.PanelBarcode.Controls.Add(this.lblProductIdBarcode);
+            this.PanelBarcode.Controls.Add(this.tbBarcodeQuantity);
+            this.PanelBarcode.Controls.Add(this.btnConfirmBarcode);
+            this.PanelBarcode.Controls.Add(this.lblProductNameBarcode);
             this.PanelBarcode.Controls.Add(this.Camera);
-            this.PanelBarcode.Controls.Add(this.tbBarcode);
             this.PanelBarcode.Location = new System.Drawing.Point(24, 65);
-            this.PanelBarcode.Margin = new System.Windows.Forms.Padding(2);
             this.PanelBarcode.Name = "PanelBarcode";
             this.PanelBarcode.Size = new System.Drawing.Size(614, 483);
-            this.PanelBarcode.TabIndex = 8;
+            this.PanelBarcode.TabIndex = 0;
             this.PanelBarcode.Visible = false;
+            // 
+            // lblProductIdBarcode
+            // 
+            this.lblProductIdBarcode.BackColor = System.Drawing.Color.Transparent;
+            this.lblProductIdBarcode.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblProductIdBarcode.Location = new System.Drawing.Point(10, 448);
+            this.lblProductIdBarcode.Name = "lblProductIdBarcode";
+            this.lblProductIdBarcode.Size = new System.Drawing.Size(183, 27);
+            this.lblProductIdBarcode.TabIndex = 8;
+            // 
+            // tbBarcodeQuantity
+            // 
+            this.tbBarcodeQuantity.Enabled = false;
+            this.tbBarcodeQuantity.Font = new System.Drawing.Font("Segoe UI", 11F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tbBarcodeQuantity.Location = new System.Drawing.Point(403, 404);
+            this.tbBarcodeQuantity.Name = "tbBarcodeQuantity";
+            this.tbBarcodeQuantity.Size = new System.Drawing.Size(139, 27);
+            this.tbBarcodeQuantity.TabIndex = 7;
+            this.tbBarcodeQuantity.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.OnlyNumber_KeyPress);
+            // 
+            // btnConfirmBarcode
+            // 
+            this.btnConfirmBarcode.Enabled = false;
+            this.btnConfirmBarcode.Font = new System.Drawing.Font("Segoe UI Semibold", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnConfirmBarcode.Location = new System.Drawing.Point(421, 437);
+            this.btnConfirmBarcode.Name = "btnConfirmBarcode";
+            this.btnConfirmBarcode.Size = new System.Drawing.Size(108, 33);
+            this.btnConfirmBarcode.TabIndex = 6;
+            this.btnConfirmBarcode.Text = "Xác nhận";
+            this.btnConfirmBarcode.UseVisualStyleBackColor = true;
+            this.btnConfirmBarcode.Click += new System.EventHandler(this.btnConfirmBarcode_Click);
+            // 
+            // lblProductNameBarcode
+            // 
+            this.lblProductNameBarcode.BackColor = System.Drawing.Color.Transparent;
+            this.lblProductNameBarcode.Font = new System.Drawing.Font("Segoe UI Semibold", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblProductNameBarcode.Location = new System.Drawing.Point(10, 399);
+            this.lblProductNameBarcode.Name = "lblProductNameBarcode";
+            this.lblProductNameBarcode.Size = new System.Drawing.Size(277, 47);
+            this.lblProductNameBarcode.TabIndex = 5;
             // 
             // Camera
             // 
             this.Camera.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
-            this.Camera.Image = global::GUI.Properties.Resources._151;
             this.Camera.Location = new System.Drawing.Point(0, 0);
             this.Camera.Margin = new System.Windows.Forms.Padding(0);
             this.Camera.Name = "Camera";
-            this.Camera.Size = new System.Drawing.Size(609, 430);
+            this.Camera.Size = new System.Drawing.Size(614, 395);
             this.Camera.TabIndex = 0;
             this.Camera.TabStop = false;
             // 
-            // hrjButton1
+            // btnDisplayCamera
             // 
-            this.hrjButton1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(239)))), ((int)(((byte)(242)))), ((int)(((byte)(245)))));
-            this.hrjButton1.BackgroundColor = System.Drawing.Color.FromArgb(((int)(((byte)(239)))), ((int)(((byte)(242)))), ((int)(((byte)(245)))));
-            this.hrjButton1.BorderColor = System.Drawing.Color.White;
-            this.hrjButton1.BorderRadius = 8;
-            this.hrjButton1.BorderSize = 0;
-            this.hrjButton1.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.hrjButton1.FlatAppearance.BorderSize = 0;
-            this.hrjButton1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.hrjButton1.Font = new System.Drawing.Font("Segoe UI", 8.5F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.hrjButton1.ForeColor = System.Drawing.Color.Black;
-            this.hrjButton1.Image = global::GUI.Properties.Resources.icons8_barcode_24;
-            this.hrjButton1.Location = new System.Drawing.Point(352, 18);
-            this.hrjButton1.Name = "hrjButton1";
-            this.hrjButton1.RightToLeft = System.Windows.Forms.RightToLeft.No;
-            this.hrjButton1.Size = new System.Drawing.Size(130, 32);
-            this.hrjButton1.TabIndex = 7;
-            this.hrjButton1.Text = "  Quét Mã Vạch";
-            this.hrjButton1.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
-            this.hrjButton1.TextColor = System.Drawing.Color.Black;
-            this.hrjButton1.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
-            this.hrjButton1.UseVisualStyleBackColor = false;
-            this.hrjButton1.Click += new System.EventHandler(this.hrjButton1_Click);
+            this.btnDisplayCamera.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(239)))), ((int)(((byte)(242)))), ((int)(((byte)(245)))));
+            this.btnDisplayCamera.BackgroundColor = System.Drawing.Color.FromArgb(((int)(((byte)(239)))), ((int)(((byte)(242)))), ((int)(((byte)(245)))));
+            this.btnDisplayCamera.BorderColor = System.Drawing.Color.White;
+            this.btnDisplayCamera.BorderRadius = 8;
+            this.btnDisplayCamera.BorderSize = 0;
+            this.btnDisplayCamera.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.btnDisplayCamera.FlatAppearance.BorderSize = 0;
+            this.btnDisplayCamera.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnDisplayCamera.Font = new System.Drawing.Font("Segoe UI", 8.5F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnDisplayCamera.ForeColor = System.Drawing.Color.Black;
+            this.btnDisplayCamera.Image = global::GUI.Properties.Resources.icons8_barcode_24;
+            this.btnDisplayCamera.Location = new System.Drawing.Point(352, 18);
+            this.btnDisplayCamera.Name = "btnDisplayCamera";
+            this.btnDisplayCamera.RightToLeft = System.Windows.Forms.RightToLeft.No;
+            this.btnDisplayCamera.Size = new System.Drawing.Size(130, 32);
+            this.btnDisplayCamera.TabIndex = 7;
+            this.btnDisplayCamera.Text = "  Quét Mã Vạch";
+            this.btnDisplayCamera.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
+            this.btnDisplayCamera.TextColor = System.Drawing.Color.Black;
+            this.btnDisplayCamera.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
+            this.btnDisplayCamera.UseVisualStyleBackColor = false;
+            this.btnDisplayCamera.Click += new System.EventHandler(this.btnDisplayCamera_Click);
             // 
             // pnProductSearch
             // 
@@ -719,6 +727,7 @@ namespace GUI
             ((System.ComponentModel.ISupportInitialize)(this.picDelCustomerSearch)).EndInit();
             this.pnChoseProductContainer.ResumeLayout(false);
             this.PanelBarcode.ResumeLayout(false);
+            this.PanelBarcode.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.Camera)).EndInit();
             this.pnProductSearch.ResumeLayout(false);
             this.pnProductSearch.PerformLayout();
@@ -777,10 +786,12 @@ namespace GUI
         private System.Windows.Forms.PictureBox picDelCustomerSearch;
         private System.Windows.Forms.PictureBox picAddCustomer;
         private System.Windows.Forms.PictureBox picPrintBill;
-        private HRJButton hrjButton1;
-        private System.Windows.Forms.FlowLayoutPanel PanelBarcode;
+        private HRJButton btnDisplayCamera;
         private System.Windows.Forms.PictureBox Camera;
-        private System.Windows.Forms.Button btnTest;
-        private RJControls.RJTextBox tbBarcode;
+        private System.Windows.Forms.Panel PanelBarcode;
+        private System.Windows.Forms.Button btnConfirmBarcode;
+        private System.Windows.Forms.Label lblProductNameBarcode;
+        private System.Windows.Forms.TextBox tbBarcodeQuantity;
+        private System.Windows.Forms.Label lblProductIdBarcode;
     }
 }

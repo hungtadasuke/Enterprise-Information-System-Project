@@ -47,7 +47,7 @@ namespace GUI
             {
                 for(int i = 0; i < tbProduct.Rows.Count; i++)
                 {
-                    totalRevenue += double.Parse(tbProduct.Rows[i].Cells[7].Value.ToString());
+                    totalRevenue += double.Parse(tbProduct.Rows[i].Cells[6].Value.ToString());
                 }
             }
 
@@ -189,17 +189,13 @@ namespace GUI
             // Set currency format trong Datagridview VD 10.000,00 đ
             var provider = (CultureInfo)CultureInfo.GetCultureInfo("vi-VN");
 
-            this.tbProduct.Columns[7].DefaultCellStyle.FormatProvider = provider;
+            this.tbProduct.Columns[6].DefaultCellStyle.FormatProvider = provider;
 
-            this.tbProduct.Columns[7].DefaultCellStyle.Format = "c";
+            this.tbProduct.Columns[6].DefaultCellStyle.Format = "c";
 
             this.tbProduct.Columns[3].DefaultCellStyle.FormatProvider = provider;
 
             this.tbProduct.Columns[3].DefaultCellStyle.Format = "c";
-
-            this.tbProduct.Columns[4].DefaultCellStyle.FormatProvider = provider;
-
-            this.tbProduct.Columns[4].DefaultCellStyle.Format = "c";
 
             tbProduct.Font = new Font(tbProduct.Font.Name, 12, FontStyle.Regular);
 

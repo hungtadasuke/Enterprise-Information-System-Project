@@ -60,9 +60,8 @@ namespace BUS
 
             result.Columns[2].DataType = typeof(double); // tồn kho
             result.Columns[3].DataType = typeof(double); // giá bán
-            result.Columns[4].DataType = typeof(double); // giá nhập
-            result.Columns[6].DataType = typeof(double); // đã bán
-            result.Columns[7].DataType = typeof(double); // Doanh thu
+            result.Columns[5].DataType = typeof(double); // đã bán
+            result.Columns[6].DataType = typeof(double); // Doanh thu
 
             foreach (DataRow dr in dtProduct.Rows)
             {
@@ -73,10 +72,9 @@ namespace BUS
                     ndr[1] = dr[2];
                     ndr[2] = dr[3];
                     ndr[3] = double.Parse(dr[4].ToString());
-                    ndr[4] = double.Parse(dr[5].ToString());
-                    ndr[5] = (Boolean.Parse(dr[6].ToString())) ? "Bán" : "Ngừng bán";
-                    ndr[6] = dr[7];
-                    ndr[7] = double.Parse(dr[8].ToString());
+                    ndr[4] = (Boolean.Parse(dr[5].ToString())) ? "Bán" : "Ngừng bán";
+                    ndr[5] = dr[6];
+                    ndr[6] = double.Parse(dr[7].ToString());
                     result.Rows.Add(ndr);
                 }
                 else if (dr[0].Equals(category))
@@ -86,10 +84,9 @@ namespace BUS
                     ndr[1] = dr[2];
                     ndr[2] = dr[3];
                     ndr[3] = double.Parse(dr[4].ToString());
-                    ndr[4] = double.Parse(dr[5].ToString());
-                    ndr[5] = (Boolean.Parse(dr[6].ToString())) ? "Bán" : "Ngừng bán";
-                    ndr[6] = dr[7];
-                    ndr[7] = double.Parse(dr[8].ToString());
+                    ndr[4] = (Boolean.Parse(dr[5].ToString())) ? "Bán" : "Ngừng bán";
+                    ndr[5] = dr[6];
+                    ndr[6] = double.Parse(dr[7].ToString());
                     result.Rows.Add(ndr);
                 }
             } 
@@ -311,40 +308,39 @@ namespace BUS
                 //Thao tác export data trên sheet vừa add
                 //
 
-                ws.Cells[1, 1, 2, 9].Merge = true;
+                ws.Cells[1, 1, 2, 8].Merge = true;
                 //size
-                ws.Cells[1, 1, 2, 9].Style.Font.Size = 20;
+                ws.Cells[1, 1, 2, 8].Style.Font.Size = 20;
                 //font style
-                ws.Cells[1, 1, 2, 9].Style.Font.Bold = true;
+                ws.Cells[1, 1, 2, 8].Style.Font.Bold = true;
                 //text alignment
-                ws.Cells[1, 1, 2, 9].Style.VerticalAlignment = OfficeOpenXml.Style.ExcelVerticalAlignment.Center;
-                ws.Cells[1, 1, 2, 9].Style.HorizontalAlignment = OfficeOpenXml.Style.ExcelHorizontalAlignment.Center;
+                ws.Cells[1, 1, 2, 8].Style.VerticalAlignment = OfficeOpenXml.Style.ExcelVerticalAlignment.Center;
+                ws.Cells[1, 1, 2, 8].Style.HorizontalAlignment = OfficeOpenXml.Style.ExcelHorizontalAlignment.Center;
 
                 //Heading superMarket name
-                ws.Cells[1, 1, 2, 9].Value = "FIVECHIP MART";
+                ws.Cells[1, 1, 2, 8].Value = "FIVECHIP MART";
 
                 //Heading Báo cáo thống kê
-                ws.Cells[3, 1, 4, 9].Merge = true;
-                ws.Cells[3, 1, 4, 9].Style.Font.Size = 16;
-                ws.Cells[3, 1, 4, 9].Style.Font.Bold = true;
-                ws.Cells[3, 1, 4, 9].Style.HorizontalAlignment = OfficeOpenXml.Style.ExcelHorizontalAlignment.Center;
-                ws.Cells[3, 1, 4, 9].Style.VerticalAlignment = OfficeOpenXml.Style.ExcelVerticalAlignment.Center;
-                ws.Cells[3, 1, 4, 9].Value = "BÁO CÁO THỐNG KÊ HÀNG HÓA";
+                ws.Cells[3, 1, 4, 8].Merge = true;
+                ws.Cells[3, 1, 4, 8].Style.Font.Size = 16;
+                ws.Cells[3, 1, 4, 8].Style.Font.Bold = true;
+                ws.Cells[3, 1, 4, 8].Style.HorizontalAlignment = OfficeOpenXml.Style.ExcelHorizontalAlignment.Center;
+                ws.Cells[3, 1, 4, 8].Style.VerticalAlignment = OfficeOpenXml.Style.ExcelVerticalAlignment.Center;
+                ws.Cells[3, 1, 4, 8].Value = "BÁO CÁO THỐNG KÊ HÀNG HÓA";
 
-                // Thiết lập độ rộng cột cho STT, Mã hàng hóa, Tên hàng hóa, Tồn kho, Giá bán, Giá nhập, Trạng thái, Đã bán, Doanh thu
+                // Thiết lập độ rộng cột cho STT, Mã hàng hóa, Tên hàng hóa, Tồn kho, Giá bán, Trạng thái, Đã bán, Doanh thu
                 ws.Columns[1].Width = 8;    
                 ws.Columns[2].Width = 17.5;
                 ws.Columns[3].Width = 47;
                 ws.Columns[4].Width = 15;
                 ws.Columns[5].Width = 23;
-                ws.Columns[6].Width = 23;
-                ws.Columns[7].Width = 19;
-                ws.Columns[8].Width = 15;
-                ws.Columns[9].Width = 26;
+                ws.Columns[6].Width = 19;
+                ws.Columns[7].Width = 15;
+                ws.Columns[8].Width = 26;
 
                 int indexRow = 5;
 
-                //Báo cáo thống kê gồm STT, Mã hàng hóa, Tên hàng hóa, Tồn kho, Giá bán, Giá nhập, Trạng thái, Đã bán, Doanh thu
+                //Báo cáo thống kê gồm STT, Mã hàng hóa, Tên hàng hóa, Tồn kho, Giá bán, Trạng thái, Đã bán, Doanh thu
                 //Báo cáo thống kê header
                 ws.Cells[indexRow, 1].Value = "STT";
                 ws.Cells[indexRow, 1].Style.Font.Bold = true;
@@ -366,21 +362,17 @@ namespace BUS
                 ws.Cells[indexRow, 5].Style.Font.Bold = true;
                 ws.Cells[indexRow, 5].Style.HorizontalAlignment = OfficeOpenXml.Style.ExcelHorizontalAlignment.Center;
 
-                ws.Cells[indexRow, 6].Value = "Giá nhập";
+                ws.Cells[indexRow, 6].Value = "Trạng thái";
                 ws.Cells[indexRow, 6].Style.Font.Bold = true;
                 ws.Cells[indexRow, 6].Style.HorizontalAlignment = OfficeOpenXml.Style.ExcelHorizontalAlignment.Center;
 
-                ws.Cells[indexRow, 7].Value = "Trạng thái";
+                ws.Cells[indexRow, 7].Value = "Đã bán";
                 ws.Cells[indexRow, 7].Style.Font.Bold = true;
                 ws.Cells[indexRow, 7].Style.HorizontalAlignment = OfficeOpenXml.Style.ExcelHorizontalAlignment.Center;
 
-                ws.Cells[indexRow, 8].Value = "Đã bán";
+                ws.Cells[indexRow, 8].Value = "Doanh thu";
                 ws.Cells[indexRow, 8].Style.Font.Bold = true;
                 ws.Cells[indexRow, 8].Style.HorizontalAlignment = OfficeOpenXml.Style.ExcelHorizontalAlignment.Center;
-
-                ws.Cells[indexRow, 9].Value = "Doanh thu";
-                ws.Cells[indexRow, 9].Style.Font.Bold = true;
-                ws.Cells[indexRow, 9].Style.HorizontalAlignment = OfficeOpenXml.Style.ExcelHorizontalAlignment.Center;
 
                 indexRow++;
 
@@ -406,51 +398,47 @@ namespace BUS
                     ws.Cells[indexRow, 5].Value = SupportBUS.formatPrice(tbProduct.Rows[i][3].ToString());
                     ws.Cells[indexRow, 5].Style.HorizontalAlignment = OfficeOpenXml.Style.ExcelHorizontalAlignment.Center;
 
-                    // Giá nhập
-                    ws.Cells[indexRow, 6].Value = SupportBUS.formatPrice(tbProduct.Rows[i][4].ToString());
+                    // Trạng thái
+                    ws.Cells[indexRow, 6].Value = tbProduct.Rows[i][4].ToString();
                     ws.Cells[indexRow, 6].Style.HorizontalAlignment = OfficeOpenXml.Style.ExcelHorizontalAlignment.Center;
 
-                    // Trạng thái
+                    // Đã bán
                     ws.Cells[indexRow, 7].Value = tbProduct.Rows[i][5].ToString();
                     ws.Cells[indexRow, 7].Style.HorizontalAlignment = OfficeOpenXml.Style.ExcelHorizontalAlignment.Center;
 
-                    // Đã bán
-                    ws.Cells[indexRow, 8].Value = tbProduct.Rows[i][6].ToString();
-                    ws.Cells[indexRow, 8].Style.HorizontalAlignment = OfficeOpenXml.Style.ExcelHorizontalAlignment.Center;
-
                     // Doanh thu
-                    ws.Cells[indexRow, 9].Value = SupportBUS.formatPrice(tbProduct.Rows[i][7].ToString());
-                    ws.Cells[indexRow, 9].Style.HorizontalAlignment = OfficeOpenXml.Style.ExcelHorizontalAlignment.Right;
+                    ws.Cells[indexRow, 8].Value = SupportBUS.formatPrice(tbProduct.Rows[i][6].ToString());
+                    ws.Cells[indexRow, 8].Style.HorizontalAlignment = OfficeOpenXml.Style.ExcelHorizontalAlignment.Right;
 
                     indexRow++;
                 }
 
                 //Total info 
-                ws.Cells[indexRow, 1, indexRow, 7].Merge = true;
-                ws.Cells[indexRow, 1, indexRow, 7].Value = "Tổng Cộng:";
-                ws.Cells[indexRow, 1, indexRow, 7].Style.Font.Bold = true;
-                ws.Cells[indexRow, 1, indexRow, 7].Style.Font.Size = 14;
-                ws.Cells[indexRow, 1, indexRow, 7].Style.HorizontalAlignment = OfficeOpenXml.Style.ExcelHorizontalAlignment.Center;
+                ws.Cells[indexRow, 1, indexRow, 6].Merge = true;
+                ws.Cells[indexRow, 1, indexRow, 6].Value = "Tổng Cộng:";
+                ws.Cells[indexRow, 1, indexRow, 6].Style.Font.Bold = true;
+                ws.Cells[indexRow, 1, indexRow, 6].Style.Font.Size = 14;
+                ws.Cells[indexRow, 1, indexRow, 6].Style.HorizontalAlignment = OfficeOpenXml.Style.ExcelHorizontalAlignment.Center;
 
                 // Tính tổng cộng Doanh Thu
                 double Sum = 0;
                 foreach(DataRow dr in tbProduct.Rows)
                 {
-                    Sum += Double.Parse(dr[7].ToString());
+                    Sum += Double.Parse(dr[6].ToString());
                 }
 
-                ws.Cells[indexRow, 9].Value = SupportBUS.formatPrice(Sum.ToString());
-                ws.Cells[indexRow, 9].Style.Font.Bold = true;
-                ws.Cells[indexRow, 9].Style.HorizontalAlignment = OfficeOpenXml.Style.ExcelHorizontalAlignment.Right;
+                ws.Cells[indexRow, 8].Value = SupportBUS.formatPrice(Sum.ToString());
+                ws.Cells[indexRow, 8].Style.Font.Bold = true;
+                ws.Cells[indexRow, 8].Style.HorizontalAlignment = OfficeOpenXml.Style.ExcelHorizontalAlignment.Right;
 
-                ExcelRange rng = ws.Cells[indexRow, 1, indexRow, 9];
+                ExcelRange rng = ws.Cells[indexRow, 1, indexRow, 8];
                 rng.Style.Border.Top.Style = ExcelBorderStyle.Thin;
                 rng.Style.Border.Bottom.Style = ExcelBorderStyle.Thin;
                 rng.Style.Border.Left.Style = ExcelBorderStyle.Thin;
                 rng.Style.Border.Right.Style = ExcelBorderStyle.Thin;
 
                 //Set table
-                ExcelRange mainRange = ws.Cells[5, 1, indexRow-1, 9];
+                ExcelRange mainRange = ws.Cells[5, 1, indexRow-1, 8];
 
                 ExcelTable tb = ws.Tables.Add(mainRange, "Table1");
 

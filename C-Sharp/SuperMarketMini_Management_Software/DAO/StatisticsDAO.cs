@@ -23,7 +23,7 @@ namespace DAO
             try
             {
                 conn.Open();
-                SqlCommand cmd = new SqlCommand("select C.CategoryName, P.ProductId,  P.ProductName, P.Quantity, P.ImportPrice, P.PriceToSell, P.StatusItem,SUM(BD.Quantity) as QuantitySold, Sum(P.PriceToSell * BD.Quantity) as Revenue from Product as P, Category as C, BillDetail as BD where P.CategoryId = C.CategoryId and BD.ProductId = P.ProductId group by P.ProductId, C.CategoryName, P.ProductName, P.Quantity, P.ImportPrice, P.PriceToSell, P.StatusItem  order by QuantitySold DESC");
+                SqlCommand cmd = new SqlCommand("select C.CategoryName, P.ProductId,  P.ProductName, P.Quantity, BD.UnitPrice, P.StatusItem,SUM(BD.Quantity) as QuantitySold, Sum(BD.UnitPrice * BD.Quantity) as Revenue from Product as P, Category as C, BillDetail as BD where P.CategoryId = C.CategoryId and BD.ProductId = P.ProductId group by P.ProductId, C.CategoryName, P.ProductName, P.Quantity, BD.UnitPrice, P.StatusItem  order by QuantitySold DESC");
                 cmd.Connection = conn;
                 cmd.CommandType = CommandType.Text;
                 SqlDataAdapter adt = new SqlDataAdapter(cmd);
@@ -72,7 +72,7 @@ namespace DAO
             {
                 conn.Open();
 
-                SqlCommand cmd = new SqlCommand($"select C.CategoryName, P.ProductId,  P.ProductName, P.Quantity, P.ImportPrice, P.PriceToSell, P.StatusItem,SUM(BD.Quantity) as QuantitySold, Sum(P.PriceToSell * BD.Quantity) as Revenue from Product as P, Category as C, BillDetail as BD, Bill as B where P.CategoryId = C.CategoryId and BD.ProductId = P.ProductId and B.BillId = BD.BillId and b.BillDate between '{dfrom.Date.ToString("yyyy-MM-dd")}' and '{dto.Date.ToString("yyyy-MM-dd")}' group by P.ProductId, C.CategoryName, P.ProductName, P.Quantity, P.ImportPrice, P.PriceToSell, P.StatusItem order by QuantitySold DESC");
+                SqlCommand cmd = new SqlCommand($"select C.CategoryName, P.ProductId,  P.ProductName, P.Quantity, BD.UnitPrice, P.StatusItem,SUM(BD.Quantity) as QuantitySold, Sum(BD.UnitPrice * BD.Quantity) as Revenue from Product as P, Category as C, BillDetail as BD, Bill as B where P.CategoryId = C.CategoryId and BD.ProductId = P.ProductId and B.BillId = BD.BillId and b.BillDate between '{dfrom.Date.ToString("yyyy-MM-dd")}' and '{dto.Date.ToString("yyyy-MM-dd")}' group by P.ProductId, C.CategoryName, P.ProductName, P.Quantity, BD.UnitPrice, P.StatusItem order by QuantitySold DESC");
                 cmd.Connection = conn;
                 cmd.CommandType = CommandType.Text;
                 SqlDataAdapter adt = new SqlDataAdapter(cmd);

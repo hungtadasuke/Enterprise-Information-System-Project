@@ -4,6 +4,7 @@ using System.Data;
 using System.Drawing;
 using System.IO;
 using System.Linq;
+using System.Security.AccessControl;
 using System.Security.Cryptography;
 using System.Security.Policy;
 using System.Windows.Forms;
@@ -33,6 +34,10 @@ namespace GUI
         private int currentPage;
         //Mảng lưu trữ các checkBox Category Filter
         private List<CheckBox> chkCategogyList;
+        //Đối tuou75ng product
+        private ProductDTO productFrBarcode = null;
+
+        string barcode_old;
 
         //Constructor
         public ProductBUS ProductBUS { get => productBUS; set => productBUS = value; }
@@ -938,13 +943,6 @@ namespace GUI
             /*return File.ReadAllBytes(path);*/
         }
 
-        private void btnTest_Click(object sender, EventArgs e)
-        {
-            videoCaptureDevice = new VideoCaptureDevice(filterInfoCollection[0].MonikerString);
-            videoCaptureDevice.NewFrame += VideoCaptureDevice_NewFrame;
-            videoCaptureDevice.Start();
-        }
-
         private void VideoCaptureDevice_NewFrame(object sender, AForge.Video.NewFrameEventArgs eventArgs)
         {
             Bitmap img = (Bitmap)eventArgs.Frame.Clone();
@@ -958,15 +956,17 @@ namespace GUI
 
             if (result != null)
             {
-                tbBarcode.Invoke(new MethodInvoker(delegate ()
+                if(result.ToString() != barcode_old)
                 {
-                    tbBarcode.Texts = result.ToString().Trim();
-                }));
+                    productFrBarcode = CheckBarcode(result.ToString().Trim());
+                    barcode_old = result.ToString();
+                }
+                
             }
             Camera.Image = img;
         }
 
-        private void hrjButton1_Click(object sender, EventArgs e)
+        private void btnDisplayCamera_Click(object sender, EventArgs e)
         {
             // ẩn phân trang
             pnDevidePagesContainer.Visible = !pnDevidePagesContainer.Visible;
@@ -977,9 +977,19 @@ namespace GUI
             // ẩn container chọn sản phẩm
             fpnProductInforContainer.Visible = !pnChoseProductContainer.Visible;
 
-            // hiện camera
+            if(pnDevidePagesContainer.Visible == true)
+                this.devidePages(this.ProductBUS.ProductSearchListToSell);
+
+            // hiện panel camera
             PanelBarcode.Visible = !PanelBarcode.Visible;
 
+            // Chạy camera
+            if (videoCaptureDevice == null || videoCaptureDevice.IsRunning == false)
+            {
+                videoCaptureDevice = new VideoCaptureDevice(filterInfoCollection[0].MonikerString);
+                videoCaptureDevice.NewFrame += VideoCaptureDevice_NewFrame;
+                videoCaptureDevice.Start();
+            }
         }
 
         private void frmSell_FormClosing(object sender, FormClosingEventArgs e)
@@ -989,6 +999,151 @@ namespace GUI
                 {
                     videoCaptureDevice.Stop();
                 }
+        }
+
+        private ProductDTO CheckBarcode(string barcode)
+        {
+            DataTable dt = this.productBUS.ProductListTrue;
+            
+            foreach(DataRow dr in dt.Rows)
+            {
+                if (dr[9].ToString().Equals(barcode.ToString().Trim()))
+                {
+                    ProductDTO productFromBarcode = new ProductDTO(dr[1].ToString(), dr[2].ToString(), dr[3].ToString(), int.Parse(dr[6].ToString()), double.Parse( dr[4].ToString()), double.Parse(dr[5].ToString()), dr[9].ToString());
+                    // Hiển thị tên sản phẩm và ID
+                    lblProductNameBarcode.Invoke(new MethodInvoker(delegate ()
+                    {
+                        lblProductNameBarcode.Text = dr[2].ToString();
+                    }));
+                    
+                    lblProductIdBarcode.Invoke(new MethodInvoker(delegate (){
+                        lblProductIdBarcode.Text = dr[1].ToString();
+                    }));
+
+                    tbBarcodeQuantity.Invoke(new MethodInvoker(delegate () {
+                        tbBarcodeQuantity.Text = "1";
+                        tbBarcodeQuantity.Focus();
+                        tbBarcodeQuantity.Enabled = true;
+                    }));
+
+                    btnConfirmBarcode.Invoke(new MethodInvoker(delegate () {
+                        btnConfirmBarcode.Enabled = true;
+                    }));
+
+                    return productFromBarcode;
+                }
+            }
+            return null;
+        }
+
+        private void btnConfirmBarcode_Click(object sender, EventArgs e)
+        {
+            
+                int inputQuantity = int.Parse(tbBarcodeQuantity.Text);
+                int productQuantity = productFrBarcode.Quantity;
+                if (productFrBarcode.Quantity != 0)
+                {
+                    //*: Panel nào thêm sau thì hiển thị trước thể hiện tính tiện dụng khi nhân viên thao tác
+                    //Kiểm tra productId của panel được click đã tồn tại trong fpnShowDetailOrder chưa
+                    for (int i = 0; i < this.fpnShowDetailOrder.Controls.Count; i++)
+                    {
+                        panelDetailInfo currentPanel = (panelDetailInfo)this.fpnShowDetailOrder.Controls[i];
+                        //Nếu có thì chỉ cần duyệt list tìm panelDetail có productId trùng và tăng số lượng lên 1 + set lại stt và vị trí của các panel
+                        if (currentPanel.LblDetailProductId.Text == productFrBarcode.ProductId)
+                        {
+                            //Nếu detailPanel đang ở trên top thì không cần đẩy nó lên top, ngược lại thì đẩy nó lên top và set lại ordinalNumber của các detail
+                            if (i != 0)
+                            {
+                                panelDetailInfo topPanel = (panelDetailInfo)this.fpnShowDetailOrder.Controls[0];
+                                this.fpnShowDetailOrder.Controls.SetChildIndex(currentPanel, 0);
+                                this.resetOrdinalNumber();
+                            }
+                            //Tạo hai biến lưu trữ số lượng của detailQuantity và số lượng sản phẩm tồn kho
+                            int detailQuantity = int.Parse(currentPanel.TxtDetailQuantity.Text);
+                            //int productQuantity = productFrBarcode.Quantity;
+                            //Nếu bằng nhau thì show thông báo và không thực hiện gì cả
+                            if (detailQuantity + inputQuantity > productQuantity)
+                            {
+                                MessageBox.Show($"Bạn chỉ được chọn bán tối đa {productQuantity} sản phẩm này!", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                            }
+                            else //Ngược lại thì tăng quantity của detailPanel tìm thấy lên 
+                            {
+                                currentPanel.TxtDetailQuantity.Text = (int.Parse(currentPanel.TxtDetailQuantity.Text) + inputQuantity).ToString();
+                            }
+                            //Sau khi thao tác thì cuộn scrollBar về top
+                            this.setFlowLayoutAtTop();
+                            //Sau khi thêm vào panel thì remove all focus của form để scrollBar không bị dừng lại khi kéo
+                            this.ActiveControl = null;
+                            //Nếu đã tìm thấy, xử lý xong thì return hàm
+                            return;
+                        }
+                    }
+
+                    //Nếu không thì tạo panelDetailInfo and add to above fpnShowDetailOrder
+
+                    if (inputQuantity > productQuantity)
+                    {
+                        MessageBox.Show($"Bạn chỉ được chọn bán tối đa {productQuantity} sản phẩm này!", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Information);
+
+                    }
+                    else
+                    {
+                        //tạo panelDetailInfo and add to above fpnShowDetailOrder
+                        panelDetailInfo newPanel = new panelDetailInfo(this.fpnShowDetailOrder.Controls.Count + 1,
+                                                                            productFrBarcode.ProductId,
+                                                                            productFrBarcode.ProductName,
+                                                                            inputQuantity,
+                                                                            productFrBarcode.PriceToSell,
+                                                                            productQuantity, this);
+                        //Đăng ký sự kiện khi nhấn vào picTureBox trash icon
+                        newPanel.PicTrash.Click += delegate
+                        {
+                            this.fpnShowDetailOrder.Controls.Remove(newPanel);
+                            //Hàm reset lại ordinalNumber của các detailPanel trong flowLayoutPanel khi xóa một de
+                            this.resetOrdinalNumber();
+                            //Sau khi xóa một ui detail thì setup lại total của pnDisplayItemOrder
+                            this.resetTotalOrderInfo(newPanel, "del");
+                            //Reset lại lblPoint và lblDiscount nếu đã chọn customer
+                            this.resetPointAndDiscount();
+                        };
+                        //Đăng kí sự kiện khi thay đổi detailUnitPrice thì Total của order cũng thay đổi theo
+                        newPanel.LblDetailUnitPrice.TextChanged += delegate
+                        {
+                            this.resetTotalOrderInfo(newPanel, "update");
+                            this.resetPointAndDiscount();
+                        };
+                        //Add panelDetailInfo vào flowLayout
+                        this.fpnShowDetailOrder.Controls.Add(newPanel);
+                        this.fpnShowDetailOrder.Controls.SetChildIndex(newPanel, 0);
+                        //Sau khi thêm thì cuộn scrollBar về top
+                        this.setFlowLayoutAtTop();
+                        //Sau khi thêm vào panel thì remove all focus của form để scrollBar không bị dừng lại khi kéo
+                        this.ActiveControl = null;
+                        //Sau đó set lại total của hóa đơn pnDisplayItemOrder
+                        this.resetTotalOrderInfo(newPanel, "add");
+                        //Reset lại lblPoint và lblDiscount nếu đã chọn customer
+                        this.resetPointAndDiscount();
+
+                    }
+                }
+                else
+                {
+                    MessageBox.Show("Không thể bán sản phẩm có số lượng tồn = 0!", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                }
+                tbBarcodeQuantity.Text = string.Empty;
+                lblProductIdBarcode.Text = string.Empty;
+                lblProductNameBarcode.Text = string.Empty;
+                tbBarcodeQuantity.Enabled = false;
+                btnConfirmBarcode.Enabled = false;
+
+        }
+
+        private void OnlyNumber_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            if (!char.IsNumber(e.KeyChar) && !(e.KeyChar == (char)8))
+            {
+                e.Handled = true;
+            }
         }
     }
 

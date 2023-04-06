@@ -200,7 +200,7 @@ namespace DAO
             con.Open();
             try
             {
-                SqlCommand cmd = new SqlCommand("select C.CategoryName, P.ProductId,  P.ProductName, P.Unit, P.ImportPrice, P.PriceToSell, P.Quantity, P.ProductImg, P.StatusItem from Product as P, Category as C where P.CategoryId = C.CategoryId and P.StatusItem = 1;", con);
+                SqlCommand cmd = new SqlCommand("select C.CategoryName, P.ProductId,  P.ProductName, P.Unit, P.ImportPrice, P.PriceToSell, P.Quantity, P.ProductImg, P.StatusItem, P.Barcode from Product as P, Category as C where P.CategoryId = C.CategoryId and P.StatusItem = 1;", con);
                 SqlDataAdapter adt = new SqlDataAdapter(cmd);
                 adt.Fill(dt);
             } catch (SqlException)

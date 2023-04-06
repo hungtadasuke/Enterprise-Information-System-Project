@@ -52,6 +52,7 @@
             this.txtQuantity = new GUI.HRJTextBox();
             this.btnSubQuantity = new GUI.HRJButton();
             this.btnAddQuantity = new GUI.HRJButton();
+            this.hrjTextBox1 = new GUI.HRJTextBox();
             this.txtPriceToSell = new GUI.HRJTextBox();
             this.cBProductUnit = new GUI.HRJComboBox();
             this.txtImportPrice = new GUI.HRJTextBox();
@@ -61,6 +62,7 @@
             this.cBCategory = new GUI.HRJComboBox();
             this.lblProductImg = new System.Windows.Forms.Label();
             this.lblQuantity = new System.Windows.Forms.Label();
+            this.lblBarcode = new System.Windows.Forms.Label();
             this.lblPriceToSell = new System.Windows.Forms.Label();
             this.lblImportPrice = new System.Windows.Forms.Label();
             this.lblUnit = new System.Windows.Forms.Label();
@@ -322,6 +324,7 @@
             this.pnBodyLeft.Controls.Add(this.txtQuantity);
             this.pnBodyLeft.Controls.Add(this.btnSubQuantity);
             this.pnBodyLeft.Controls.Add(this.btnAddQuantity);
+            this.pnBodyLeft.Controls.Add(this.hrjTextBox1);
             this.pnBodyLeft.Controls.Add(this.txtPriceToSell);
             this.pnBodyLeft.Controls.Add(this.cBProductUnit);
             this.pnBodyLeft.Controls.Add(this.txtImportPrice);
@@ -331,6 +334,7 @@
             this.pnBodyLeft.Controls.Add(this.cBCategory);
             this.pnBodyLeft.Controls.Add(this.lblProductImg);
             this.pnBodyLeft.Controls.Add(this.lblQuantity);
+            this.pnBodyLeft.Controls.Add(this.lblBarcode);
             this.pnBodyLeft.Controls.Add(this.lblPriceToSell);
             this.pnBodyLeft.Controls.Add(this.lblImportPrice);
             this.pnBodyLeft.Controls.Add(this.lblUnit);
@@ -355,7 +359,7 @@
             this.txtQuantity.Enabled = false;
             this.txtQuantity.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtQuantity.ForeColor = System.Drawing.Color.Black;
-            this.txtQuantity.Location = new System.Drawing.Point(212, 372);
+            this.txtQuantity.Location = new System.Drawing.Point(212, 381);
             this.txtQuantity.Multiline = false;
             this.txtQuantity.Name = "txtQuantity";
             this.txtQuantity.Padding = new System.Windows.Forms.Padding(10, 7, 10, 7);
@@ -380,7 +384,7 @@
             this.btnSubQuantity.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnSubQuantity.ForeColor = System.Drawing.Color.White;
             this.btnSubQuantity.Image = global::GUI.Properties.Resources.minus1;
-            this.btnSubQuantity.Location = new System.Drawing.Point(141, 372);
+            this.btnSubQuantity.Location = new System.Drawing.Point(141, 381);
             this.btnSubQuantity.Name = "btnSubQuantity";
             this.btnSubQuantity.Size = new System.Drawing.Size(50, 30);
             this.btnSubQuantity.TabIndex = 20;
@@ -403,7 +407,7 @@
             this.btnAddQuantity.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnAddQuantity.ForeColor = System.Drawing.Color.White;
             this.btnAddQuantity.Image = global::GUI.Properties.Resources.plus;
-            this.btnAddQuantity.Location = new System.Drawing.Point(288, 372);
+            this.btnAddQuantity.Location = new System.Drawing.Point(288, 381);
             this.btnAddQuantity.Name = "btnAddQuantity";
             this.btnAddQuantity.Size = new System.Drawing.Size(50, 30);
             this.btnAddQuantity.TabIndex = 4;
@@ -414,6 +418,27 @@
             this.btnAddQuantity.MouseEnter += new System.EventHandler(this.btnAddQuantity_MouseEnter);
             this.btnAddQuantity.MouseLeave += new System.EventHandler(this.btnAddQuantity_MouseLeave);
             // 
+            // hrjTextBox1
+            // 
+            this.hrjTextBox1.BackColor = System.Drawing.Color.White;
+            this.hrjTextBox1.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(136)))), ((int)(((byte)(232)))));
+            this.hrjTextBox1.BorderFocusColor = System.Drawing.Color.OrangeRed;
+            this.hrjTextBox1.BorderRadius = 0;
+            this.hrjTextBox1.BorderSize = 1;
+            this.hrjTextBox1.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.hrjTextBox1.ForeColor = System.Drawing.Color.Black;
+            this.hrjTextBox1.Location = new System.Drawing.Point(141, 335);
+            this.hrjTextBox1.Multiline = false;
+            this.hrjTextBox1.Name = "hrjTextBox1";
+            this.hrjTextBox1.Padding = new System.Windows.Forms.Padding(10, 7, 10, 7);
+            this.hrjTextBox1.PasswordChar = false;
+            this.hrjTextBox1.PlaceholderColor = System.Drawing.Color.DarkGray;
+            this.hrjTextBox1.PlaceholderText = "";
+            this.hrjTextBox1.Size = new System.Drawing.Size(197, 32);
+            this.hrjTextBox1.TabIndex = 2;
+            this.hrjTextBox1.UnderlineStyle = false;
+            this.hrjTextBox1._TextChanged += new System.EventHandler(this.txtPriceToSell__TextChanged);
+            // 
             // txtPriceToSell
             // 
             this.txtPriceToSell.BackColor = System.Drawing.Color.White;
@@ -423,7 +448,7 @@
             this.txtPriceToSell.BorderSize = 1;
             this.txtPriceToSell.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtPriceToSell.ForeColor = System.Drawing.Color.Black;
-            this.txtPriceToSell.Location = new System.Drawing.Point(141, 318);
+            this.txtPriceToSell.Location = new System.Drawing.Point(141, 285);
             this.txtPriceToSell.Multiline = false;
             this.txtPriceToSell.Name = "txtPriceToSell";
             this.txtPriceToSell.Padding = new System.Windows.Forms.Padding(10, 7, 10, 7);
@@ -446,7 +471,7 @@
             this.cBProductUnit.IconColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(136)))), ((int)(((byte)(232)))));
             this.cBProductUnit.ListBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
             this.cBProductUnit.ListTextColor = System.Drawing.Color.Black;
-            this.cBProductUnit.Location = new System.Drawing.Point(141, 208);
+            this.cBProductUnit.Location = new System.Drawing.Point(141, 182);
             this.cBProductUnit.MinimumSize = new System.Drawing.Size(100, 20);
             this.cBProductUnit.Name = "cBProductUnit";
             this.cBProductUnit.Padding = new System.Windows.Forms.Padding(1);
@@ -463,7 +488,7 @@
             this.txtImportPrice.BorderSize = 1;
             this.txtImportPrice.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtImportPrice.ForeColor = System.Drawing.Color.Black;
-            this.txtImportPrice.Location = new System.Drawing.Point(141, 263);
+            this.txtImportPrice.Location = new System.Drawing.Point(141, 232);
             this.txtImportPrice.Multiline = false;
             this.txtImportPrice.Name = "txtImportPrice";
             this.txtImportPrice.Padding = new System.Windows.Forms.Padding(10, 7, 10, 7);
@@ -484,7 +509,7 @@
             this.txtProductName.BorderSize = 1;
             this.txtProductName.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtProductName.ForeColor = System.Drawing.Color.Black;
-            this.txtProductName.Location = new System.Drawing.Point(141, 132);
+            this.txtProductName.Location = new System.Drawing.Point(141, 111);
             this.txtProductName.Multiline = true;
             this.txtProductName.Name = "txtProductName";
             this.txtProductName.Padding = new System.Windows.Forms.Padding(10, 7, 10, 7);
@@ -505,7 +530,7 @@
             this.txtProductId.Enabled = false;
             this.txtProductId.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtProductId.ForeColor = System.Drawing.Color.Black;
-            this.txtProductId.Location = new System.Drawing.Point(141, 78);
+            this.txtProductId.Location = new System.Drawing.Point(141, 61);
             this.txtProductId.Multiline = false;
             this.txtProductId.Name = "txtProductId";
             this.txtProductId.Padding = new System.Windows.Forms.Padding(10, 7, 10, 7);
@@ -538,7 +563,7 @@
             this.cBCategory.IconColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(136)))), ((int)(((byte)(232)))));
             this.cBCategory.ListBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
             this.cBCategory.ListTextColor = System.Drawing.Color.Black;
-            this.cBCategory.Location = new System.Drawing.Point(141, 26);
+            this.cBCategory.Location = new System.Drawing.Point(141, 14);
             this.cBCategory.MinimumSize = new System.Drawing.Size(100, 20);
             this.cBCategory.Name = "cBCategory";
             this.cBCategory.Padding = new System.Windows.Forms.Padding(1);
@@ -550,7 +575,7 @@
             // 
             this.lblProductImg.AutoSize = true;
             this.lblProductImg.Font = new System.Drawing.Font("Segoe UI Semibold", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblProductImg.Location = new System.Drawing.Point(24, 449);
+            this.lblProductImg.Location = new System.Drawing.Point(24, 452);
             this.lblProductImg.Name = "lblProductImg";
             this.lblProductImg.Size = new System.Drawing.Size(78, 20);
             this.lblProductImg.TabIndex = 17;
@@ -561,18 +586,29 @@
             // 
             this.lblQuantity.AutoSize = true;
             this.lblQuantity.Font = new System.Drawing.Font("Segoe UI Semibold", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblQuantity.Location = new System.Drawing.Point(24, 377);
+            this.lblQuantity.Location = new System.Drawing.Point(24, 386);
             this.lblQuantity.Name = "lblQuantity";
             this.lblQuantity.Size = new System.Drawing.Size(108, 20);
             this.lblQuantity.TabIndex = 16;
             this.lblQuantity.Text = "Số Lượng Còn:";
             this.lblQuantity.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             // 
+            // lblBarcode
+            // 
+            this.lblBarcode.AutoSize = true;
+            this.lblBarcode.Font = new System.Drawing.Font("Segoe UI Semibold", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblBarcode.Location = new System.Drawing.Point(24, 342);
+            this.lblBarcode.Name = "lblBarcode";
+            this.lblBarcode.Size = new System.Drawing.Size(71, 20);
+            this.lblBarcode.TabIndex = 15;
+            this.lblBarcode.Text = "Mã vạch:";
+            this.lblBarcode.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            // 
             // lblPriceToSell
             // 
             this.lblPriceToSell.AutoSize = true;
             this.lblPriceToSell.Font = new System.Drawing.Font("Segoe UI Semibold", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblPriceToSell.Location = new System.Drawing.Point(24, 323);
+            this.lblPriceToSell.Location = new System.Drawing.Point(24, 290);
             this.lblPriceToSell.Name = "lblPriceToSell";
             this.lblPriceToSell.Size = new System.Drawing.Size(86, 20);
             this.lblPriceToSell.TabIndex = 15;
@@ -583,7 +619,7 @@
             // 
             this.lblImportPrice.AutoSize = true;
             this.lblImportPrice.Font = new System.Drawing.Font("Segoe UI Semibold", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblImportPrice.Location = new System.Drawing.Point(24, 267);
+            this.lblImportPrice.Location = new System.Drawing.Point(24, 236);
             this.lblImportPrice.Name = "lblImportPrice";
             this.lblImportPrice.Size = new System.Drawing.Size(107, 20);
             this.lblImportPrice.TabIndex = 14;
@@ -594,7 +630,7 @@
             // 
             this.lblUnit.AutoSize = true;
             this.lblUnit.Font = new System.Drawing.Font("Segoe UI Semibold", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblUnit.Location = new System.Drawing.Point(24, 210);
+            this.lblUnit.Location = new System.Drawing.Point(24, 184);
             this.lblUnit.Name = "lblUnit";
             this.lblUnit.Size = new System.Drawing.Size(94, 20);
             this.lblUnit.TabIndex = 13;
@@ -605,7 +641,7 @@
             // 
             this.lblProductName.AutoSize = true;
             this.lblProductName.Font = new System.Drawing.Font("Segoe UI Semibold", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblProductName.Location = new System.Drawing.Point(24, 146);
+            this.lblProductName.Location = new System.Drawing.Point(24, 125);
             this.lblProductName.Name = "lblProductName";
             this.lblProductName.Size = new System.Drawing.Size(109, 20);
             this.lblProductName.TabIndex = 12;
@@ -616,7 +652,7 @@
             // 
             this.lblProductId.AutoSize = true;
             this.lblProductId.Font = new System.Drawing.Font("Segoe UI Semibold", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblProductId.Location = new System.Drawing.Point(24, 82);
+            this.lblProductId.Location = new System.Drawing.Point(24, 65);
             this.lblProductId.Name = "lblProductId";
             this.lblProductId.Size = new System.Drawing.Size(107, 20);
             this.lblProductId.TabIndex = 11;
@@ -627,7 +663,7 @@
             // 
             this.lblCategory.AutoSize = true;
             this.lblCategory.Font = new System.Drawing.Font("Segoe UI Semibold", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblCategory.Location = new System.Drawing.Point(24, 29);
+            this.lblCategory.Location = new System.Drawing.Point(24, 17);
             this.lblCategory.Name = "lblCategory";
             this.lblCategory.Size = new System.Drawing.Size(97, 20);
             this.lblCategory.TabIndex = 10;
@@ -683,7 +719,7 @@
             this.picProduct.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.picProduct.Cursor = System.Windows.Forms.Cursors.Hand;
             this.picProduct.Image = global::GUI.Properties.Resources.ef3_placeholder_image;
-            this.picProduct.Location = new System.Drawing.Point(166, 427);
+            this.picProduct.Location = new System.Drawing.Point(166, 430);
             this.picProduct.Name = "picProduct";
             this.picProduct.Size = new System.Drawing.Size(147, 99);
             this.picProduct.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
@@ -1015,5 +1051,7 @@
         private System.Windows.Forms.DataGridViewImageColumn productImg;
         private System.Windows.Forms.DataGridViewTextBoxColumn productStatus;
         private System.Windows.Forms.PictureBox picHome;
+        private System.Windows.Forms.Label lblBarcode;
+        private HRJTextBox hrjTextBox1;
     }
 }
