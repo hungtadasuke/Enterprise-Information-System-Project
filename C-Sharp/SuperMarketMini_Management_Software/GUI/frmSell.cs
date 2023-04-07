@@ -1074,7 +1074,10 @@ namespace GUI
                             this.setFlowLayoutAtTop();
                             //Sau khi thêm vào panel thì remove all focus của form để scrollBar không bị dừng lại khi kéo
                             this.ActiveControl = null;
+
+                            ClearBarcode();
                             //Nếu đã tìm thấy, xử lý xong thì return hàm
+
                             return;
                         }
                     }
@@ -1084,7 +1087,6 @@ namespace GUI
                     if (inputQuantity > productQuantity)
                     {
                         MessageBox.Show($"Bạn chỉ được chọn bán tối đa {productQuantity} sản phẩm này!", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Information);
-
                     }
                     else
                     {
@@ -1130,12 +1132,18 @@ namespace GUI
                 {
                     MessageBox.Show("Không thể bán sản phẩm có số lượng tồn = 0!", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Information);
                 }
-                tbBarcodeQuantity.Text = string.Empty;
-                lblProductIdBarcode.Text = string.Empty;
-                lblProductNameBarcode.Text = string.Empty;
-                tbBarcodeQuantity.Enabled = false;
-                btnConfirmBarcode.Enabled = false;
+                ClearBarcode();
 
+        }
+
+        private void ClearBarcode()
+        {
+            tbBarcodeQuantity.Text = string.Empty;
+            lblProductIdBarcode.Text = string.Empty;
+            lblProductNameBarcode.Text = string.Empty;
+            tbBarcodeQuantity.Enabled = false;
+            btnConfirmBarcode.Enabled = false;
+            barcode_old = null;
         }
 
         private void OnlyNumber_KeyPress(object sender, KeyPressEventArgs e)
