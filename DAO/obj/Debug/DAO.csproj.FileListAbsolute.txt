@@ -232,3 +232,12 @@ C:\Users\Khoa\Desktop\git\Enterprise-Information-System-Project\C-Sharp\SuperMar
 C:\Users\Khoa\Desktop\git\Enterprise-Information-System-Project\C-Sharp\SuperMarketMini_Management_Software\DAO\bin\Debug\DTO.dll
 C:\Users\Khoa\Desktop\git\Enterprise-Information-System-Project\C-Sharp\SuperMarketMini_Management_Software\DAO\bin\Debug\DTO.pdb
 C:\Users\Khoa\Desktop\git\Enterprise-Information-System-Project\C-Sharp\SuperMarketMini_Management_Software\DAO\obj\Debug\DAO.csproj.CopyComplete
+D:\Intern\Enterprise-Information-System-Project\DAO\bin\Debug\DAO.dll
+D:\Intern\Enterprise-Information-System-Project\DAO\bin\Debug\DAO.pdb
+D:\Intern\Enterprise-Information-System-Project\DAO\bin\Debug\DTO.dll
+D:\Intern\Enterprise-Information-System-Project\DAO\bin\Debug\DTO.pdb
+D:\Intern\Enterprise-Information-System-Project\DAO\obj\Debug\DAO.csproj.AssemblyReference.cache
+D:\Intern\Enterprise-Information-System-Project\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+D:\Intern\Enterprise-Information-System-Project\DAO\obj\Debug\DAO.csproj.Up2Date
+D:\Intern\Enterprise-Information-System-Project\DAO\obj\Debug\DAO.dll
+D:\Intern\Enterprise-Information-System-Project\DAO\obj\Debug\DAO.pdb

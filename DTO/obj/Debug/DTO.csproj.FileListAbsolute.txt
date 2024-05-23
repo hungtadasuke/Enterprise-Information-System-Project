@@ -99,3 +99,9 @@ C:\Users\Khoa\Desktop\git\Enterprise-Information-System-Project\C-Sharp\SuperMar
 C:\Users\Khoa\Desktop\git\Enterprise-Information-System-Project\C-Sharp\SuperMarketMini_Management_Software\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
 C:\Users\Khoa\Desktop\git\Enterprise-Information-System-Project\C-Sharp\SuperMarketMini_Management_Software\DTO\obj\Debug\DTO.dll
 C:\Users\Khoa\Desktop\git\Enterprise-Information-System-Project\C-Sharp\SuperMarketMini_Management_Software\DTO\obj\Debug\DTO.pdb
+D:\Intern\Enterprise-Information-System-Project\DTO\bin\Debug\DTO.dll
+D:\Intern\Enterprise-Information-System-Project\DTO\bin\Debug\DTO.pdb
+D:\Intern\Enterprise-Information-System-Project\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\Intern\Enterprise-Information-System-Project\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\Intern\Enterprise-Information-System-Project\DTO\obj\Debug\DTO.dll
+D:\Intern\Enterprise-Information-System-Project\DTO\obj\Debug\DTO.pdb
